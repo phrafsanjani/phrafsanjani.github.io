@@ -16,4 +16,4 @@ and applications of statistics in psychology, economics and social sciences.
 
 ## Website Overview
 
-* I write Linux commands I use very often on the [Linux Commands](/menu1/) page.
+* I write Linux commands I use very often on the [Linux Commands](/commands/) page.
