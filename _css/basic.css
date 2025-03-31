@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width: 100%;
   display: inline-block;
 }
 
@@ -22,7 +22,7 @@ nav li a {
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
-  display: inline-block;
+  display: inline;
   float: center;
   padding-top: 10px;
   padding-right: 2px;
@@ -35,11 +35,7 @@ nav li a {
 }
 
 header {
-  text-align: right;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  display: flex;
-  align-items: center;
+  display: block;
 }
 
 header .blog-name {
@@ -187,4 +183,28 @@ td {
 
 table tbody tr td {
   border: 1px solid lightgray;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
+.social {
+  display: flex;
+  font-size: 0.2rem;
+  align-items: center;
+}
+
+.social-btn, .social-btn:hover {
+  height: 48px;
+  width: 48px;
+  display: inline-block;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+  align-content: center;
 }
