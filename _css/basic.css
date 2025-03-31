@@ -197,6 +197,7 @@ table tbody tr td {
   display: flex;
   font-size: 0.2rem;
   align-items: center;
+  padding-left: 0;
 }
 
 .social-btn, .social-btn:hover {
@@ -205,6 +206,7 @@ table tbody tr td {
   display: inline-block;
   padding-top: 0;
   padding-bottom: 0;
+  margin-right: 5px;
   border-bottom: none;
   align-content: center;
 }
