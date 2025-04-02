@@ -9,7 +9,6 @@
 
 📍 Tehran, Iran  
 - **GPA:** 19.40 / 20.00 (4.0/4.0)  
-- **Relevant Coursework:** [Course 1], [Course 2], [Course 3]  
 - **Honors/Awards:**
     - **Ranked first among 2020 students in Computer Science**
     - **Outstanding 10% student**
