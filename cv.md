@@ -17,26 +17,38 @@
         - *achieved a GPA exceeding 17 out of 20 across all semesters, surpassing the requirement of maintaining a GPA above 17 out of 20 in at least three out of the first four semesters*
 
 ## Teaching Assistant Experience  
-**Numerical Linear Algebra** *(Professor: Mehdi Dehghan)*  
-📅 Jan. 2024 – present | Department of Mathematics & Computer Science @ Amirkabir University of Technology  
+**Numerical Linear Algebra** *(Professor: Mehdi Dehghan)*
+
+📅 Jan. 2024 – present
+
+📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Developing project ideas and design course theoretical and practical Python exercises in LaTex  
 - Correcting course lecture notes  
 - Having students present their exercises and grading them  
 
-**Artificial Intelligence** *(Professor: Mehdi Ghatee)*  
-📅 Sept. 2023 – Feb. 2024 | Department of Mathematics & Computer Science @ Amirkabir University of Technology  
+**Artificial Intelligence** *(Professor: Mehdi Ghatee)*
+
+📅 Sept. 2023 – Feb. 2024
+
+📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Selected as one of 10 team members out of 34 applicants  
 - Created project instructions based on syllabus  
 - Helped students with their homework  
 
-**Advanced Programming** *(Professor: Mehdi Ghatee)*  
-📅 Sept. 2023 – Feb. 2024 | Department of Mathematics & Computer Science @ Amirkabir University of Technology  
+**Advanced Programming** *(Professor: Mehdi Ghatee)*
+
+📅 Sept. 2023 – Feb. 2024
+
+📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Designed lecture notes on Serialization and File I/O and Classes in Java  
 - Gave lectures in weekly labs  
-- Developed project ideas and exercises (Image Viewer, RSS Reader, …)  
+- Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
 - Had students present their projects and graded them  
 
-**Principles of Operating Systems** *(Professor: Mohammad Mahdi Bejani)*  
-📅 Feb. 2023 – July 2023 | Department of Mathematics & Computer Science @ Amirkabir University of Technology  
+**Principles of Operating Systems** *(Professor: Mohammad Mahdi Bejani)*
+
+📅 Feb. 2023 – July 2023
+
+📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Developed project ideas  
 - Had students present their projects and graded them  
