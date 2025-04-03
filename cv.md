@@ -40,7 +40,7 @@
 📅 Sept. 2023 – Feb. 2024
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
-- Designed lecture notes on Serialization and File I/O and Classes in Java  
+- Designed lecture notes on [Serialization and File I/O](https://github.com/parasilius/aut-materials/blob/main/ta/lab4.pdf) and [Classes](https://github.com/parasilius/aut-materials/blob/main/ta/main.pdf) in Java  
 - Gave lectures in weekly labs  
 - Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
 - Had students present their projects and graded them  
