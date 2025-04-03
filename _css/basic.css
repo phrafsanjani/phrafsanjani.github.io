@@ -117,6 +117,14 @@ instead, display a burger menu.
 
   .menu-icon {
     grid-area: hamburger;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    padding: 30px 20px 30px 0;
+    position: relative;
+    user-select: none;
+    visibility: visible;
   }
 
   .social {
