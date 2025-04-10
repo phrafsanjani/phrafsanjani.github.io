@@ -32,7 +32,8 @@
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Selected as one of 10 team members out of 34 applicants  
-- Created project instructions based on syllabus  
+- Created [project instructions](https://github.com/parasilius/aut-materials/tree/main/ta/ai/guides) based on syllabus  
+- Gave a lecture on [Probabilistic Reasoning](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
 - Helped students with their homework  
 
 **Advanced Programming** *(Professor: Mehdi Ghatee)*
@@ -40,7 +41,7 @@
 📅 Sept. 2023 – Feb. 2024
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
-- Designed lecture notes on [Serialization and File I/O](https://github.com/parasilius/aut-materials/blob/main/ta/lab4.pdf) and [Classes](https://github.com/parasilius/aut-materials/blob/main/ta/main.pdf) in Java  
+- Designed lecture notes on [Serialization and File I/O](https://github.com/parasilius/aut-materials/blob/main/ta/ap/lab4.pdf) and [Classes](https://github.com/parasilius/aut-materials/blob/main/ta/ap/main.pdf) in Java  
 - Gave lectures in weekly labs  
 - Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
 - Had students present their projects and graded them  
