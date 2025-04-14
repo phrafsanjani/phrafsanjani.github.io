@@ -114,6 +114,10 @@ instead, display a burger menu.
     grid-area: social-buttons;
   }
 
+  .social img {
+    width: 100%;
+  }
+
   .menu-nav ul {
     display: flex;
     flex-direction: column;
