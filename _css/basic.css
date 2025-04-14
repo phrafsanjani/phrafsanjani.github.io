@@ -39,6 +39,11 @@ header {
   align-items: center;
   flex-wrap: nowrap;
   overflow: hidden;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #fff;
+  opacity: 0.95;
 }
 
 header .blog-name {
