@@ -95,7 +95,7 @@ header li a:hover {
 narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
 */
-@media (max-width: 840px) {
+@media (max-width: 730px) {
   header {
     display: grid;
     grid-template-areas:
@@ -238,8 +238,8 @@ table tbody tr td {
 }
 
 .social-btn, .social-btn:hover {
-  height: 48px;
-  width: 48px;
+  height: 30px;
+  width: 30px;
   display: inline-block;
   padding-top: 0;
   padding-bottom: 0;
