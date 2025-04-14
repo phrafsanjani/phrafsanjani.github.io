@@ -114,10 +114,6 @@ instead, display a burger menu.
     grid-area: social-buttons;
   }
 
-  .social img {
-    width: 100%;
-  }
-
   .menu-nav ul {
     display: flex;
     flex-direction: column;
@@ -230,6 +226,10 @@ table tbody tr td {
   font-size: 0.2rem;
   align-items: center;
   padding-left: 0;
+}
+
+.social img {
+  width: 100%;
 }
 
 .social-btn, .social-btn:hover {
