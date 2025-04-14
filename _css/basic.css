@@ -95,7 +95,7 @@ header li a:hover {
 narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
 */
-@media (max-width: 730px) {
+@media (max-width: 745px) {
   header {
     display: grid;
     grid-template-areas:
