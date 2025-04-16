@@ -66,6 +66,8 @@ header li a:hover {
 
 #menu-icon {
   display: none;
+  position: relative;
+  overflow: hidden;
 }
 
 @media (max-width: 480px) {
@@ -99,8 +101,10 @@ instead, display a burger menu.
   header {
     display: grid;
     grid-template-areas:
-      "social-buttons    social-buttons    hamburger"
-      "nav               nav               nav";
+      "social-buttons    social-buttons    hamburger";
+    position: sticky;
+    top: 0;
+    z-index: 1000;
   }
 
   .menu-icon {
@@ -132,7 +136,6 @@ instead, display a burger menu.
   }
 
   .menu-nav {
-    grid-area: nav;
     max-height: 0;
     max-width: unset;
     overflow: hidden;
@@ -142,6 +145,11 @@ instead, display a burger menu.
     background-color: #fff;
     display: flex;
     flex-direction: column;
+    position: fixed;
+    top: 60px;
+    z-index: 10000;
+    left: 0;
+    right: 0;
   }
 
   .menu-btn:checked ~ .menu-nav {
