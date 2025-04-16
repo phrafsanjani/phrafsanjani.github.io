@@ -270,3 +270,7 @@ ul {
   top: -100%;
   left: -100%;
 }
+
+html {
+  scroll-padding-top: 62px;
+}
