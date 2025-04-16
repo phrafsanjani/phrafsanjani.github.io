@@ -257,6 +257,7 @@ ul {
 }
 
 #menu-btn {
+  display: none;
   position: absolute;
   top: -100%;
   left: -100%;
