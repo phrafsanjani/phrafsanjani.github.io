@@ -1,5 +1,8 @@
 # Curriculum Vitae
 
+**Note:** This is a condensed version of my CV.
+Further details may be added in future revisions.
+
 \toc
 
 ## Education
