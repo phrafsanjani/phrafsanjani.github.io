@@ -1,4 +1,4 @@
-@def title = "Parsa Hosseini"
+@def title = "Parsa Hosseinipour"
 @def tags = ["syntax", "code"]
 
 # About Me
