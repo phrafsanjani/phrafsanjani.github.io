@@ -12,6 +12,7 @@ Further details may be added in future revisions.
 
 📍 Tehran, Iran  
 - **GPA:** 19.40 / 20.00 (4.0/4.0)  
+- **Selected Coursework:** Introduction to Probability (A+), Probability (I) (A+), Statistical Methods (A+), Stochastic Processes (I) (A+), Foundation of Mathematical Analysis (A+), Data Mining (A+), Fundamentals of Bioinformatics (A+), Database & Workshop (A), Advanced Programming (A+), Numerical Linear Algebra (A+), Artificial Intelligence & Workshop (A+)
 - **Honors/Awards:**
     - **Ranked first among 2020 students in Computer Science**
     - **Outstanding 10% student**
