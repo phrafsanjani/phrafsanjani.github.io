@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-**Note:** This is a condensed and informal version of my CV.
+**Note:** This is an informal and condensed version of my CV.
 Further details may be added in future revisions.
 
 \toc
