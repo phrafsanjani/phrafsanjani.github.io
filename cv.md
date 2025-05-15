@@ -20,6 +20,11 @@ Further details may be added in future revisions.
     - **Outstanding university student**
         - *achieved a GPA exceeding 17 out of 20 across all semesters, surpassing the requirement of maintaining a GPA above 17 out of 20 in at least three out of the first four semesters*
 
+## Manuscripts
+
+- **Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions**
+    - *Collaboration with Dr. Adel Mohammadpour (University of Calgary)*: We propose a unified framework for testing hypotheses within a general form of the exponential family, from which tests for other well-known special distributions can be derived.
+
 ## Teaching Assistant Experience  
 **Numerical Linear Algebra** *(Professor: Mehdi Dehghan)*
 
