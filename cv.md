@@ -56,3 +56,10 @@ Further details may be added in future revisions.
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Developed project ideas  
 - Had students present their projects and graded them  
+
+## Technical Skills
+
+- **Languages:** Python, R, Bash, C/C++, Java, SQL, JavaScript, HTML/CSS
+- **Libraries:** PyTorch, scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib
+- **Developer Tools:** Git, VS Code, PyCharm, R Studio, RapidMiner, Qt Creator, IntelliJ, Visual Studio
+- **Operating Systems:** GNU/Linux, Windows
