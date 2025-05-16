@@ -30,21 +30,22 @@ Take computational biology: its fusion of statistics, CS, and biology represents
 
 ## Philosophy, Psychology, and Economics
 
-Beyond mathematics, statistics, and programming, I firmly believe psychology, philosophy, and economics are essential knowledge domains for every well-rounded individual.
+Beyond mathematics, statistics, and programming, I firmly believe philosophy, psychology, and economics are essential knowledge domains for every well-rounded individual.
 
-In a letter to his friend Lucilius, Seneca delivers a striking meditation on philosophy’s transformative power:
-> Philosophy asserts its power. It grants us time; it does not merely accept what we give to it.  
-> Philosophy is a full-time job, not a hobby; it is our supervisor, and orders us to appear.
-He reinforces this with a vivid analogy:
-> Alexander once said to a town that promised him part of its arable land and half of all its
-> production, “My purpose in coming to Asia was not to receive any
-> gifts you might give, but to allow you to keep anything that I might
-> leave.” Philosophy says the same thing, but in every situation. “I am
-> not going to accept just the time you have left over; rather, you will
-> have what I reject.”
-He then continues:
-> Turn your entire mind to philosophy. Sit by philosophy and serve it, and you will be much above other people.
-― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 53. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
+In a letter to his friend Lucilius, Seneca proclaims philosophy's universal invitation:
+> Philosophy neither rejects anyone nor chooses anyone; it shines
+> for all. Socrates was no patrician; Cleanthes hauled water, and hired
+> himself out to water people’s gardens; Plato did not come to philosophy
+> a nobleman but was ennobled by it. Why should you not hope
+> perhaps to become their equal? All of them are your ancestors if you
+> prove yourself worthy of them. And you will do so if you persuade
+> yourself, right now, that no one is superior to you merely by reason
+> of noble birth.
+― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 44. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
+
+In another letter, he writes:
+> Would you like to know what philosophy has to oﬀer the human race? Advice!
+― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 48. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
 
 My interest in psychology focuses specifically on close relationships, singlehood, and personality. These are concepts I've deeply contemplated in my personal life, and I believe rigorous research in these areas is profoundly important.
 
