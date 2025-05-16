@@ -29,7 +29,7 @@ Further details may be added in future revisions.
     - *Achieved a GPA exceeding 17.00 out of 20.00 across all semesters at Amirkabir University of Technology, surpassing the requirement of maintaining a GPA above 17.00 out of 20.00 in at least three out of the first four semesters*
 
 ## Teaching Experience  
-**Numerical Linear Algebra** *(Professor: Mehdi Dehghan)*
+**Teaching Assistant - Numerical Linear Algebra** *(Course Instructor: Mehdi Dehghan)*
 
 📅 Jan. 2024 – present
 
@@ -38,7 +38,7 @@ Further details may be added in future revisions.
 - Edit and proofread course lecture notes 
 - Administer oral examinations and evaluate student performance
 
-**Artificial Intelligence** *(Professor: Mehdi Ghatee)*
+**Teaching Assistant - Artificial Intelligence** *(Course Instructor: Mehdi Ghatee)*
 
 📅 Sept. 2023 – Feb. 2024
 
@@ -48,7 +48,7 @@ Further details may be added in future revisions.
 - Delivered a lecture on [Probabilistic Reasoning (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
 - Provided academic support to students for homework assignments
 
-**Advanced Programming** *(Professor: Mehdi Ghatee)*
+**Teaching Assistant - Advanced Programming** *(Course Instructor: Mehdi Ghatee)*
 
 📅 Sept. 2023 – Feb. 2024
 
@@ -58,7 +58,7 @@ Further details may be added in future revisions.
 - Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
 - Administered oral examinations and evaluated student performance
 
-**Principles of Operating Systems** *(Professor: Mohammad Mahdi Bejani)*
+**Teaching Assistant - Principles of Operating Systems** *(Course Instructor: Mohammad Mahdi Bejani)*
 
 📅 Feb. 2023 – July 2023
 
