@@ -29,18 +29,22 @@ Further details may be added in future revisions.
     - *Achieved a GPA exceeding 17.00 out of 20.00 across all semesters at Amirkabir University of Technology, surpassing the requirement of maintaining a GPA above 17.00 out of 20.00 in at least three out of the first four semesters*
 
 ## Teaching Experience  
-**Teaching Assistant - Numerical Linear Algebra** *(Course Instructor: Mehdi Dehghan)*
+**Teaching Assistant - Numerical Linear Algebra**
 
 📅 Jan. 2024 – present
+
+👨‍🏫 Course Instructor: Prof. Mehdi Dehghan
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Develop project ideas and design course materials with theoretical and practical Python exercises  
 - Edit and proofread course lecture notes 
 - Administer oral examinations and evaluate student performance
 
-**Teaching Assistant - Artificial Intelligence** *(Course Instructor: Mehdi Ghatee)*
+**Teaching Assistant - Artificial Intelligence**
 
 📅 Sept. 2023 – Feb. 2024
+
+👨‍🏫 Course Instructor: Prof. Mehdi Ghatee
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Selected as one of 10 team members out of 34 applicants  
@@ -48,9 +52,11 @@ Further details may be added in future revisions.
 - Delivered a lecture on [Probabilistic Reasoning (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
 - Provided academic support to students for homework assignments
 
-**Teaching Assistant - Advanced Programming** *(Course Instructor: Mehdi Ghatee)*
+**Teaching Assistant - Advanced Programming**
 
 📅 Sept. 2023 – Feb. 2024
+
+👨‍🏫 Course Instructor: Prof. Mehdi Ghatee
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Designed lecture notes on [Serialization and File I/O (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/lab4.pdf) and [Classes (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/main.pdf) in Java  
@@ -58,9 +64,11 @@ Further details may be added in future revisions.
 - Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
 - Administered oral examinations and evaluated student performance
 
-**Teaching Assistant - Principles of Operating Systems** *(Course Instructor: Mohammad Mahdi Bejani)*
+**Teaching Assistant - Principles of Operating Systems**
 
 📅 Feb. 2023 – July 2023
+
+👨‍🏫 Course Instructor: Dr. Mohammad Mahdi Bejani
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Developed project ideas  
