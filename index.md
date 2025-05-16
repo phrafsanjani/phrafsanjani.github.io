@@ -3,7 +3,65 @@
 
 # About Me
 
-My name is SeyedParsa Hosseinipour Rafsanjani, though I also go by Parsa H. Rafsanjani or Parsa Hosseinipour.
-I hold a B.Sc. in Computer Science from Amirkabir University of Technology (Tehran Polytechnic).
+I am Parsa Hosseinipour Rafsanjani (also known as Parsa H. Rafsanjani or Parsa Hosseinipour).
+I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 During my studies, I developed a strong passion for statistics and data science,
 which motivated me to pursue collaborative research in mathematical statistics.
+
+# Research and Intellectual Interests
+
+Here I discuss both my formal research interests and other fields I actively study.
+
+## Statistics, Machine Learning, and AI
+
+I am passionate about both theoretical and applied statistics, machine learning, and their interdisciplinary applications.
+My research interests extend to computational biology, bioinformatics, and statistical applications in psychology, economics, and social sciences.
+At the core of my motivation is my conviction that data and statistical literacy are essential life skills in our modern world.
+Statistics serves as the foundational tool for hypothesis testing and data analysis in psychology and social sciences.
+Statistical sciences are therefore essential for both conducting rigorous research and critically evaluating studies in these fields.
+
+Statistics and mathematics provide the rigorous foundation needed to study modern AI methods and intelligent systems.
+This is particularly crucial in healthcare and biomedicine,
+where explainable AI and reliable machine learning methods are essential.
+These applications motivate my strong interest in AI theory.
+
+A key gap in modern research and academic studies, in my view, is deeper interdisciplinary collaboration.
+Take computational biology: its fusion of statistics, CS, and biology represents exactly the kind of integrated approach I value—and one that mirrors my own cross-disciplinary interests.
+
+## Philosophy, Psychology, and Economics
+
+Beyond mathematics, statistics, and programming, I firmly believe psychology, philosophy, and economics are essential knowledge domains for every well-rounded individual.
+
+In a letter to his friend Lucilius, Seneca delivers a striking meditation on philosophy’s transformative power:
+> Philosophy asserts its power. It grants us time; it does not merely accept what we give to it.  
+> Philosophy is a full-time job, not a hobby; it is our supervisor, and orders us to appear.
+He reinforces this with a vivid analogy:
+> Alexander once said to a town that promised him part of its arable land and half of all its
+> production, “My purpose in coming to Asia was not to receive any
+> gifts you might give, but to allow you to keep anything that I might
+> leave.” Philosophy says the same thing, but in every situation. “I am
+> not going to accept just the time you have left over; rather, you will
+> have what I reject.”
+He then continues:
+> Turn your entire mind to philosophy. Sit by philosophy and serve it, and you will be much above other people.
+― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 53. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
+
+My interest in psychology focuses specifically on close relationships, singlehood, and personality. These are concepts I've deeply contemplated in my personal life, and I believe rigorous research in these areas is profoundly important.
+
+Economic concepts are equally vital—yet they remain glaring gaps in most people's education.
+N. Gregory Mankiw begins his economics book *Principles of Economics* by introducing ten foundational principles. These principles reveal both their critical importance and how unaware most people are of them.
+
+We should all strive to be good decision-makers, and economic literacy is key to this. Economics isn't just about money and markets—it's a framework for life. With economic knowledge, we can make better choices, from everyday decisions to major financial ones.
+
+# Social Media and Online Activity
+
+Since being introduced to GNU/Linux and switching to it, I've developed a deep interest in open source and free software, along with privacy and security.
+That's when I decided to remove my Instagram and Facebook accounts - years later, I don't miss them at all.
+As Seneca says:
+> Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
+I never used Twitter much, but the growth of Fediverse led me to try Mastodon, where I connected with many great academics—even landing an interview!
+While I still value Mastodon, I've since joined Bluesky as more researchers migrated there, and now follow most academic discussions on that platform.
+
+Beyond social media, I maintain a GitHub profile for programming and collaborative projects.
+I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content mostly feels shallow in comparison.
+Still, I check it occasionally for announcements and hope to make meaningful connections.
