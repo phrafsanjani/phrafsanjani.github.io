@@ -14,27 +14,29 @@ Further details may be added in future revisions.
 📍 Tehran, Iran  
 - **GPA:** 19.40 / 20.00 (4.0/4.0)  
 - **Selected Coursework:** Introduction to Probability (A+), Probability (I) (A+), Statistical Methods (A+), Stochastic Processes (I) (A+), Foundation of Mathematical Analysis (A+), Data Mining (A+), Fundamentals of Bioinformatics (A+), Database & Workshop (A), Advanced Programming (A+), Numerical Linear Algebra (A+), Artificial Intelligence & Workshop (A+)
-- **Honors/Awards:**
-    - **Ranked first among 2020 students in Computer Science**
-    - **Outstanding 10% student**
-        - *consistently ranked in the top 10% of Computer Science students among 2020 peers across all semesters, surpassing the requirement of being in the top 10% for at least three out of the first four semesters*
-    - **Outstanding university student**
-        - *achieved a GPA exceeding 17 out of 20 across all semesters, surpassing the requirement of maintaining a GPA above 17 out of 20 in at least three out of the first four semesters*
 
 ## Manuscripts
 
 - **Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions**
-    - *Collaboration with Dr. Adel Mohammadpour (University of Calgary)*: We propose a unified framework for testing hypotheses within a general form of the exponential family, from which tests for other well-known special distributions can be derived.
+    - *Collaborative research with Dr. Adel Mohammadpour:* We propose a unified framework for testing hypotheses within a general form of the exponential family, from which tests for other well-known special distributions can be derived.
 
-## Teaching Assistant Experience  
+## Honors & Awards
+- **Top Computer Sciences Student (2020 Cohort)**
+    - *Ranked #1 among over 60 students in the 2020 Computer Sciences cohort at Amirkabir University of Technology*
+- **Outstanding 10% student**
+    - *Consistently ranked in the top 10% of the 2020 Computer Sciences cohort at Amirkabir University of Technology across all semesters, surpassing the requirement of being in the top 10% for at least three out of the first four semesters*
+- **Outstanding university student**
+    - *Achieved a GPA exceeding 17.00 out of 20.00 across all semesters at Amirkabir University of Technology, surpassing the requirement of maintaining a GPA above 17.00 out of 20.00 in at least three out of the first four semesters*
+
+## Teaching Experience  
 **Numerical Linear Algebra** *(Professor: Mehdi Dehghan)*
 
 📅 Jan. 2024 – present
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
-- Developing project ideas and design course theoretical and practical Python exercises in LaTex  
-- Correcting course lecture notes  
-- Having students present their exercises and grading them  
+- Develop project ideas and design course materials with theoretical and practical Python exercises  
+- Edit and proofread course lecture notes 
+- Administer oral examinations and evaluate student performance
 
 **Artificial Intelligence** *(Professor: Mehdi Ghatee)*
 
@@ -42,9 +44,9 @@ Further details may be added in future revisions.
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Selected as one of 10 team members out of 34 applicants  
-- Created [project instructions (Persian)](https://github.com/parasilius/aut-materials/tree/main/ta/ai/guides) based on syllabus  
-- Gave a lecture on [Probabilistic Reasoning (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
-- Helped students with their homework  
+- Designed [project instructions (Persian)](https://github.com/parasilius/aut-materials/tree/main/ta/ai/guides) following syllabus requirements
+- Delivered a lecture on [Probabilistic Reasoning (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
+- Provided academic support to students for homework assignments
 
 **Advanced Programming** *(Professor: Mehdi Ghatee)*
 
@@ -52,9 +54,9 @@ Further details may be added in future revisions.
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Designed lecture notes on [Serialization and File I/O (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/lab4.pdf) and [Classes (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/main.pdf) in Java  
-- Gave lectures in weekly labs  
+- Delivered weekly lectures in laboratory sessions
 - Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
-- Had students present their projects and graded them  
+- Administered oral examinations and evaluated student performance
 
 **Principles of Operating Systems** *(Professor: Mohammad Mahdi Bejani)*
 
@@ -62,7 +64,7 @@ Further details may be added in future revisions.
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Developed project ideas  
-- Had students present their projects and graded them  
+- Administered oral examinations and evaluated student performance
 
 ## Technical Skills
 
