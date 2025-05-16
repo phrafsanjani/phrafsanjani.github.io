@@ -7,8 +7,9 @@ Further details may be added in future revisions.
 
 ## Education
 
-### Amirkabir University of Technology (Tehran Polytechnic)  
-📅 2020 – 2025 | 🎓 B.Sc. in Computer Science
+**Amirkabir University of Technology (Tehran Polytechnic)**
+
+📅 2020 – 2025 | 🎓 B.Sc. in Computer Sciences
 
 📍 Tehran, Iran  
 - **GPA:** 19.40 / 20.00 (4.0/4.0)  
