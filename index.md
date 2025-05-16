@@ -56,12 +56,12 @@ We should all strive to be good decision-makers, and economic literacy is key to
 # Social Media and Online Activity
 
 Since being introduced to GNU/Linux and switching to it, I've developed a deep interest in open source and free software, along with privacy and security.
-That's when I decided to remove my Instagram and Facebook accounts - years later, I don't miss them at all.
+That's when I decided to remove my Instagram and Facebook accounts—years later, I don't miss them at all.
 As Seneca says:
 > Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
 I never used Twitter much, but the growth of Fediverse led me to try Mastodon, where I connected with many great academics—even landing an interview!
 While I still value Mastodon, I've since joined Bluesky as more researchers migrated there, and now follow most academic discussions on that platform.
 
 Beyond social media, I maintain a GitHub profile for programming and collaborative projects.
-I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content mostly feels shallow in comparison.
+I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content generally feels shallow in comparison.
 Still, I check it occasionally for announcements and hope to make meaningful connections.
