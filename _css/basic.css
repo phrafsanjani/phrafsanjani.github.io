@@ -18,7 +18,7 @@ nav li {
 }
 
 nav li a {
-  color: var(--navigation--color);
+  color: var(--navigation-color);
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
@@ -42,7 +42,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1;
-  background-color: #fff;
+  background-color: var(--background-color);
   opacity: 0.95;
 }
 
@@ -61,7 +61,7 @@ header .blog-name a {
 }
 
 header li a:hover {
-  color: var(--navigation--hover--color);
+  color: var(--navigation-hover-color);
 }
 
 #menu-icon {

@@ -3,13 +3,24 @@
 ================================================================== */
 
 :root {
+  --background-color: #fff;
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
-  --navigation--color: #004de6;
-  --navigation--hover--color: black;
+  --navigation-color: #004de6;
+  --navigation-hover-color: black;
+}
+
+.darkmode {
+  --background-color: rgb(28, 28, 29);
+  background-color: var(--background-color);
+  --block-background: hsl(0deg 0% 17.22%);
+  --output-background: hsl(0, 0%, 98%);
+  --text-color: #e8e8e8;
+  --navigation-color: #004de6;
+  --navigation-hover-color: black;
 }
 
 /* ==================================================================
@@ -189,7 +200,7 @@ td {
 }
 
 .franklin-content a {
-  color: var(--navigation--color);
+  color: var(--navigation-color);
   text-decoration: none;
 }
 
