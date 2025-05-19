@@ -274,3 +274,41 @@ ul {
 html {
   scroll-padding-top: 62px;
 }
+
+#theme-switch {
+  height: 22px;
+  width: 22px;
+  padding: 0;
+  border: none;
+  background-color: var(--background-color);
+  position: relative;
+  top: 5px;
+}
+
+#theme-switch svg:last-child {
+  display: none;
+}
+
+.darkmode #theme-switch svg:first-child {
+  display: none;
+}
+
+.darkmode #theme-switch svg:last-child {
+  display: block;
+}
+
+#github img:last-child {
+  display: none;
+}
+
+.darkmode #github img:first-child {
+  display: none;
+}
+
+.darkmode #github img:last-child {
+  display: block;
+}
+
+button:hover {
+  fill: var(--navigation-hover-color);
+}
