@@ -30,7 +30,7 @@ Take computational biology: its fusion of statistics, CS, and biology represents
 
 ## Philosophy, Psychology, and Economics
 
-Beyond mathematics, statistics, and programming, I firmly believe philosophy, psychology, and economics are essential knowledge domains for every well-rounded individual.
+Beyond mathematics, statistics, and programming, I firmly believe philosophy, psychology, and economics are essential knowledge domains for everyone.
 
 In a letter to his friend Lucilius, Seneca proclaims philosophy's universal invitation:
 > Philosophy neither rejects anyone nor chooses anyone; it shines
@@ -63,6 +63,6 @@ As Seneca says:
 I never used Twitter much, but the growth of Fediverse led me to try Mastodon, where I connected with many great academics—even landing an interview!
 While I still value Mastodon, I've since joined Bluesky as more researchers migrated there, and now follow most academic discussions on that platform.
 
-Beyond social media, I maintain a GitHub profile for programming and collaborative projects.
+I also maintain a GitHub profile for programming and collaborative projects.
 I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content generally feels shallow in comparison.
 Still, I check it occasionally for announcements and hope to make meaningful connections.
