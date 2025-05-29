@@ -25,8 +25,8 @@ This is particularly crucial in healthcare and biomedicine,
 where explainable AI and reliable machine learning methods are essential.
 These applications motivate my strong interest in AI theory.
 
-A key gap in modern research and academic studies, in my view, is deeper interdisciplinary collaboration.
-Take computational biology: its fusion of statistics, CS, and biology represents exactly the kind of integrated approach I value—and one that mirrors my own cross-disciplinary interests.
+A key gap in modern academic studies, in my view, is deeper interdisciplinary collaboration.
+One such field I personally like is computational biology: its fusion of statistics, CS, and biology is exactly the kind of integrated approach I value—and one that mirrors my own cross-disciplinary interests.
 
 ## Philosophy, Psychology, and Economics
 
