@@ -48,8 +48,8 @@ Further details may be added in future revisions.
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
 - Selected as one of 10 team members out of 34 applicants  
-- Designed [project instructions (Persian)](https://github.com/parasilius/aut-materials/tree/main/ta/ai/guides) following syllabus requirements
-- Delivered a lecture on [Probabilistic Reasoning (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
+- Designed [project instructions (Persian)](https://github.com/phrafsanjani/aut-materials/tree/main/ta/ai/guides) following syllabus requirements
+- Delivered a lecture on [Probabilistic Reasoning (Persian)](https://github.com/phrafsanjani/aut-materials/blob/main/ta/ai/Probabilistic%20Reasoning.pdf)
 - Provided academic support to students for homework assignments
 
 **Teaching Assistant - Advanced Programming**
@@ -59,9 +59,9 @@ Further details may be added in future revisions.
 👨‍🏫 Course Instructor: Prof. Mehdi Ghatee
 
 📚 Department of Mathematics & Computer Science @ Amirkabir University of Technology  
-- Designed lecture notes on [Serialization and File I/O (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/lab4.pdf) and [Classes (Persian)](https://github.com/parasilius/aut-materials/blob/main/ta/ap/main.pdf) in Java  
+- Designed lecture notes on [Serialization and File I/O (Persian)](https://github.com/phrafsanjani/aut-materials/blob/main/ta/ap/lab4.pdf) and [Classes (Persian)](https://github.com/phrafsanjani/aut-materials/blob/main/ta/ap/main.pdf) in Java  
 - Delivered weekly lectures in laboratory sessions
-- Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/parasilius/rss-reader), …)  
+- Developed project ideas and exercises (Image Viewer, [RSS Reader](https://github.com/phrafsanjani/rss-reader), …)  
 - Administered oral examinations and evaluated student performance
 
 **Teaching Assistant - Principles of Operating Systems**
