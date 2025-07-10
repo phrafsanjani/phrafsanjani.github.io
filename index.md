@@ -5,28 +5,20 @@
 
 I am Parsa Hosseinipour Rafsanjani (also known as Parsa H. Rafsanjani or Parsa Hosseinipour).
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
-During my studies, I developed a strong passion for statistics and data science,
-which motivated me to pursue collaborative research in mathematical statistics.
 
 # Research and Intellectual Interests
 
 Here I discuss both my formal research interests and other fields I actively study.
 
-## Statistics, Machine Learning, and AI
+## Statistics, Computational Biology, and Bioinformatics
 
-I am passionate about both theoretical and applied statistics, machine learning, and their interdisciplinary applications.
-My research interests extend to computational biology, bioinformatics, and statistical applications in psychology, economics, and social sciences.
+I am passionate about both theoretical and applied statistics.
+My research interests span computational biology, bioinformatics, and statistical applications in psychology, economics, and other social sciences.
 At the core of my motivation is my conviction that data and statistical literacy are essential life skills in our modern world.
-Statistics serves as the foundational tool for hypothesis testing and data analysis in psychology and social sciences.
-Statistical sciences are therefore essential for both conducting rigorous research and critically evaluating studies in these fields.
 
-Statistics and mathematics provide the rigorous foundation needed to study modern AI methods and intelligent systems.
-This is particularly crucial in healthcare and biomedicine,
-where explainable AI and reliable machine learning methods are essential.
-These applications motivate my strong interest in AI theory.
-
-A key gap in modern academic studies, in my view, is deeper interdisciplinary collaboration.
-One such field I personally like is computational biology: its fusion of statistics, CS, and biology is exactly the kind of integrated approach I value—and one that mirrors my own cross-disciplinary interests.
+Statistics serves as the foundational tool for hypothesis testing and data analysis in social sciences.
+Building on probability theory, statistical sciences also provide powerful tools to model and analyze natural phenomena.
+My particular interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
 
 ## Philosophy, Psychology, and Economics
 
