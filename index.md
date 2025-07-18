@@ -3,6 +3,10 @@
 
 # About Me
 
+\toc
+
+## Parsa H. Rafsanjani
+
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic),
 with coursework and research spanning mathematics and computational methods.
 During my studies, I was drawn to probability and statistics,
@@ -13,11 +17,11 @@ diving deeper into the fascinating intersection of statistics, computer science,
 Beyond academia, I'm a GNU/Linux enthusiast (I use Arch, btw!) and enjoy exploring open-source tools,
 system customization, and the philosophy of free software.
 
-# Research and Intellectual Interests
+## Research and Intellectual Interests
 
 Here I discuss both my formal research interests and other fields I actively study.
 
-## Statistics, Computational Biology, and Bioinformatics
+### Statistics, Computational Biology, and Bioinformatics
 
 I am passionate about both theoretical and applied statistics.
 My research interests span computational biology, bioinformatics, and statistical applications in psychology, economics, and other social sciences.
@@ -27,7 +31,7 @@ Statistics serves as the foundational tool for hypothesis testing and data analy
 Building on probability theory, statistical sciences also provide powerful tools to model and analyze natural phenomena.
 My particular interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
 
-## Philosophy, Psychology, and Economics
+### Philosophy, Psychology, and Economics
 
 Beyond mathematics, statistics, and programming, I firmly believe philosophy, psychology, and economics are essential knowledge domains for everyone.
 
@@ -53,7 +57,7 @@ N. Gregory Mankiw begins his economics book *Principles of Economics* by introdu
 
 We should all strive to be good decision-makers, and economic literacy is key to this. Economics isn't just about money and markets—it's a framework for life. With economic knowledge, we can make better choices, from everyday decisions to major financial ones.
 
-# Social Media and Online Activity
+## Social Media and Online Activity
 
 Since being introduced to GNU/Linux and switching to it, I've developed a deep interest in open source and free software, along with privacy and security.
 Around that same period, I decided to remove my Instagram and Facebook accounts—years later, I don't miss them at all.
