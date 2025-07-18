@@ -5,7 +5,7 @@
 
 \toc
 
-## Parsa H. Rafsanjani
+## Parsa Hosseinipour Rafsanjani (Parsa H. Rafsanjani)
 
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic),
 with coursework and research spanning mathematics and computational methods.
