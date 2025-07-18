@@ -3,8 +3,15 @@
 
 # About Me
 
-I am Parsa Hosseinipour Rafsanjani (also known as Parsa H. Rafsanjani or Parsa Hosseinipour).
-I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
+I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic),
+with coursework and research spanning mathematics and computational methods.
+During my studies, I was drawn to probability and statistics,
+which led me to collaborate with Dr. Adel Mohammadpour on a research paper on mathematical statistics and a book on statistical inquiry.
+Now, I am eager to take my expertise further through graduate studies,
+diving deeper into the fascinating intersection of statistics, computer science, and biology.
+
+Beyond academia, I'm a GNU/Linux enthusiast (I use Arch, btw!) and enjoy exploring open-source tools,
+system customization, and the philosophy of free software.
 
 # Research and Intellectual Interests
 
