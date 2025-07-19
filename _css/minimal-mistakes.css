@@ -4680,6 +4680,7 @@ a.reversefootnote:hover {
 
 .author__bio {
   margin: 0;
+  margin-right: 50px;
 }
 
 @media (min-width: 64em) {
