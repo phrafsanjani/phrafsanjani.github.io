@@ -4702,7 +4702,6 @@ a.reversefootnote:hover {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   z-index: 10;
   position: relative;
-  cursor: pointer;
 }
 
 .author__urls-wrapper li:last-child a {
