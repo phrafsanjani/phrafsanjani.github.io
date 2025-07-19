@@ -4504,6 +4504,7 @@ a.reversefootnote:hover {
     z-index: 10;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    padding-left: 12.5%;
   }
 
   #social-sidebar {
