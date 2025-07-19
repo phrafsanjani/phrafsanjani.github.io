@@ -500,8 +500,7 @@ img.mfp-img {
   padding-top: 0;
 }
 
-a:focus,
-button:focus {
+a:focus {
   outline: thin dotted #6f777d;
   outline: 5px auto #6f777d;
   outline-offset: -2px;
