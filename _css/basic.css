@@ -93,8 +93,15 @@ header li a:hover {
   }
 }
 
-#social-header {
-  display: none;
+  #social-header {
+    display: none;
+}
+
+/* columnize the social media buttons to stop overlapping with content */
+@media (max-width: 1065px) {
+  #social-sidebar {
+    display: block;
+  }
 }
 
 /*
