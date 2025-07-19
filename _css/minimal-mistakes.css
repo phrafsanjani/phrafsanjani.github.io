@@ -4485,6 +4485,7 @@ a.reversefootnote:hover {
 
 .sidebar {
   clear: both;
+  z-index: 99;
 }
 
 .sidebar::after {
