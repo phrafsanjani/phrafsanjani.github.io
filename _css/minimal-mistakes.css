@@ -4505,6 +4505,14 @@ a.reversefootnote:hover {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
   }
+
+  #social-sidebar {
+    display: none;
+  }
+
+  #social-header {
+    display: flex;
+  }
 }
 
 @media (min-width: 64em) {

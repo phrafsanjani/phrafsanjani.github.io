@@ -93,6 +93,10 @@ header li a:hover {
   }
 }
 
+#social-header {
+  display: none;
+}
+
 /*
 narrow display: collapse the header (don't show the menu items)
 instead, display a burger menu.
