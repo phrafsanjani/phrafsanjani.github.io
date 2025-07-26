@@ -35,7 +35,9 @@ That’s why I want to formally work in the biomedical field—combining my pass
 
 ### Philosophy
 
-I am particularly interested in Stoicism, and my favorite philosopher whose work I pretty much am interested in is Seneca.
+My primary philosophical interest is Stoicism, particularly the works of Seneca.
+However, I also enjoy studying other prominent Stoic philosophers like Marcus Aurelius and Epictetus,
+along with more modern thinkers.
 
 In a letter to his friend Lucilius, Seneca proclaims philosophy's universal invitation:
 > Philosophy neither rejects anyone nor chooses anyone; it shines
