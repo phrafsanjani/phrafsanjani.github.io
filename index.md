@@ -52,10 +52,10 @@ In another letter, he writes:
 
 My interest in psychology focuses specifically on close relationships, singlehood, and personality. These are concepts I've deeply contemplated in my personal life, and I believe rigorous research in these areas is profoundly important.
 
-Economic concepts are equally vital—yet they remain glaring gaps in most people's education.
-N. Gregory Mankiw begins his economics book *Principles of Economics* by introducing ten foundational principles. These principles reveal both their critical importance and how unaware most people are of them.
-
-We should all strive to be good decision-makers, and economic literacy is key to this. Economics isn't just about money and markets—it's a framework for life. With economic knowledge, we can make better choices, from everyday decisions to major financial ones.
+Economics is another field I occasionally study.
+We should all strive to be good decision-makers, and economic literacy is key to this.
+Economics isn't just about money and markets—it's a framework for life.
+I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
 
 ## Social Media and Online Activity
 
@@ -68,4 +68,4 @@ While I still value Mastodon, I've since joined Bluesky as more researchers migr
 
 I also maintain a GitHub profile for programming and collaborative projects.
 I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content generally feels shallow in comparison.
-Still, I check it occasionally for announcements and hope to make meaningful connections.
+It is also the first page that shows up in many search engines when someone searches for my name.
