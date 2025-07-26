@@ -81,7 +81,7 @@ I also appreciate Arch’s philosophy:
 it’s entirely free to use without restrictions, and users have full control—whether choosing free or proprietary software.
 
 More broadly, I’m deeply interested in exploring and supporting open-source software and communities.
-Whenever possible, I prefer self-hosting my services rather than relying heavily on large corporations.
+Whenever possible, I try to minimize reliance on large corporations.
 While I don’t oppose using well-made proprietary tools, I actively evaluate tech trends and company practices before deciding what to adopt.
 
 ## Social Media and Online Activity
