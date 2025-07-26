@@ -14,26 +14,28 @@ which led me to collaborate with Dr. Adel Mohammadpour on a research paper on ma
 Now, I am eager to take my expertise further through graduate studies,
 diving deeper into the fascinating intersection of statistics, computer science, and biology.
 
-Beyond academia, I'm a GNU/Linux enthusiast (I use Arch, btw!) and enjoy exploring open-source tools,
-system customization, and the philosophy of free software.
+Next, I share my academic research focus as well as topics I study independently:
 
-## Research and Intellectual Interests
+## Formal Research Interests
 
-Here I discuss both my formal research interests and other fields I actively study.
-
-### Statistics, Computational Biology, and Bioinformatics
+### Statistics
 
 I am passionate about both theoretical and applied statistics.
 My research interests span computational biology, bioinformatics, and statistical applications in psychology, economics, and other social sciences.
 At the core of my motivation is my conviction that data and statistical literacy are essential life skills in our modern world.
 
-Statistics serves as the foundational tool for hypothesis testing and data analysis in social sciences.
+### Computational Biology and Bioinformatics
+
 Building on probability theory, statistical sciences also provide powerful tools to model and analyze natural phenomena.
 My particular interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
+To me, meaningful work means seeing how my efforts tangibly help others.
+That’s why I want to formally work in the biomedical field—combining my passion for molecular and cell biology with the opportunity to make a real difference.
 
-### Philosophy, Psychology, and Economics
+## Independent Studies
 
-Beyond mathematics, statistics, and programming, I firmly believe philosophy, psychology, and economics are essential knowledge domains for everyone.
+### Philosophy
+
+I am particularly interested in Stoicism, and my favorite philosopher whose work I pretty much am interested in is Seneca.
 
 In a letter to his friend Lucilius, Seneca proclaims philosophy's universal invitation:
 > Philosophy neither rejects anyone nor chooses anyone; it shines
@@ -50,12 +52,37 @@ In another letter, he writes:
 > Would you like to know what philosophy has to oﬀer the human race? Advice!
 ― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 48. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
 
+### Psychology
+
 My interest in psychology focuses specifically on close relationships, singlehood, and personality. These are concepts I've deeply contemplated in my personal life, and I believe rigorous research in these areas is profoundly important.
+
+### Economics
 
 Economics is another field I occasionally study.
 We should all strive to be good decision-makers, and economic literacy is key to this.
 Economics isn't just about money and markets—it's a framework for life.
 I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
+
+### Open-Source & GNU/Linux
+
+Beyond academia, I'm a GNU/Linux enthusiast.
+I began using GNU/Linux in 2020,
+starting with Ubuntu before exploring other distributions like Fedora, Linux Mint, and Pop!\_OS.
+After primarily using Pop!_OS for several years, I transitioned to Arch Linux—and have had no major issues with it since.
+
+My main motivation was to deepen my understanding of Linux.
+Arch has taught me what questions to ask when configuring my system for my workflow,
+and how little is actually needed to perform my computations.
+Unlike versioned distributions, Arch follows a rolling-release model (there’s just one Arch Linux, not Arch 1.0, Arch 2.0, etc.),
+which I see as one of its greatest strengths.
+The system is reliable, and thanks to excellent Arch and Arch-based forums, problems can usually be resolved quickly.
+
+I also appreciate Arch’s philosophy:
+it’s entirely free to use without restrictions, and users have full control—whether choosing free or proprietary software.
+
+More broadly, I’m deeply interested in exploring and supporting open-source software and communities.
+Whenever possible, I prefer self-hosting my services rather than relying heavily on large corporations.
+While I don’t oppose using well-made proprietary tools, I actively evaluate tech trends and company practices before deciding what to adopt.
 
 ## Social Media and Online Activity
 
