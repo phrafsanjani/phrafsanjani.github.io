@@ -10,9 +10,8 @@
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic),
 with coursework and research spanning mathematics and computational methods.
 During my studies, I was drawn to probability and statistics,
-which led me to collaborate with Dr. Adel Mohammadpour on a research paper on mathematical statistics and a book on statistical inquiry.
-Now, I am eager to take my expertise further through graduate studies,
-diving deeper into the fascinating intersection of statistics, computer science, and biology.
+which led me to collaborate with Dr. Adel Mohammadpour on a research manuscript on mathematical statistics and a book on statistical inquiry.
+My research interests lie at the intersection of statistics and molecular biology, with a focus on developing and analyzing computational tools for omics data.
 
 Next, I share my academic research focus as well as topics I study independently:
 
