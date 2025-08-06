@@ -175,6 +175,14 @@ instead, display a burger menu.
     right: 0;
   }
 
+  .menu-nav li {
+    height: 27px;
+  }
+
+  #theme-switch {
+    top: 1px !important;
+  }
+
   .darkmode #theme-switch {
     top: 1px !important;
   }
