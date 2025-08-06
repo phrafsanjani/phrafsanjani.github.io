@@ -293,7 +293,19 @@ html {
   border: none;
   background-color: var(--background-color);
   position: relative;
-  top: 5px;
+  top: 1px;
+  padding-top: 2px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.darkmode #theme-switch {
+  top: 4px;
+}
+
+#theme-switch svg {
+  height: 100%;
+  width: 100%;
 }
 
 #theme-switch svg:last-child {
