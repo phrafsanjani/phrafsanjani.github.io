@@ -774,7 +774,7 @@ blockquote cite::before {
 }
 
 a:hover {
-  color: #266477;
+  color: #8D6AF9;
   outline: 0;
 }
 
@@ -896,7 +896,7 @@ figcaption a {
 }
 
 figcaption a:hover {
-  color: #266477;
+  color: #8D6AF9;
 }
 
 svg:not(:root) {
@@ -2039,7 +2039,7 @@ th {
 }
 
 .pagination li a:hover {
-  color: #266477;
+  color: #8D6AF9;
 }
 
 .pagination li a.current,
@@ -3797,7 +3797,7 @@ a.reversefootnote:hover {
 
 .page__taxonomy-item:hover {
   text-decoration: none;
-  color: #266477;
+  color: #8D6AF9;
 }
 
 .taxonomy__section {
