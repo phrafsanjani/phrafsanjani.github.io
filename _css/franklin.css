@@ -10,7 +10,7 @@
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
   --navigation-color: #004de6;
-  --navigation-hover-color: black;
+  --navigation-hover-color: #B87CFC;
 }
 
 .darkmode {
@@ -20,7 +20,7 @@
   --output-background: hsl(0, 0%, 98%);
   --text-color: #e8e8e8;
   --navigation-color: #004de6;
-  --navigation-hover-color: white;
+  --navigation-hover-color: #B87CFC;
 }
 
 /* ==================================================================
