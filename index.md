@@ -99,5 +99,6 @@ I only keep LinkedIn due to its professional necessity, though I'm mostly inacti
 Nevertheless, I've been trying to be more active there recently.
 It is also the first page that shows up in many search engines when someone searches for my name.
 
-I have accounts on other platforms (some real, some pseudonymous), but I don’t publicly share them here, as they serve more specific purposes.
-Therefore, any accounts under my name not linked through this website may not be mine!
+I also have accounts on other platforms (some real, some pseudonymous),
+but I don’t publicly share them here, as they serve more specific purposes.
+Therefore, any accounts under my name that aren't linked here may not be mine!
