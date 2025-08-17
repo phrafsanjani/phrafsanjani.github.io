@@ -87,8 +87,13 @@ While I don’t oppose using well-made proprietary tools, I actively evaluate te
 
 ## Social Media and Online Activity
 
-Since being introduced to GNU/Linux and switching to it, I've developed a deep interest in open source and free software, along with privacy and security.
-Around that same period, I decided to remove my Instagram and Facebook accounts—years later, I don't miss them at all.
+I try to avoid social media as much as possible.
+I have no interest nor any reason to keep up with what is happening in the life of someone I met years ago and with whom I don't feel any connection now!
+I dislike the hollow, superficial connections of social media; I’d rather form deeper bonds with people and focus on self-development without obsessing over how I'm seen in the eyes of others.
+That said, I do use social media sparingly—mostly to connect with academics and follow scholarly discussions, stay updated on topics of interest, message others, and keep track of relevant announcements or events.
+That's my social media philosophy in a nutshell.
+
+I stopped using Facebook and Instagram years ago, and I don't miss them at all.
 As Seneca says:
 > Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
 I never used Twitter much, but the growth of Fediverse led me to try Mastodon, where I connected with many great academics—even landing an interview!
@@ -96,9 +101,9 @@ While I still value Mastodon, I've since joined Bluesky as more researchers migr
 
 I also maintain a GitHub profile for programming and collaborative projects.
 I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content generally feels shallow in comparison.
-Nevertheless, I've been trying to be more active there recently.
+However, I check in more often these days, since some solid blog posts and announcements are posted.
 It is also the first page that shows up in many search engines when someone searches for my name.
 
 I have some other accounts as well (either real or pseudonymous),
-but I don’t publicly share them here, as they serve more specific purposes.
-Therefore, any accounts under my name that aren't linked here may not be mine!
+but I don’t publicly share them here, as they serve more personal purposes.
+Therefore, any accounts under my name that aren't linked from this website may not be mine!
