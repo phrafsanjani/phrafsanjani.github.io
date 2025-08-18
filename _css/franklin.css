@@ -167,8 +167,8 @@ h6 {
   text-align: center;
 }
 
-.franklin-toc ol ol {
-  list-style-type: lower-alpha;
+.franklin-toc ol {
+  list-style-type: none;
 }
 
 .franklin-content th,
