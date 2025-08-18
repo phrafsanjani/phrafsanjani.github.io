@@ -101,10 +101,11 @@ I never used Twitter much, but the growth of Fediverse led me to try Mastodon, w
 While I still value Mastodon, I've since joined Bluesky as more researchers migrated there, and now follow most academic discussions on that platform.
 
 I maintain a GitHub profile for programming and collaborative projects.
-I only keep LinkedIn due to its professional necessity, though I'm mostly inactive there—unlike Bluesky and Mastodon, the content generally feels shallow in comparison.
-However, I check in more often these days, since some solid blog posts and announcements get posted.
+I created a LinkedIn account solely out of professional necessity, though I've been mostly inactive there.
+Unlike Bluesky and Mastodon, the content on LinkedIn often feels shallow by comparison.
+However, I’ve been checking in more frequently lately, as some solid blog posts and announcements get shared there.
 It is also the first page that shows up in many search engines when someone searches for my name.
 
 I have some other accounts as well (either real or pseudonymous),
 but I don’t publicly share them, as they serve more personal or specialized purposes that I see no need for them to be listed here.
-While this may seem obvious, it's still worth noting that any accounts using my name not linked from this website may not be mine!
+While this may seem obvious, it's worth noting that any accounts using my name but not linked from this website may not be mine!
