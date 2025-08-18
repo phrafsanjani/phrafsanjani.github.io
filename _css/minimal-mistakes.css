@@ -4523,7 +4523,7 @@ a.reversefootnote:hover {
 
 @media (min-width: 80em) {
   .sidebar {
-    width: calc(300px + 1em);
+    width: calc(280px + 1em);
   }
 }
 
