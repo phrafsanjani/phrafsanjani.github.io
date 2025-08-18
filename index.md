@@ -90,7 +90,7 @@ While I don’t oppose using well-made proprietary tools, I actively evaluate te
 I try to avoid social media as much as possible.
 I have no interest nor any reason to keep up with what is happening in the life of someone I met years ago and with whom I don't feel any connection now!
 I dislike the hollow, superficial connections of social media; I’d rather form deeper bonds with people and focus on self-development without obsessing over how I'm seen in the eyes of others.
-Also, I deliberately limit what I share online and refuse to contribute to companies with proven unethical behavior where possible.
+Also, I deliberately limit what I share online and refuse to contribute to companies with proven unethical behavior where feasible.
 That said, I do use social media sparingly—mostly to connect with academics and follow scholarly discussions, stay updated on topics of interest, message others, and keep track of relevant announcements or events.
 That's my social media philosophy in a nutshell.
 
