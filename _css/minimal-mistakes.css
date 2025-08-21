@@ -524,7 +524,7 @@ html {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   html {
     font-size: 20px;
   }
@@ -1975,7 +1975,7 @@ th {
   font-size: 0.75em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .breadcrumbs ol {
     float: right;
     width: calc(100% - 200px);
@@ -2357,7 +2357,7 @@ th {
   }
 }
 
-@media (max-width: 63.9375em) and (min-width: 64em) {
+@media (max-width: 63.9375em) and (min-width: 79.05em) {
   .nav__list a {
     padding-top: 0.125em;
     padding-bottom: 0.125em;
@@ -2465,7 +2465,7 @@ th {
   font-size: 0.75em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .toc__menu {
     font-size: 0.6875em;
   }
@@ -2663,7 +2663,7 @@ th {
   font-size: 1.563em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .search-content .search-input {
     font-size: 1.953em;
   }
@@ -2694,7 +2694,7 @@ th {
   margin-bottom: 2em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .search-content .archive__item {
     width: 75%;
   }
@@ -3185,7 +3185,7 @@ body:hover .visually-hidden button {
   margin-right: auto;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .full {
     margin-right: -20.3389830508% !important;
   }
@@ -3360,7 +3360,7 @@ body:hover .visually-hidden button {
   background: transparent;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .sticky {
     clear: both;
     position: -webkit-sticky;
@@ -3524,7 +3524,7 @@ a.reversefootnote:hover {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .page {
     float: right;
     width: calc(100% - 200px);
@@ -3716,7 +3716,7 @@ a.reversefootnote:hover {
   border-radius: 4px 0 0 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .page__hero-caption {
     padding: 5px 10px;
   }
@@ -3841,7 +3841,7 @@ a.reversefootnote:hover {
   list-style: none;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .taxonomy__index {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -3924,7 +3924,7 @@ a.reversefootnote:hover {
   height: 60px;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .comment__avatar-wrapper {
     width: 100px;
     height: 100px;
@@ -3937,7 +3937,7 @@ a.reversefootnote:hover {
   border-radius: 50%;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .comment__avatar {
     width: 80px;
     height: 80px;
@@ -3951,7 +3951,7 @@ a.reversefootnote:hover {
   width: calc(100% - 60px);
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .comment__content-wrapper {
     width: calc(100% - 100px);
   }
@@ -3987,7 +3987,7 @@ a.reversefootnote:hover {
   display: table;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .page__related {
     float: right;
     width: calc(100% - 200px);
@@ -4011,7 +4011,7 @@ a.reversefootnote:hover {
   text-transform: uppercase;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .wide .page {
     padding-right: 0;
   }
@@ -4023,7 +4023,7 @@ a.reversefootnote:hover {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .wide .page__related {
     padding-right: 0;
   }
@@ -4040,7 +4040,7 @@ a.reversefootnote:hover {
   margin-bottom: 2em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .archive {
     float: right;
     width: calc(100% - 200px);
@@ -4136,7 +4136,7 @@ a.reversefootnote:hover {
   border-radius: 4px 0 0 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .archive__item-caption {
     padding: 5px 10px;
   }
@@ -4153,7 +4153,7 @@ a.reversefootnote:hover {
   font-size: 0.6em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .archive .grid__wrapper {
     margin-right: -200px;
   }
@@ -4461,7 +4461,7 @@ a.reversefootnote:hover {
   font-size: 1em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .wide .archive {
     padding-right: 0;
   }
@@ -4484,7 +4484,7 @@ a.reversefootnote:hover {
   display: table;
 }
 
-@media (max-width: 64em) {
+@media (max-width: 79.05em) {
   .sidebar {
     position: relative;
     z-index: 10;
@@ -4502,7 +4502,7 @@ a.reversefootnote:hover {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .sidebar {
     float: left;
     width: calc(200px - 1em);
@@ -4561,7 +4561,7 @@ a.reversefootnote:hover {
   margin-bottom: 1em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .sidebar__right {
     position: absolute;
     top: 0;
@@ -4594,7 +4594,7 @@ a.reversefootnote:hover {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .splash .sidebar__right {
     position: relative;
     float: right;
@@ -4615,7 +4615,7 @@ a.reversefootnote:hover {
   height: 36px;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__avatar {
     display: block;
     width: auto;
@@ -4628,7 +4628,7 @@ a.reversefootnote:hover {
   border-radius: 50%;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__avatar img {
     padding: 5px;
     border: 1px solid #f2f3f3;
@@ -4643,7 +4643,7 @@ a.reversefootnote:hover {
   line-height: 1;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__content {
     display: block;
     width: 100%;
@@ -4661,7 +4661,7 @@ a.reversefootnote:hover {
   margin: 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__name {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -4678,7 +4678,7 @@ a.reversefootnote:hover {
   margin-right: 50px;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__bio {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -4698,7 +4698,7 @@ a.reversefootnote:hover {
   margin-bottom: 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__urls-wrapper {
     display: block;
   }
@@ -4708,7 +4708,7 @@ a.reversefootnote:hover {
   margin-bottom: 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__urls-wrapper button {
     display: none;
   }
@@ -4733,7 +4733,7 @@ a.reversefootnote:hover {
   display: block;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__urls {
     display: block;
     position: relative;
@@ -4758,7 +4758,7 @@ a.reversefootnote:hover {
   z-index: 0;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__urls::before {
     display: none;
   }
@@ -4777,7 +4777,7 @@ a.reversefootnote:hover {
   z-index: 1;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .author__urls::after {
     display: none;
   }
@@ -4806,7 +4806,7 @@ a.reversefootnote:hover {
   margin-bottom: 1em;
 }
 
-@media (min-width: 64em) {
+@media (min-width: 79.05em) {
   .wide .sidebar__right {
     position: initial;
     top: initial;
