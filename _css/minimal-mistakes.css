@@ -566,7 +566,7 @@ audio:not([controls]) {
 }
 
 a {
-  color: #32859e;
+  color: var(--navigation-color);
 }
 
 a:hover,
@@ -774,7 +774,7 @@ blockquote cite::before {
 }
 
 a:hover {
-  color: #7A4DF7;
+  color: var(--navigation-hover-color);
   outline: 0;
 }
 
@@ -896,7 +896,7 @@ figcaption a {
 }
 
 figcaption a:hover {
-  color: #7A4DF7;
+  color: var(--navigation-hover-color);
 }
 
 svg:not(:root) {
@@ -2039,7 +2039,7 @@ th {
 }
 
 .pagination li a:hover {
-  color: #7A4DF7;
+  color: var(--navigation-hover-color);
 }
 
 .pagination li a.current,
