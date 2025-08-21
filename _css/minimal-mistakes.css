@@ -4531,6 +4531,7 @@ a.reversefootnote:hover {
 
   .social a {
     display: flex !important;
+    align-items: center;
   }
 
   .sidebar img {
