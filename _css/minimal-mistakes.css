@@ -4505,14 +4505,36 @@ a.reversefootnote:hover {
 @media (min-width: 79.05em) {
   .sidebar {
     float: left;
-    width: calc(200px - 1em);
+    width: calc(270px - 1em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
   }
 
+  .social-text {
+    margin-right: 10px;
+    margin-left: 10px;
+    min-width: 70px;
+    font-size: 5em;
+    white-space: nowrap;
+  }
+
   .sidebar:hover {
     opacity: 1;
+  }
+
+  .social {
+    flex-direction: column;
+    align-items: normal;
+    gap: 10px;
+  }
+
+  .social a {
+    display: flex !important;
+  }
+
+  .sidebar img {
+    width: auto !important;
   }
 
   .sidebar.sticky {

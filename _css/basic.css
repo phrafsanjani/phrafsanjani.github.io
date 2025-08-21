@@ -326,7 +326,7 @@ html {
   display: block;
 }
 
-#github img:last-child {
+#github img:last-of-type {
   display: none;
 }
 
@@ -334,7 +334,7 @@ html {
   display: none;
 }
 
-.darkmode #github img:last-child {
+.darkmode #github img:last-of-type {
   display: block;
 }
 
