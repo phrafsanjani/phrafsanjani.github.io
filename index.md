@@ -103,8 +103,7 @@ While I still value Mastodon, I've since joined Bluesky as more researchers migr
 I maintain a GitHub profile for programming and collaborative projects.
 I created a LinkedIn account solely out of professional necessity, though I've been mostly inactive there.
 Unlike Bluesky and Mastodon, the content on LinkedIn often feels shallow by comparison.
-However, I’ve been checking in more frequently lately, as some solid blog posts and announcements get shared.
-It is also the first page that shows up in many search engines when someone searches for my name.
+It is, however, the first page that shows up in many search engines when someone searches for my name.
 
 I have some other accounts as well, either real or pseudonymous, but I don’t share them publicly since they serve more personal or specialized purposes and don’t need to be listed here.
 While this may seem obvious, it's worth noting that any accounts using my name but not linked from this website may not be mine!
