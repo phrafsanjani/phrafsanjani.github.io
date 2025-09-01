@@ -22,7 +22,7 @@ In the next few sections, I share my academic focus along with some other nerdy 
 I am passionate about both theoretical and applied statistics.
 My research interests span computational biology, bioinformatics, and statistical applications in psychology, economics, and other social sciences.
 Statistics in the language of data analysis and therefore a lot of sciences, which has its roots in mathematics, while encompassing a rich philosophy and sparking hot debates.
-I find it interesting that such an important field which deals with uncertainty has been born out of mathematics, a stronghold of certainty!
+I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
 Imagine what a power it is to think and reason in such an impressive language, to be able to understand and evaluate studies done in different fields, or at least have a general idea about them.
 
 ### Computational Biology and Bioinformatics
@@ -56,8 +56,8 @@ In another letter, he writes:
 ― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 48. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
 
 His letters are filled with wisdom, and although they were written around two thousand years ago, I believe they remain relevant to modern human beings.
-They have personally helped me navigate the pandemic and thorugh sad and lonely times.
-It is indeed a pleasure to have a friend and mentor by your side, someone who can calm you with their words and help you grow, especially when many others, whose presence we feel, lack such capabilities.
+They have personally helped me navigate the pandemic and through sad and lonely times.
+It is indeed a pleasure to have such a friend and mentor by your side, someone who can calm you with their words and help you grow, especially when many others, whose presence we feel, lack such capabilities.
 
 ### Psychology
 
@@ -68,7 +68,7 @@ I would like to follow some research on quantitative psychology at some point as
 ### Economics
 
 Economics is another field I occasionally study.
-We should all strive to be good decision-makers, and economic literacy is key to this.
+We should all strive to be good decision-makers, and economic literacy, I believe, is key to this.
 Economics isn't just about money and markets; it's a framework for life.
 I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
 And of course, imagine how fascinating it is to be able to understand and follow econometric literature...
