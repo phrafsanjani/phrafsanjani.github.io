@@ -27,8 +27,8 @@ At the core of my motivation is my conviction that data and statistical literacy
 
 Building on probability theory, statistical sciences also provide powerful tools to model and analyze natural phenomena.
 My particular interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
-To me, meaningful work means seeing how my efforts tangibly help others.
-That’s why I want to formally work in the biomedical field—combining my passion for molecular and cell biology with the opportunity to make a real difference.
+I believe that helping improve people’s health and making a true difference through biological fields is a great purpose.
+That’s why I want to formally work in the biomedical field, as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to public health.
 
 ## Independent Studies
 
@@ -61,7 +61,7 @@ My interest in psychology focuses specifically on close relationships, singlehoo
 
 Economics is another field I occasionally study.
 We should all strive to be good decision-makers, and economic literacy is key to this.
-Economics isn't just about money and markets—it's a framework for life.
+Economics isn't just about money and markets; it's a framework for life.
 I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
 
 ### Open-Source & GNU/Linux
@@ -69,7 +69,7 @@ I believe that with economic knowledge, we can make better choices, from everyda
 Beyond academia, I'm a GNU/Linux enthusiast.
 I began using GNU/Linux in 2020,
 starting with Ubuntu before exploring other distributions like Fedora, Linux Mint, and Pop!\_OS.
-After primarily using Pop!_OS for several years, I transitioned to Arch Linux—and have had no major issues with it since.
+Having used Pop!_OS as my primary OS for several years, I transitioned to Arch Linux and have experienced no major issues so far.
 
 My main motivation was to deepen my understanding of Linux.
 Arch has taught me what questions to ask when configuring my system for my workflow,
@@ -91,7 +91,7 @@ I try to avoid social media as much as possible.
 I have no interest nor any reason to keep up with what is happening in the life of someone I met years ago and with whom I don't feel any connection now!
 I dislike the hollow, superficial connections of social media; I’d rather form deeper bonds with people and focus on self-development without obsessing over how I'm seen in the eyes of others.
 Also, I deliberately limit what I share online and refuse to contribute to companies with proven unethical behavior where feasible.
-That said, I do use social media sparingly—mostly to connect with academics and follow scholarly discussions, stay updated on topics of interest, message others, and keep track of relevant announcements or events.
+That said, I use social media sparingly to connect with academics, follow scholarly discussions, stay informed on topics of interest, message others, and keep track of relevant announcements and events.
 That's my social media philosophy in a nutshell.
 
 I stopped using Facebook and Instagram years ago, and I don't miss them at all.
