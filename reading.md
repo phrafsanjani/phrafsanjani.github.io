@@ -1,5 +1,20 @@
 # Reading
 
+I have always been an avid reader and a book lover. When I was younger, I primarily enjoyed fiction.
+But nowadays, I cannot just read any book or any story. I have become too picky,
+and I only opt for the very good stories when it comes to fiction!
+Aside from that, most of my reading consists of non-fiction and textbooks,
+including books and papers related to my research and other interests as I discussed in [About Me](/) section.
+
+Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews.
+While I haven’t read every textbook from cover to cover,
+I have thoroughly read all the fiction and philosophy titles,
+except for the ones I'm currently reading (Seneca's Letters on Ethics and ASOIAF).
+
+I have looked through a lot of textbooks, and the ones listed here are the ones I really enjoyed and could get along with.
+However, there are also some books that are not listed because I really liked them,
+but because they are comprehensive and can serve as good references (Casella & Berger, I’m looking at you!).
+
 \toc
 
 ## Books
