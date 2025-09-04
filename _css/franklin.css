@@ -11,6 +11,12 @@
   --text-color: hsv(0, 0%, 20%);
   --navigation-color: #004de6;
   --navigation-hover-color: #B87CFC;
+  --button-border: rgba(0, 0, 0, 0.2);
+  --button-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  --button-border-hover: rgba(0, 0, 0, 0.15);
+  --button-shadow-hover: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  --button-bg-active: #F0F0F1;
+  --button-shadow-active: rgba(0, 0, 0, 0.06) 0 2px 4px;
 }
 
 .darkmode {
@@ -21,6 +27,12 @@
   --text-color: #e8e8e8;
   --navigation-color: #5B7CFF;
   --navigation-hover-color: #A78BFA;
+  --button-border: rgba(255, 255, 255, 0.05);
+  --button-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px 0;
+  --button-border-hover: rgba(255, 255, 255, 0.1);
+  --button-shadow-hover: rgba(0, 0, 0, 0.4) 0 4px 12px;
+  --button-bg-active: #4A5568;
+  --button-shadow-active: rgba(0, 0, 0, 0.2) 0 2px 4px;
 }
 
 /* ==================================================================

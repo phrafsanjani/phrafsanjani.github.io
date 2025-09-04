@@ -352,3 +352,77 @@ button:hover {
     top: 0px;
   }
 }
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 13em;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 5px 9px var(--button-border);
+  margin: 0.443em;
+}
+
+.card img {
+  width: 100%;
+  padding: 0;
+  height: auto;
+}
+
+.card-content {
+  padding: 0.6em;
+}
+
+#author {
+  font-size: medium;
+}
+
+.button-6 {
+  align-items: center;
+  background-color: var(--background-color);
+  border: 1px solid var(--button-border);
+  border-radius: .25rem;
+  box-shadow: var(--button-shadow);
+  box-sizing: border-box;
+  color: var(--text-color);
+  cursor: pointer;
+  display: inline-flex;
+  font-size: 0.7em;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none !important;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+.button-6:hover,
+.button-6:focus {
+  border-color: var(--button-border-hover);
+  box-shadow: var(--button-shadow-hover);
+  color: var(--navigation-hover-color);
+}
+
+.button-6:hover {
+  transform: translateY(-1px);
+}
+
+.button-6:active {
+  background-color: var(--button-bg-active);
+  border-color: var(--button-border-hover);
+  box-shadow: var(--button-shadow-active);
+  color: var(--navigation-hover-color);
+  transform: translateY(0);
+}
