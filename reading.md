@@ -60,14 +60,6 @@ but because they are comprehensive and can serve as good references (Casella & B
             <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
-    <div class="card">
-        <img src="https://m.media-amazon.com/images/I/71Q2KEJI8WL._SL1500_.jpg">
-        <div class="card-content">
-            <h4>Statistical Inference</h4>
-            <p id="author">George Casella & Roger L. Berger</p>
-            <a href="" class="button-6" role="button">My Review</a>
-        </div>
-    </div>
 </div>
 ~~~
 
@@ -87,22 +79,6 @@ but because they are comprehensive and can serve as good references (Casella & B
         <div class="card-content">
             <h4>Advanced Linear and Matrix Algebra</h4>
             <p id="author">Nathaniel Johnston</p>
-            <a href="" class="button-6" role="button">My Review</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/linear-vaez.jpg">
-        <div class="card-content">
-            <h4>Linear Algebra and Matrices</h4>
-            <p id="author">S. Mansour Vaezpour</p>
-            <a href="" class="button-6" role="button">My Review</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/matrix-gentle.jpg">
-        <div class="card-content">
-            <h4>Matrix Algebra: Theory, Computations and Applications in Statistics</h4>
-            <p id="author">James E. Gentle</p>
             <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
