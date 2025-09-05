@@ -1,5 +1,9 @@
 # Reading
 
+\toc
+
+## Books
+
 I have always been an avid reader and a book lover. When I was younger, I primarily enjoyed fiction.
 But nowadays, I cannot just read any book or any story. I have become too picky,
 and I only opt for the very good stories when it comes to fiction!
@@ -13,9 +17,6 @@ except for the ones I'm currently reading (Seneca's Letters on Ethics and ASOIAF
 
 I have looked through a lot of textbooks, and the ones listed here are the ones I really enjoyed and could get along with.
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
-\toc
-
-## Books
 
 ### Probability Theory
 ~~~
