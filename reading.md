@@ -19,6 +19,28 @@ but because they are comprehensive and can serve as good references (Casella & B
 
 ## Books
 
+### Probability Theory
+~~~
+<div class="card-container">
+    <div class="card">
+        <img src="/assets/covers/probability-blitzstein.jpg">
+        <div class="card-content">
+            <h4>Introduction to Probability</h4>
+            <p id="author">Joseph K. Blitzstein & Jessica Hwang</p>
+            <a href="" class="button-6" role="button">My Review</a>
+        </div>
+    </div>
+    <div class="card">
+        <img src="/assets/covers/probability-parsian.jpg">
+        <div class="card-content">
+            <h4>An Introduction to Probability and Distribution Theory</h4>
+            <p id="author">Abdolrasool Borhani Haghighi & Ahmad Parsian & Soltan Mohammad Sadooghi-Alvandi & Syed N.U.A. Kirmani & Ezzat Kirmani</p>
+            <a href="" class="button-6" role="button">My Review</a>
+        </div>
+    </div>
+</div>
+~~~
+
 ### Mathematical Statistics
 ~~~
 <div class="card-container">
