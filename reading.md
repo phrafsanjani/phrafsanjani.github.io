@@ -12,9 +12,7 @@ I have thoroughly read all the fiction and philosophy titles,
 except for the ones I'm currently reading (Seneca's Letters on Ethics and ASOIAF).
 
 I have looked through a lot of textbooks, and the ones listed here are the ones I really enjoyed and could get along with.
-However, there are also some books that are not listed because I really liked them,
-but because they are comprehensive and can serve as good references (Casella & Berger, I’m looking at you!).
-
+Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
 \toc
 
 ## Books
