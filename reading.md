@@ -10,10 +10,11 @@ and I only opt for the very good stories when it comes to fiction!
 Aside from that, most of my reading consists of non-fiction and textbooks,
 including books and papers related to my research and other interests as I discussed in [About Me](/) section.
 
-Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews.
+Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews (Persian reviews for books I read in Persian, and English reviews for books I read in English).
+You can also check out [my Goodreads account](https://www.goodreads.com/phrafsanjani), where I try to add other books I’ve read.
 While I haven’t read every textbook from cover to cover,
 I have thoroughly read all the fiction and philosophy titles,
-except for the ones I'm currently reading (Seneca's Letters on Ethics and ASOIAF).
+except for [the ones I'm currently reading](https://www.goodreads.com/review/list/193594653-parsa?shelf=currently-reading).
 
 I have looked through a lot of textbooks, and the ones listed here are the ones I really enjoyed and could get along with.
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
@@ -198,11 +199,21 @@ Finding some of these books was random, but it made me very happy since I couldn
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/stranger-camus.jpg">
         <div class="card-content">
-            <h4>The Stranger</h4>
-            <p id="author">Albert Camus</p>
-            <a href="" class="button-6" role="button">My Review</a>
+            <div id="normal-card" class="visible-content">
+                <img src="/assets/covers/stranger-camus.jpg">
+                <h4>The Stranger</h4>
+                <p id="author">Albert Camus</p>
+                <a onclick="toggleContent()" class="button-6" role="button">My Review</a>
+            </div>
+            <div id="review-card" class="hidden-content">
+                <a href="https://www.goodreads.com/book/show/1694795._" style="float: left; padding-right: 20px"><img border="0" alt="بیگانه" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621094492l/1694795._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/1694795._">بیگانه</a> by <a href="https://www.goodreads.com/author/show/957894.Albert_Camus">Albert Camus</a><br/>
+                My rating: <a href="https://www.goodreads.com/review/show/7890680282">4 of 5 stars</a><br /><br />
+                این کتاب رو حدود دو سال پیش خوندم، ولی همچنان اون فضا و جوی که برام ایجاد کرده بود رو میتونم حس بکنم. وقتی میخوندمش حتی رنگ کاهی ورقهاش هم فضا رو پوچ‌تر می‌کرد!<br />مورسو در ابتدا به نظر میرسه که یه شخصیت یبسیه (فکر میکنم این کلمه بهتر از خشک و نچسب باشه تو اینجا، هرچند نمی‌خواستم ازش استفاده کنم). کسی که خیلی زندگی عادی داره، اما از دید بقیه آدم نرمالی نیست! بقیه یه حسی بالاخره نسبت به مرگ مادرشون دارن، عواطفی، احساساتی، ولی این آدم انگار تهی از عواطفه.<br />حسی که من از این شخصیت میگیرم آزادی نیست، رهایی نیست، بلکه بیخیالیه! سیزیفیه که سنگ رو میبره بالای قله فقط برای اینکه کار دیگه‌ای نداره بکنه، نه خوشش میاد از این کار، نه بدش میاد، نه راضیه و نه ناراضی. با جریان زندگی همراه میشه و درگیر حواشی نمیشه. با یه سری چیزا حال میکنه، مثل اینکه با دوست دخترش بگرده، ولی اگه دوست دختری هم نداشته باشه اوکیه. لذت اگه بود خوبه، اگه نبود هم چیزی نمیشه!<br />ولی جریان زندگی همیشه آروم نیست، در نهایت یه مانع جلوی مورسو قرار میگیره. اینجاست که درنهایت خشم مورسو رو احساس می‌کنیم. مورسو شاید قبلتر تونسته بود با این روند بیخیالی زندگی رو بگذرونه و پیش بره، کسی براش اهمیت نداشته باشه، ولی بقیه براشون مورسو اهمیت داره! چطور میشه یه نفر خودشو اینقدر از بقیه ما جدا کنه؟! مورسو باید تقاص پس بده!<br />گام آخر برای اینکه مورسوی غیرعادی (از دید ما!)‌ رو به زندگی عادی خودمون بیاریم مرگه. اما آیا مرگ باعث میشه مورسو عواطفشو به دست بیاره؟ آیا باعث میشه مورسو گریه کنه؟ اگه مذهبیون رو براش بفرستیم که به راه راست هدایتش کنن، آیا به آخرت باور پیدا میکنه؟<br />الان که به پایان کتاب فکر می‌کنم به نظرم میشه گفت مورسو در نهایت آزاد و رها از همه چیز میشه.<br />مورسو شخصیتی مثل فرنک گلگر سریال شیملس نیست که از عشق و مسئولیتاش فرار کنه. مورسو اصلا چیزی براش مهم نیست که بخواد ازش فرار کنه. از طرفی هم شخصی حکیم و رواقی مثل استیلبویی که سنکا ازش صحبت میکنه نیست: کسی که کل سرزمینش رو غارت کردن و همه چیشو ازش گرفتن و بعد برای تحقیر آوردنش پیش پادشاه متجاوز. پادشاه ازش پرسید بگو ببینم چیا از دست دادی؟ و استیلبو گفت هیچی از دست ندادم! به قول سنکا، استیلبو متجاوز به سرزمینش رو فتح کرد، و نه برعکس.<br />شاید مورسو در پایان مشابه استیلبو شده بود، ولی باز هم برای من تداعی‌گر شخصتی حکیم نیست که با تمرین و تفکر و اندیشه زیاد به مقام رواقی‌گری رسیده باشه، و با این حال با خیلی از آدمای خشکی که تو زندگیم دیدم هم فرق داره :)
+                <br/><br/>
+                <a id="review-card" href="https://www.goodreads.com/review/list/193594653-parsa">View all my reviews</a>
+                <a onclick="toggleContent()" class="button-6" role="button">Back</a>
+            </div>
         </div>
     </div>
 </div>
