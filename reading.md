@@ -223,11 +223,13 @@ Finding some of these books was random, but it made me very happy since I couldn
 ~~~
 <div class="card-container">
     <div class="card">
+        <div id="normal-card" class="visible-content">
         <img src="/assets/covers/economics-mankiw.jpg">
         <div class="card-content">
             <h4>Principles of Economics</h4>
             <p id="author">N. Gregory Mankiw</p>
             <a href="" class="button-6" role="button">My Review</a>
+        </div>
         </div>
     </div>
 </div>

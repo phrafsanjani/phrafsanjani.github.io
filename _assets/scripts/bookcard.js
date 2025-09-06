@@ -1,14 +1,9 @@
 function toggleContent() {
-    const hiddenContent = document.querySelector('.hidden-content');
-    const visibleContent = document.querySelector('.visible-content');
-    const toggleButton = document.querySelector('.button-6');
+    const normalCard = document.querySelector('#normal-card');
+    const reviewCard = document.querySelector('#review-card');
+
+    reviewCard.style.height = `${normalCard.offsetHeight}px`;
     
-    hiddenContent.classList.toggle('visible');
-    visibleContent.classList.toggle('hidden');
-    
-    if (hiddenContent.classList.contains('visible')) {
-        toggleButton.textContent = 'Back';
-    } else {
-        toggleButton.textContent = 'My Review';
-    }
+    reviewCard.classList.toggle('visible');
+    normalCard.classList.toggle('hidden');
 }
