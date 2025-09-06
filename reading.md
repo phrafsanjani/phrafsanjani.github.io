@@ -52,14 +52,6 @@ Finding some of these books was random, but it made me very happy since I couldn
             <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
-    <div class="card">
-        <img src="/assets/covers/MathStat.jpg">
-        <div class="card-content">
-            <h4>Theory of Statistics</h4>
-            <p id="author">James E. Gentle</p>
-            <a href="" class="button-6" role="button">My Review</a>
-        </div>
-    </div>
 </div>
 ~~~
 
