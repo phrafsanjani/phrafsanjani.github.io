@@ -246,15 +246,25 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div class="card-content">
             <h4>A Song of Ice and Fire</h4>
             <p id="author">George R. R. Martin</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
-    <div class="card">
-        <img src="/assets/covers/ivan-tolstoy.jpg">
-        <div class="card-content">
+    <div id="ivan" class="card">
+        <div class="normal-card card-content visible-content">
+            <img src="/assets/covers/ivan-tolstoy.jpg">
             <h4>The Death of Ivan Ilyich</h4>
             <p id="author">Leo Tolstoy</p>
-            <a href="" class="button-6" role="button">My Review</a>
+            <a onclick="toggleContent(this)" class="button-6" role="button">My Review</a>
+        </div>
+        <div class="review-card card-content hidden-content">
+        <a href="https://www.goodreads.com/book/show/13604101" style="float: left; padding-right: 20px"><img border="0" alt="مرگ ایوان ایلیچ" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506527676l/13604101._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/13604101">مرگ ایوان ایلیچ</a> by <a href="https://www.goodreads.com/author/show/128382.Leo_Tolstoy">Leo Tolstoy</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 stars</a><br /><br />
+        <p style="direction:rtl;">
+این کتاب رو حدود دو سال پیش خوندم و حقیقتاً یکی از اون بهترین کتابهاست!<br />این کتاب انگار آدم رو واقعا یک بار میکشه و مرگ رو جلو چشمای خواننده میاره. خیلی وقتها پیش میاد که از خودم میپرسم آیا واقعاً دارم راه درست رو میرم؟ آیا انتخابهایی که تو زندگیم میکنم و الان فکر میکنم درسته سالها بعد هم درموردشون همین فکر رو خواهم کرد؟<br />آخه از کجا بدونم که بعدها پشیمون نمیشم از تصمیمم؟ اصلاً انتخاب درست چیه؟<br />ایوان ایلیچ کجای زندگیش رو اشتباه کرد که اینقدر مرگ براش غیرقابل قبول بود؟ شاید چون خیلی سرش به زندگی گرم بوده کلاً مرگ رو فراموش کرده بود.<br />یکی از عقاید مهم فیلسوفان رواقی اینه که انسان باید مرگ رو همیشه به یاد داشته باشه. در آثار سنکا میبینیم که باید طوری زندگی کنیم که انگار هر روز روز آخره، از هر روز لذت ببریم و زندگی رو عقب نندازیم.<br />یه ایده خوب شاید این باشه که بیایم زندگیمون رو تا اینجا بنویسیم، همون طور که تولستوی زندگی ایوان رو شرح میده. بعد ببینیم اگر در ادامه مثل ایوان شدیم، آیا واقعاً راضی هستیم از زندگی که تا اینجا کردیم؟
+            </p>
+            <br/><br/>
+            <a id="review-card" href="https://www.goodreads.com/review/list/193594653-parsa">View all my reviews</a>
+            <br/><br/>
+            <a onclick="toggleContent(this)" class="button-6" role="button">Back</a>
         </div>
     </div>
     <div class="card">
