@@ -277,3 +277,9 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
     </div>
 </div>
 ~~~
+
+## Movies & TV Series
+
+You can find a list of movies and miniseries I've watched on [my Letterboxd account](https://letterboxd.com/phrafsanjani/),
+although I currently don't write reviews for screen media and just star them.
+Unlike books, movies and TV series are my way of escapism and simply enjoying the experience.
