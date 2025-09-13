@@ -430,7 +430,7 @@ button:hover {
   transform: translateY(0);
 }
 
-#review-card {
+.review-card {
   overflow-y: auto;
 }
 

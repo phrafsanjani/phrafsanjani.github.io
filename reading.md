@@ -174,12 +174,22 @@ Finding some of these books was random, but it made me very happy since I couldn
             <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
-    <div class="card">
-        <img src="/assets/covers/enchiridion-epictetus.jpg">
-        <div class="card-content">
-            <h4>The Enchiridion</h4>
-            <p id="author">Epictetus</p>
-            <a href="" class="button-6" role="button">My Review</a>
+    <div id="enchiridion" class="card">
+        <div class="normal-card card-content visible-content">
+            <img src="/assets/covers/enchiridion-epictetus.jpg">
+            <div class="card-content">
+                <h4>The Enchiridion</h4>
+                <p id="author">Epictetus</p>
+            </div>
+            <a onclick="toggleContent(this)" id="enchiridion" class="button-6" role="button">My Review</a>
+        </div>
+        <div class="review-card card-content hidden-content">
+        <a href="https://www.goodreads.com/book/show/39675585-the-enchiridion" style="float: left; padding-right: 20px"><img border="0" alt="The Enchiridion" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522300004l/39675585._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/39675585-the-enchiridion">The Enchiridion</a> by <a href="https://www.goodreads.com/author/show/13852.Epictetus">Epictetus</a><br/>
+My rating: <a href="https://www.goodreads.com/review/show/7896899298">5 of 5 stars</a><br /><br />
+This is a brief introduction to Stoicism, starting with the core principle of the philosophy (some things are in our control and others not.) While reading Seneca's letters on ethics, I recalled passages from The Enchiridion and made connections between the two. I believe this short handbook serves as an excellent summary of the main Stoic beliefs.<br />The beauty of Stoicism is that it was not just a philosophy for lords or people of high rank; it included wise individuals from various social standings. Epictetus's words are filled with wisdom, just like those of Seneca and Marcus Aurelius. Whether slave, senator, or king, they were all great individuals.
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/193594653-parsa">View all my reviews</a>
+            <a onclick="toggleContent(this)" class="button-6" role="button">Back</a>
         </div>
     </div>
     <div class="card">
@@ -190,14 +200,14 @@ Finding some of these books was random, but it made me very happy since I couldn
             <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
-    <div class="card">
-        <div id="normal-card" class="card-content visible-content">
+    <div id="stranger" class="card">
+        <div class="normal-card card-content visible-content">
             <img src="/assets/covers/stranger-camus.jpg">
             <h4>The Stranger</h4>
             <p id="author">Albert Camus</p>
-            <a onclick="toggleContent()" class="button-6" role="button">My Review</a>
+            <a onclick="toggleContent(this)" class="button-6" role="button">My Review</a>
         </div>
-        <div id="review-card" class="card-content hidden-content">
+        <div class="review-card card-content hidden-content">
             <a href="https://www.goodreads.com/book/show/1694795._" style="float: left; padding-right: 20px"><img border="0" alt="بیگانه" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621094492l/1694795._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/1694795._">بیگانه</a> by <a href="https://www.goodreads.com/author/show/957894.Albert_Camus">Albert Camus</a><br/>
             My rating: <a href="https://www.goodreads.com/review/show/7890680282">4 of 5 stars</a><br /><br />
             <p style="direction:rtl;">
@@ -206,7 +216,7 @@ Finding some of these books was random, but it made me very happy since I couldn
             <br/><br/>
             <a id="review-card" href="https://www.goodreads.com/review/list/193594653-parsa">View all my reviews</a>
             <br/><br/>
-            <a onclick="toggleContent()" class="button-6" role="button">Back</a>
+            <a onclick="toggleContent(this)" class="button-6" role="button">Back</a>
         </div>
     </div>
 </div>
