@@ -12,11 +12,20 @@ including books and papers related to my research and other interests as I discu
 
 Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews (Persian reviews for books I read in Persian, and English reviews for books I read in English).
 You can also check out [my Goodreads account](https://www.goodreads.com/phrafsanjani), where I try to add other books I’ve read.
+
+I created my first Goodreads account when I was in my early teens,
+but I removed it and then created another account before removing it again!
+The reason was that my to-read list would become so big it gave me anxiety, and also because Goodreads is owned by Amazon.
+But I finally decided to keep one account, given that it is still well-established among readers, so many editions are available for each book, and the UI is comparably better than alternatives.
+
 While I haven’t read every textbook from cover to cover,
 I have thoroughly read all the fiction and philosophy titles,
 except for [the ones I'm currently reading](https://www.goodreads.com/review/list/193594653-parsa?shelf=currently-reading).
 
-I have looked through a lot of textbooks, and the ones listed here are the ones I really enjoyed and could get along with.
+I have looked through many textbooks, and the ones listed here are those I truly enjoyed and found comprehensive enough to build strong fundamentals.
+Researchers must read numerous books and papers, but newcomers need a solid foundation to go further.
+These days, many lecture notes and course materials are sufficient to build these foundations, and of course, many textbooks grow out of these lecture notes.
+However, the books I've listed here are the ones I would read cover to cover if I was learning the material on my own for the first time.
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
 
 ### Probability Theory
