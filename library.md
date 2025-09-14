@@ -25,14 +25,14 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/probability-blitzstein.jpg">
         <div class="card-content">
-            <h4>Introduction to Probability</h4>
+            <p id="book-title">Introduction to Probability</p>
             <p id="author">Joseph K. Blitzstein & Jessica Hwang</p>
         </div>
     </div>
     <div class="card">
         <img src="/assets/covers/probability-parsian.jpg">
         <div class="card-content">
-            <h4>An Introduction to Probability and Distribution Theory</h4>
+            <p id="book-title">An Introduction to Probability and Distribution Theory</p>
             <p id="author">Abdolrasool Borhani Haghighi & Ahmad Parsian & Soltan Mohammad Sadooghi-Alvandi & Syed N.U.A. Kirmani & Ezzat Kirmani</p>
         </div>
     </div>
@@ -45,7 +45,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="https://m.media-amazon.com/images/I/51BELD670QL.jpg">
         <div class="card-content">
-            <h4>Introduction to Mathematical Statistics</h4>
+            <p id="book-title">Introduction to Mathematical Statistics</p>
             <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
         </div>
     </div>
@@ -58,14 +58,14 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/intro-linear-johnston.jpg">
         <div class="card-content">
-            <h4>Introduction to Linear and Matrix Algebra</h4>
+            <p id="book-title">Introduction to Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
         </div>
     </div>
     <div class="card">
         <img src="/assets/covers/advanced-linear-johnston.jpg">
         <div class="card-content">
-            <h4>Advanced Linear and Matrix Algebra</h4>
+            <p id="book-title">Advanced Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
         </div>
     </div>
@@ -78,7 +78,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/calc-larson.jpg">
         <div class="card-content">
-            <h4>Calculus: Early Transcendental Functions</h4>
+            <p id="book-title">Calculus: Early Transcendental Functions</p>
             <p id="author">Ron Larson & Bruce Edwards</p>
         </div>
     </div>
@@ -91,21 +91,21 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/analysis-tao.jpg">
         <div class="card-content">
-            <h4>Analysis I</h4>
+            <p id="book-title">Analysis I</p>
             <p id="author">Terence Tao</p>
         </div>
     </div>
     <div class="card">
         <img src="/assets/covers/analysis-pugh.jpg">
         <div class="card-content">
-            <h4>Real Mathematical Analysis</h4>
+            <p id="book-title">Real Mathematical Analysis</p>
             <p id="author">Charles C. Pugh</p>
         </div>
     </div>
     <div class="card">
         <img src="/assets/covers/analysis-abbott.jpg">
         <div class="card-content">
-            <h4>Understanding Analysis</h4>
+            <p id="book-title">Understanding Analysis</p>
             <p id="author">Stephen Abbott</p>
         </div>
     </div>
@@ -118,7 +118,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/foundation-of-math-khani.jpg">
         <div class="card-content">
-            <h4>Foundation of Mathematics</h4>
+            <p id="book-title">Foundation of Mathematics</p>
             <p id="author">Mohsen Khani</p>
         </div>
     </div>
@@ -131,7 +131,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/linux-security-tevault.jpg">
         <div class="card-content">
-            <h4>Mastering Linux Security and Hardening: A practical guide to protecting your Linux system from cyber attacks</h4>
+            <p id="book-title">Mastering Linux Security and Hardening: A practical guide to protecting your Linux system from cyber attacks</p>
             <p id="author">Donald A. Tevault</p>
         </div>
     </div>
@@ -144,7 +144,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/discrete-math-rosen.jpg">
         <div class="card-content">
-            <h4>Discrete Mathematics and Its Applications</h4>
+            <p id="book-title">Discrete Mathematics and Its Applications</p>
             <p id="author">Kenneth H. Rosen</p>
         </div>
     </div>
@@ -157,7 +157,7 @@ Finding some of these books was random, but it made me very happy since I couldn
     <div class="card">
         <img src="/assets/covers/moral-letters-seneca.jpg">
         <div class="card-content">
-            <h4>Letters on Ethics: To Lucilius</h4>
+            <p id="book-title">Letters on Ethics: To Lucilius</p>
             <p id="author">Lucius Annaeus Seneca</p>
         </div>
     </div>
@@ -165,7 +165,7 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="normal-card visible-content">
             <img src="/assets/covers/enchiridion-epictetus.jpg">
             <div class="card-content">
-                <h4>The Enchiridion</h4>
+                <p id="book-title">The Enchiridion</p>
                 <p id="author">Epictetus</p>
             </div>
         </div>
@@ -183,7 +183,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
     <div class="card">
         <img src="/assets/covers/caligula-camus.jpg">
         <div class="card-content">
-            <h4>Caligula</h4>
+            <p id="book-title">Caligula</p>
             <p id="author">Albert Camus</p>
         </div>
     </div>
@@ -191,7 +191,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div class="normal-card visible-content">
             <img src="/assets/covers/stranger-camus.jpg">
             <div class="card-content">
-                <h4>The Stranger</h4>
+                <p id="book-title">The Stranger</p>
                 <p id="author">Albert Camus</p>
             </div>
         </div>
@@ -219,7 +219,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div id="normal-card" class="visible-content">
         <img src="/assets/covers/economics-mankiw.jpg">
         <div class="card-content">
-            <h4>Principles of Economics</h4>
+            <p id="book-title">Principles of Economics</p>
             <p id="author">N. Gregory Mankiw</p>
         </div>
         </div>
@@ -233,7 +233,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
     <div class="card">
         <img src="/assets/covers/asoiaf.jpg">
         <div class="card-content">
-            <h4>A Song of Ice and Fire</h4>
+            <p id="book-title">A Song of Ice and Fire</p>
             <p id="author">George R. R. Martin</p>
         </div>
     </div>
@@ -241,7 +241,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div class="normal-card visible-content">
             <img src="/assets/covers/ivan-tolstoy.jpg">
             <div class="card-content">
-                <h4>The Death of Ivan Ilyich</h4>
+                <p id="book-title">The Death of Ivan Ilyich</p>
                 <p id="author">Leo Tolstoy</p>
             </div>
         </div>
@@ -263,7 +263,7 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
     <div class="card">
         <img src="/assets/covers/saga-darren-shan.jpg">
         <div class="card-content">
-            <h4>The Saga of Darren Shan</h4>
+            <p id="book-title">The Saga of Darren Shan</p>
             <p id="author">Darren Shan</p>
         </div>
     </div>

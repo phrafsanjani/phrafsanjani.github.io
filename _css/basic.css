@@ -380,6 +380,11 @@ button:hover {
   overflow: hidden;
 }
 
+#book-title {
+  font-size: large;
+  font-weight: bold;
+}
+
 #author {
   font-size: medium;
 }
