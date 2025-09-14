@@ -96,13 +96,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/analysis-pugh.jpg">
-        <div class="card-content">
-            <p id="book-title">Real Mathematical Analysis</p>
-            <p id="author">Charles C. Pugh</p>
-        </div>
-    </div>
-    <div class="card">
         <img src="/assets/covers/analysis-abbott.jpg">
         <div class="card-content">
             <p id="book-title">Understanding Analysis</p>
