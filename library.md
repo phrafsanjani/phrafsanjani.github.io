@@ -27,7 +27,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Introduction to Probability</h4>
             <p id="author">Joseph K. Blitzstein & Jessica Hwang</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div class="card">
@@ -35,7 +34,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>An Introduction to Probability and Distribution Theory</h4>
             <p id="author">Abdolrasool Borhani Haghighi & Ahmad Parsian & Soltan Mohammad Sadooghi-Alvandi & Syed N.U.A. Kirmani & Ezzat Kirmani</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -49,7 +47,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Introduction to Mathematical Statistics</h4>
             <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -63,7 +60,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Introduction to Linear and Matrix Algebra</h4>
             <p id="author">Nathaniel Johnston</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div class="card">
@@ -71,7 +67,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Advanced Linear and Matrix Algebra</h4>
             <p id="author">Nathaniel Johnston</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -85,7 +80,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Calculus: Early Transcendental Functions</h4>
             <p id="author">Ron Larson & Bruce Edwards</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -99,7 +93,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Analysis I</h4>
             <p id="author">Terence Tao</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div class="card">
@@ -107,7 +100,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Real Mathematical Analysis</h4>
             <p id="author">Charles C. Pugh</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div class="card">
@@ -115,7 +107,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Understanding Analysis</h4>
             <p id="author">Stephen Abbott</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -129,7 +120,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Foundation of Mathematics</h4>
             <p id="author">Mohsen Khani</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -143,7 +133,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Mastering Linux Security and Hardening: A practical guide to protecting your Linux system from cyber attacks</h4>
             <p id="author">Donald A. Tevault</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -157,7 +146,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Discrete Mathematics and Its Applications</h4>
             <p id="author">Kenneth H. Rosen</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -171,7 +159,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         <div class="card-content">
             <h4>Letters on Ethics: To Lucilius</h4>
             <p id="author">Lucius Annaeus Seneca</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div id="enchiridion" class="card">
@@ -197,7 +184,6 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div class="card-content">
             <h4>Caligula</h4>
             <p id="author">Albert Camus</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div id="stranger" class="card">
@@ -231,7 +217,6 @@ This is a brief introduction to Stoicism, starting with the core principle of th
         <div class="card-content">
             <h4>Principles of Economics</h4>
             <p id="author">N. Gregory Mankiw</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
         </div>
     </div>
@@ -273,7 +258,6 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
         <div class="card-content">
             <h4>The Saga of Darren Shan</h4>
             <p id="author">Darren Shan</p>
-            <a href="" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
