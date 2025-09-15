@@ -23,7 +23,7 @@ Further details may be added in future revisions.
 
 **Introduction to Statistical Inquiry (In Progress)**
 
-✍️ *Co-authored with Dr. Adel Mohammadpour for STAT205 students at University of Calgary*
+✍️ *Co-authored with Dr. Adel Mohammadpour for STAT205 students @ University of Calgary*
 - Released under a creative commons CC BY-SA 4.0 licence
 
 ## Honors & Awards
