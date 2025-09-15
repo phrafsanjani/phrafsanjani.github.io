@@ -105,13 +105,6 @@ Finding some of these books was random, but it made me very happy since I couldn
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/analysis-abbott.jpg">
-        <div class="card-content">
-            <p id="book-title">Understanding Analysis</p>
-            <p id="author">Stephen Abbott</p>
-        </div>
-    </div>
-    <div class="card">
         <img src="/assets/covers/MIRAcover.png">
         <div class="card-content">
             <p id="book-title">Measure, Integration & Real Analysis</p>
