@@ -17,16 +17,22 @@ Further details may be added in future revisions.
 
 ## Manuscripts
 
-- **Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions**
-    - *Collaborative research with Dr. Adel Mohammadpour:* We propose a unified framework for testing hypotheses within a general form of the exponential family, from which tests for other well-known special distributions can be derived.
+**Parsa H. Rafsanjani**, Adel Mohammadpour. Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions
+
+## Books
+
+**Introduction to Statistical Inquiry (In Progress)**
+
+*Co-authored with Dr. Adel Mohammadpour for STAT205 students at University of Calgary*
+- Released under a creative commons CC BY-SA 4.0 licence
 
 ## Honors & Awards
-- **Top Computer Sciences Student (2020 Cohort)**
-    - *Ranked #1 among over 60 students in the 2020 Computer Sciences cohort at Amirkabir University of Technology*
-- **Outstanding 10% student**
-    - *Consistently ranked in the top 10% of the 2020 Computer Sciences cohort at Amirkabir University of Technology across all semesters, surpassing the requirement of being in the top 10% for at least three out of the first four semesters*
-- **Outstanding university student**
-    - *Achieved a GPA exceeding 17.00 out of 20.00 across all semesters at Amirkabir University of Technology, surpassing the requirement of maintaining a GPA above 17.00 out of 20.00 in at least three out of the first four semesters*
+**Top Computer Sciences Student (2020 Cohort)**
+- *Ranked #1 among over 60 students in the 2020 Computer Sciences cohort at Amirkabir University of Technology*
+**Outstanding 10% student**
+- *Consistently ranked in the top 10% of the 2020 Computer Sciences cohort at Amirkabir University of Technology across all semesters, surpassing the requirement of being in the top 10% for at least three out of the first four semesters*
+**Outstanding university student**
+- *Achieved a GPA exceeding 17.00 out of 20.00 across all semesters at Amirkabir University of Technology, surpassing the requirement of maintaining a GPA above 17.00 out of 20.00 in at least three out of the first four semesters*
 
 ## Teaching Experience  
 **Teaching Assistant - Numerical Linear Algebra**
@@ -76,7 +82,10 @@ Further details may be added in future revisions.
 
 ## Technical Skills
 
-- **Languages:** Python, R, Bash, C/C++, Java, SQL, JavaScript, HTML/CSS
-- **Libraries:** PyTorch, scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib
-- **Developer Tools:** Git, VS Code, PyCharm, R Studio, RapidMiner, Qt Creator, IntelliJ, Visual Studio
-- **Operating Systems:** GNU/Linux, Windows
+**Languages:** Python, R, Bash, C/C++, Java, SQL, JavaScript, HTML/CSS
+
+**Libraries:** PyTorch, scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib
+
+**Developer Tools:** Git, VS Code, PyCharm, R Studio, RapidMiner, Qt Creator, IntelliJ, Visual Studio
+
+**Operating Systems:** GNU/Linux (Arch Linux, Pop_OS!, Ubuntu), Windows
