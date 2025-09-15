@@ -81,19 +81,6 @@ Finding some of these books was random, but it made me very happy since I couldn
 </div>
 ~~~
 
-### Calculus
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/calc-larson.jpg">
-        <div class="card-content">
-            <p id="book-title">Calculus: Early Transcendental Functions</p>
-            <p id="author">Ron Larson & Bruce Edwards</p>
-        </div>
-    </div>
-</div>
-~~~
-
 ### Real Analysis
 ~~~
 <div class="card-container">
