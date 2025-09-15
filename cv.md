@@ -86,6 +86,6 @@ Further details may be added in future revisions.
 
 **Libraries:** PyTorch, scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib
 
-**Developer Tools:** Git, VS Code, PyCharm, R Studio, RapidMiner, Qt Creator, IntelliJ, Visual Studio
+**Developer Tools:** Git, VS Code, Positron, PyCharm, RapidMiner, Qt Creator, IntelliJ, Visual Studio
 
 **Operating Systems:** GNU/Linux (Arch Linux, Pop_OS!, Ubuntu), Windows
