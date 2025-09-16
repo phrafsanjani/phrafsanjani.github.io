@@ -29,6 +29,11 @@ However, the books I've listed here are the ones I would read cover to cover if 
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
 
 ### Probability and Statistics
+
+I hope to get my hands on *The Simple and Infinite Joy of Mathematical Statistics* by J.N. Corcoran
+to see if it can replace Hogg's book here, as I think while Corcoran's may not cover as much material as Hogg's,
+it focuses on the most important topics and offers greater pedagogical value.
+As a matter of fact, [her videos](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR) attest to that!
 ~~~
 <div class="card-container">
     <div class="card">
