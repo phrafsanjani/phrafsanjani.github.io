@@ -28,7 +28,7 @@ These days, many lecture notes and course materials are sufficient to build thes
 However, the books I've listed here are the ones I would read cover to cover if I was learning the material on my own for the first time.
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
 
-### Probability Theory
+### Probability and Statistics
 ~~~
 <div class="card-container">
     <div class="card">
@@ -38,19 +38,6 @@ Finding some of these books was random, but it made me very happy since I couldn
             <p id="author">Joseph K. Blitzstein & Jessica Hwang</p>
         </div>
     </div>
-    <div class="card">
-        <img src="/assets/covers/probability-parsian.jpg">
-        <div class="card-content">
-            <p id="book-title">An Introduction to Probability and Distribution Theory</p>
-            <p id="author">Abdolrasool Borhani Haghighi & Ahmad Parsian & Soltan Mohammad Sadooghi-Alvandi & Syed N.U.A. Kirmani & Ezzat Kirmani</p>
-        </div>
-    </div>
-</div>
-~~~
-
-### Mathematical Statistics
-~~~
-<div class="card-container">
     <div class="card">
         <img src="https://m.media-amazon.com/images/I/51BELD670QL.jpg">
         <div class="card-content">
