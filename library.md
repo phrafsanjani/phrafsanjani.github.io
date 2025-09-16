@@ -114,19 +114,6 @@ Finding some of these books was random, but it made me very happy since I couldn
 </div>
 ~~~
 
-### GNU/Linux
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/linux-security-tevault.jpg">
-        <div class="card-content">
-            <p id="book-title">Mastering Linux Security and Hardening: A practical guide to protecting your Linux system from cyber attacks</p>
-            <p id="author">Donald A. Tevault</p>
-        </div>
-    </div>
-</div>
-~~~
-
 ### Philosophy
 ~~~
 <div class="card-container">
