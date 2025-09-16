@@ -201,3 +201,10 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
 You can find a list of movies and miniseries I've watched on [my Letterboxd account](https://letterboxd.com/phrafsanjani/),
 although I currently don't write reviews for screen media and just star them.
 Unlike books, movies and TV series are my way of escapism and simply enjoying the experience.
+
+## Websites and Blogs
+
+[James E. Gentle's personal website](https://mason.gmu.edu/~jgentle/): be sure to check out his library!
+
+[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/): you can also follow [this Bluesky account](https://bsky.app/profile/statmodeling.bsky.social)
+or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Mastodon to be notified of new posts.
