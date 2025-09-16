@@ -39,7 +39,7 @@ Finding some of these books was random, but it made me very happy since I couldn
         </div>
     </div>
     <div class="card">
-        <img src="https://m.media-amazon.com/images/I/51BELD670QL.jpg">
+        <img src="/assets/covers/stats-hogg.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Mathematical Statistics</p>
             <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
