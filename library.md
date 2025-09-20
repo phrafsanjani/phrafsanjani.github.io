@@ -84,10 +84,10 @@ it focuses on the most important topics and offers greater pedagogical value.
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/MIRAcover.png">
+        <img src="/assets/covers/measure-tao.jpg">
         <div class="card-content">
-            <p id="book-title">Measure, Integration & Real Analysis</p>
-            <p id="author">Sheldon Axler</p>
+            <p id="book-title">An Introduction to Measure Theory</p>
+            <p id="author">Terence Tao</p>
         </div>
     </div>
 </div>
