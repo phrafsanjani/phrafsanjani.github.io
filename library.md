@@ -10,7 +10,7 @@ and I only opt for the very good stories when it comes to fiction!
 Aside from that, most of my reading consists of non-fiction and textbooks,
 including books and papers related to my research and other interests as I discussed in [About Me](/) section.
 
-Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews (Persian reviews for books I read in Persian, and English reviews for books I read in English).
+Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews.
 You can also check out [my Goodreads account](https://www.goodreads.com/phrafsanjani), where I try to add other books I’ve read.
 
 I created my first Goodreads account when I was in my early teens,
