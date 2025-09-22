@@ -74,19 +74,27 @@ it focuses on the most important topics and offers greater pedagogical value.
 ~~~
 
 ### Real Analysis
+
+Aside from the beautiful book by Tao,
+I have a 188-page handwritten set of notes (in Persian) from my undergraduate studies,
+mostly based on the first two chapters of *Real Mathematical Analysis* by Charles C. Pugh,
+which I may upload sometime.
+I have described everything and written every proof with almost all details in my own words,
+which I believe is the best approach for proof-based courses such as real analysis.
+
+Real analysis is a foundational field, forming the basis of calculus and, in some programs,
+serving as a prerequisite for topology (the contents of real analysis courses vary widely).
+It is also a prerequisite for measure theory, which underpins modern probability theory.
+I have yet to find a favorite book on measure theory and measure-theoretic probability,
+but with a strong foundation, I believe measure-theoretic probability can be learned along the way if needed
+(researchers more oriented toward applied statistics may never need it or may only require a very limited amount).
+I like [this blog post](https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/) for a more detailed perspective on this matter.
 ~~~
 <div class="card-container">
     <div class="card">
         <img src="/assets/covers/analysis-tao.jpg">
         <div class="card-content">
             <p id="book-title">Analysis I</p>
-            <p id="author">Terence Tao</p>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/measure-tao.jpg">
-        <div class="card-content">
-            <p id="book-title">An Introduction to Measure Theory</p>
             <p id="author">Terence Tao</p>
         </div>
     </div>
