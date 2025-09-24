@@ -23,7 +23,7 @@ I have thoroughly read all the fiction and philosophy titles,
 except for [the ones I'm currently reading](https://www.goodreads.com/review/list/193594653-parsa?shelf=currently-reading).
 
 I have looked through many textbooks, and the ones listed here are those I truly enjoyed and found comprehensive enough to build strong fundamentals.
-Researchers must read numerous books and papers, but newcomers need a solid foundation to go further.
+Researchers look through numerous books and papers, but newcomers need a solid foundation to go further.
 These days, many lecture notes and course materials are sufficient to build these foundations, and of course, many textbooks grow out of these lecture notes.
 However, the books I've listed here are the ones I would read cover to cover if I was learning the material on my own for the first time.
 Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
@@ -85,7 +85,7 @@ which I believe is the best approach for proof-based courses such as real analys
 Real analysis is a foundational field, forming the basis of calculus and, in some programs,
 serving as a prerequisite for topology (the contents of real analysis courses vary widely).
 It is also a prerequisite for measure theory, which underpins modern probability theory.
-With a strong foundation in real analysis, I believe measure-theoretic probability can be learned along the way if needed;
+With a strong foundation in real analysis, I believe measure-theoretic probability can be learned along the way if needed.
 Researchers more oriented toward applied statistics may never need it or may only require a very limited amount.
 (I like [this blog post](https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/) for a more detailed perspective on this matter.)
 ~~~
