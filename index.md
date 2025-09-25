@@ -73,7 +73,7 @@ Economics isn't just about money and markets; it's a framework for life.
 I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
 And of course, imagine how fascinating it is to be able to understand and follow econometric literature...
 
-### Open-Source & GNU/Linux
+### Open-Source and GNU/Linux
 
 Beyond academia, I'm a GNU/Linux enthusiast.
 I began using GNU/Linux in 2020,
