@@ -75,10 +75,11 @@ it focuses on the most important topics and offers greater pedagogical value.
 
 ### Real Analysis
 
-Aside from the beautiful book by Tao,
+Aside from the books listed here,
 I have a 188-page handwritten set of notes (in Persian) from my undergraduate studies,
-mostly based on the first two chapters of *Real Mathematical Analysis* by Charles C. Pugh,
-which I may upload sometime.
+mostly based on the first two chapters of *Real Mathematical Analysis* by Charles C. Pugh.
+A huge part of these notes cover metric spaces, a topic not included in the two books below (although Tao's *Analysis II* covers it, but I have not checked it out myself).
+I may upload these notes or a variation of them at some point.
 I have described everything and written every proof with almost all details in my own words,
 which I believe is the best approach for proof-based courses such as real analysis.
 
@@ -95,6 +96,13 @@ Researchers more oriented toward applied statistics may never need it or may onl
         <div class="card-content">
             <p id="book-title">Analysis I</p>
             <p id="author">Terence Tao</p>
+        </div>
+    </div>
+    <div class="card">
+        <img src="/assets/covers/analysis-abbott.jpg">
+        <div class="card-content">
+            <p id="book-title">Understanding Analysis</p>
+            <p id="author">Stephen Abbott</p>
         </div>
     </div>
 </div>
