@@ -1,4 +1,4 @@
-# Library
+# My Library: Books, Movies, Blogs & More!
 
 \toc
 
