@@ -37,10 +37,10 @@ it focuses on the most important topics and offers greater pedagogical value.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/assets/covers/probability-blitzstein.jpg">
+        <img src="/assets/covers/probability-chan.jpg">
         <div class="card-content">
-            <p id="book-title">Introduction to Probability</p>
-            <p id="author">Joseph K. Blitzstein & Jessica Hwang</p>
+            <p id="book-title">Introduction to Probability for Data Science</p>
+            <p id="author">Stanley H. Chan</p>
         </div>
     </div>
     <div class="card">
