@@ -223,3 +223,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Chapman & Hall/CRC Texts in Statistical Science](https://www.routledge.com/Chapman--HallCRC-Texts-in-Statistical-Science/book-series/CHTEXSTASCI)
 
 [Routledge and CRC Press Statistics Books](https://www.routledge.com/statistics)
+
+[Big Book of R](https://www.bigbookofr.com/)
