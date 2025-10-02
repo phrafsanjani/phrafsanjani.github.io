@@ -85,7 +85,6 @@ which I believe is the best approach for proof-based courses such as real analys
 
 Real analysis is a foundational field, forming the basis of calculus and, in some programs,
 serving as a prerequisite for topology (the contents of real analysis courses vary widely).
-It is also a prerequisite for measure theory, which underpins modern probability theory.
 With a strong foundation in real analysis, I believe measure-theoretic probability can be learned along the way if needed.
 Researchers more oriented toward applied statistics may never need it or may only require a very limited amount.
 (I like [this blog post](https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/) for a more detailed perspective on this matter.)
@@ -99,10 +98,10 @@ Researchers more oriented toward applied statistics may never need it or may onl
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/analysis-abbott.jpg">
+        <img src="/assets/covers/spaces-lindstrom.jpg">
         <div class="card-content">
-            <p id="book-title">Understanding Analysis</p>
-            <p id="author">Stephen Abbott</p>
+            <p id="book-title">Spaces: An Introduction to Real Analysis</p>
+            <p id="author">Tom L. Lindstrøm</p>
         </div>
     </div>
 </div>
