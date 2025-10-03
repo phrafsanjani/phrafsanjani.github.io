@@ -75,14 +75,6 @@ it focuses on the most important topics and offers greater pedagogical value.
 
 ### Real Analysis
 
-Aside from the books listed here,
-I have a 188-page handwritten set of notes (in Persian) from my undergraduate studies,
-mostly based on the first two chapters of *Real Mathematical Analysis* by Charles C. Pugh.
-A huge part of these notes cover metric spaces, a topic not included in the two books below (although Tao's *Analysis II* covers it, but I have not checked it out myself).
-I may upload these notes or a variation of them at some point.
-I have described everything and written every proof with almost all details in my own words,
-which I believe is the best approach for proof-based courses such as real analysis.
-
 Real analysis is a foundational field, forming the basis of calculus and, in some programs,
 serving as a prerequisite for topology (the contents of real analysis courses vary widely).
 With a strong foundation in real analysis, I believe measure-theoretic probability can be learned along the way if needed.
