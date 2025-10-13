@@ -24,15 +24,6 @@ The algorithms for these tests are implemented in R and applied to compute and c
         </div>
         <div class="publication-buttons">
             <a onclick="togglePublicationContent(this)" class="button-6" id="publication-button" role="button">Abstract</a>
-            <a class="button-6" id="publication-button" role="button">Link</a>
-            <a class="button-6" id="publication-button" role="button">
-                <img src="/assets/icons/mastodon-icon.svg">
-                <span class="social-button-text">Discuss on Mastodon</span>
-            </a>
-            <a class="button-6" id="publication-button" role="button">
-                <img src="/assets/icons/bluesky-icon.svg">
-                <span class="social-button-text">Discuss on Bluesky</span>
-            </a>
         </div>
     </div>
 </div>
