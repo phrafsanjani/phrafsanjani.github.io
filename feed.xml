@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Parsa H. Rafsanjani  ]]>
+    </title>
+    <link> https://phrafsanjani.github.io </link>
+    <description>
+      <![CDATA[  Parsa H. Rafsanjani’s personal website – projects, research, and notes  ]]>
+    </description>
+    <atom:link
+      href="https://phrafsanjani.github.io/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Publications  ]]>
+  </title>
+  <link> https://phrafsanjani.github.io/publications/index.html </link>
+  <guid> https://phrafsanjani.github.io/publications/index.html </guid>
+  <description>
+    <![CDATA[  Parsa H. Rafsanjani&#39;s publications and research  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="publications">Publications</h1>
+<div class="franklin-toc"><ol><li>Manuscripts</li><li>Books</li></ol></div>
+<h2 id="manuscripts">Manuscripts</h2><div class="card-container">
+    <div id="pub1" class="card publication">
+        <div class="normal-card visible-content">
+            <div class="card-content">
+                <p id="paper-title">Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions</p>
+                <p id="paper-author"><u>Parsa H. Rafsanjani</u>, Adel Mohammadpour</p>
+            </div>
+        </div>
+        <div class="review-card hidden-content">
+            <div class="card-content" style="font-size: medium;">
+                This article presents a unified framework for testing hypotheses regarding the scale parameter of exponential family of distributions.
+Uniformly most powerful (UMP) tests are constructed for simple and one-sided hypotheses,
+and it is proved that no UMP test exists for the two-tailed case.
+Instead, a uniformly most powerful unbiased (UMPU) test is derived for that case.
+A discussion of Generalized Likelihood Ratio tests is also included.
+The algorithms for these tests are implemented in R and applied to compute and compare results across a wide range of examples from various well-known distributions.
+            </div>
+        </div>
+        <div class="publication-buttons">
+            <a onclick="togglePublicationContent(this)" class="button-6" id="publication-button" role="button">Abstract</a>
+        </div>
+    </div>
+</div><h2 id="books">Books</h2><div class="card-container">
+    <div id="book1" class="card publication">
+        <div class="normal-card visible-content">
+            <div class="card-content">
+                <p id="paper-title">Introduction to Statistical Inquiry (In Progress)</p>
+                <p id="paper-author">Co-authored with Dr. Adel Mohammadpour for STAT205 students @ University of Calgary</p>
+                <p style="font-size: small;">Released under a creative commons CC BY-SA 4.0 licence</p>
+            </div>
+        </div>
+    </div>
+</div> ]]>
+  </content:encoded>
+    
+  <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Parsa H. Rafsanjani</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
