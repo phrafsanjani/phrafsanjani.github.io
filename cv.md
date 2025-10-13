@@ -15,16 +15,8 @@ Further details may be added in future revisions.
 - **GPA:** 19.40 / 20.00 (4.0/4.0)  
 - **Selected Coursework:** Introduction to Probability (A+), Probability (I) (A+), Statistical Methods (A+), Stochastic Processes (I) (A+), Foundation of Mathematical Analysis (A+), Data Mining (A+), Fundamentals of Bioinformatics (A+), Database & Workshop (A), Advanced Programming (A+), Numerical Linear Algebra (A+), Artificial Intelligence & Workshop (A+)
 
-## Manuscripts
-
-**Parsa H. Rafsanjani**, Adel Mohammadpour. Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions
-
-## Books
-
-**Introduction to Statistical Inquiry (In Progress)**
-
-✍️ *Co-authored with Dr. Adel Mohammadpour for STAT205 students @ University of Calgary*
-- Released under a creative commons CC BY-SA 4.0 licence
+## Publications
+View my complete list of publications and research outputs [here](/publications).
 
 ## Honors & Awards
 **Top Computer Sciences Student (2020 Cohort)**
