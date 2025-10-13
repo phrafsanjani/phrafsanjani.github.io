@@ -145,6 +145,11 @@ instead, display a burger menu.
     grid-area: social-buttons;
   }
 
+  #publication-button img {
+    width: 20% !important;
+    height: 100%;
+  }
+
   .menu-nav ul {
     display: flex;
     flex-direction: column;
@@ -367,6 +372,10 @@ button:hover {
   margin: 0.443em;
 }
 
+.publication {
+  width: 30em !important;
+}
+
 .card img {
   width: 100%;
   padding: 0;
@@ -380,9 +389,28 @@ button:hover {
   overflow: hidden;
 }
 
+.publication-buttons {
+  display: flex;
+  padding: 0.6em;
+  overflow: hidden;
+}
+
 #book-title {
   font-size: large;
   font-weight: bold;
+}
+
+#paper-title {
+  font-size: large;
+  font-weight: bold;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+#paper-author {
+  font-size: medium;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
 }
 
 #author {
@@ -414,6 +442,20 @@ button:hover {
   touch-action: manipulation;
   vertical-align: baseline;
   width: auto;
+}
+
+#publication-button {
+  padding: calc(.875rem - 8px) 0.8em;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+  height: 1em;
+  font-size: 0.6em;
+  font-weight: 600;
+}
+
+#publication-button img {
+  width: 10%;
+  height: 100%;
 }
 
 .button-6:hover,

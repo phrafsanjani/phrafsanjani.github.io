@@ -4544,6 +4544,11 @@ a.reversefootnote:hover {
   }
 }
 
+.social-button-text {
+  margin-right: 0.6em;
+  margin-left: 0.6em;
+}
+
 @media (min-width: 80em) {
   .sidebar {
     width: calc(280px + 1em);

@@ -138,7 +138,7 @@ This is a brief introduction to Stoicism, starting with the core principle of th
 <a href="https://www.goodreads.com/review/list/193594653-parsa">View all my reviews</a>
         </div>
         <div class="card-content">
-            <a onclick="toggleContent(this)" class="button-6" role="button">My Review</a>
+            <a onclick="toggleBookContent(this)" class="button-6" role="button">My Review</a>
         </div>
     </div>
 </div>
@@ -185,7 +185,7 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
 
         </div>
         <div class="card-content">
-            <a onclick="toggleContent(this)" class="button-6" role="button">My Review</a>
+            <a onclick="toggleBookContent(this)" class="button-6" role="button">My Review</a>
         </div>
     </div>
     <div class="card">
