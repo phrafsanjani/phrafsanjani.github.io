@@ -71,9 +71,9 @@ version = "1.11.0"
 
 [[deps.Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random", "TOML"]
-git-tree-sha1 = "e0eabc6747a67a78e72d45a874fec5d8ba6dc2ae"
+git-tree-sha1 = "717c8b1bfc0278870ab82fbe69119ee8449290c6"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.96"
+version = "0.10.97"
 
 [[deps.FranklinTemplates]]
 deps = ["LiveServer"]
@@ -106,9 +106,9 @@ version = "1.7.1"
 
 [[deps.JSON]]
 deps = ["Dates", "Logging", "Parsers", "PrecompileTools", "StructUtils", "UUIDs", "Unicode"]
-git-tree-sha1 = "2b29defa1d506ab60df17818581bba7a04499f9b"
+git-tree-sha1 = "06ea418d0c95878c8f3031023951edcf25b9e0ef"
 uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
-version = "1.1.0"
+version = "1.2.0"
 
     [deps.JSON.extensions]
     JSONArrowExt = ["ArrowTypes"]
