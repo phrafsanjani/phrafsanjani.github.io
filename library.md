@@ -10,15 +10,13 @@ and I only opt for the very good stories when it comes to fiction!
 Aside from that, most of my reading consists of non-fiction and textbooks,
 including books and papers related to my research and other interests as I discussed in [About Me](/) section.
 
-Here, I’ve decided to list my favorite books, and I plan to gradually add my reviews.
-You can also check out [my Goodreads account](https://www.goodreads.com/phrafsanjani), where I try to add other books I’ve read.
-
 I created my first Goodreads account when I was in my early teens,
 but I removed it and then created another account before removing it again!
 The reason was that my to-read list would become so big it gave me anxiety, and also because Goodreads is owned by Amazon.
 But I finally decided to keep one account, given that it is still well-established among readers, so many editions are available for each book, and the UI is comparably better than alternatives.
 
-Below is a list of my all-time favorite books:
+Here, I’ve decided to list my all-time favorite books.
+You can also check out [my Goodreads account](https://www.goodreads.com/phrafsanjani), where I try to add other books I’ve read.
 ~~~
 <div class="card-container">
     <div class="card">
