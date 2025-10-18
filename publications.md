@@ -1,7 +1,3 @@
-@def rss_description = "Parsa H. Rafsanjani's publications and research"
-@def rss_pubdate = Date(2025, 10, 13)
-@def rss_title = "Publications"
-
 # Publications
 
 \toc
