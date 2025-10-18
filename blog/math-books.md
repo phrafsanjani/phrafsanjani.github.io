@@ -155,18 +155,3 @@ One such resource is a free Persian book, *Foundation of Mathematics* by Mohsen 
     </div>
 </div>
 ~~~
-
-## Economics
-~~~
-<div class="card-container">
-    <div class="card">
-        <div id="normal-card" class="visible-content">
-        <img src="/assets/covers/economics-mankiw.jpg">
-        <div class="card-content">
-            <p id="book-title">Principles of Economics</p>
-            <p id="author">N. Gregory Mankiw</p>
-        </div>
-        </div>
-    </div>
-</div>
-~~~
