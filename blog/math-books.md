@@ -145,9 +145,9 @@ which also includes measure theory.
 
 Tao's *Analysis I*, as suggested in the previous section, has a beautiful introduction to foundations of mathematics,
 such as set theory, functions, an appendix on logic and more.
-However, a dedicated resource on this material with comprehensive coverage of logic, cardinality, and Gödel's theorems can be also be a worthy resource.
+However, a dedicated resource on this material with comprehensive coverage of logic, cardinality, and Gödel's theorems can also be a worthy resource.
 One such resource is a free Persian book, [*Foundation of Mathematics* by Mohsen Khani](https://mohsen-khani.github.io/mabani-riyazi/),
-which I believe has emerged from his lectures for a course of the same name.
+which I believe has emerged from the author's lectures for a course of the same name.
 ~~~
 <div class="card-container">
     <div class="card">
