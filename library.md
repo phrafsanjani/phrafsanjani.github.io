@@ -22,97 +22,6 @@ While I haven’t read every textbook from cover to cover,
 I have thoroughly read all the fiction and philosophy titles,
 except for [the ones I'm currently reading](https://www.goodreads.com/review/list/193594653-parsa?shelf=currently-reading).
 
-I have looked through many textbooks, and the ones listed here are those I truly enjoyed and found comprehensive enough to build strong fundamentals.
-Researchers look through numerous books and papers, but newcomers need a solid foundation to go further.
-These days, many lecture notes and course materials are sufficient to build these foundations, and of course, many textbooks grow out of these lecture notes.
-However, the books I've listed here are the ones I would read cover to cover if I was learning the material on my own for the first time.
-Finding some of these books was random, but it made me very happy since I couldn't find what I was looking for anywhere else, and what a joy it is when you come across a book that finally is THE ONE!
-
-### Probability and Statistics
-
-I hope to get my hands on *The Simple and Infinite Joy of Mathematical Statistics* by J.N. Corcoran
-to see if it can replace Hogg's book here, as I think while Corcoran's may not cover as much material as Hogg's,
-it focuses on the most important topics and offers greater pedagogical value.
-[Her videos](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrPZH-fknPLak0tlUpUISBZR) surely attest to that!
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/probability-chan.jpg">
-        <div class="card-content">
-            <p id="book-title">Introduction to Probability for Data Science</p>
-            <p id="author">Stanley H. Chan</p>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/stats-hogg.jpg">
-        <div class="card-content">
-            <p id="book-title">Introduction to Mathematical Statistics</p>
-            <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
-        </div>
-    </div>
-</div>
-~~~
-
-### Linear and Matrix Algebra
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/intro-linear-johnston.jpg">
-        <div class="card-content">
-            <p id="book-title">Introduction to Linear and Matrix Algebra</p>
-            <p id="author">Nathaniel Johnston</p>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/advanced-linear-johnston.jpg">
-        <div class="card-content">
-            <p id="book-title">Advanced Linear and Matrix Algebra</p>
-            <p id="author">Nathaniel Johnston</p>
-        </div>
-    </div>
-</div>
-~~~
-
-### Real Analysis
-
-Real analysis is a foundational field, forming the basis of calculus and, in some programs,
-serving as a prerequisite for topology (the contents of real analysis courses vary widely).
-With a strong foundation in real analysis, I believe measure-theoretic probability can be learned along the way if needed.
-Researchers more oriented toward applied statistics may never need it or may only require a very limited amount.
-(I like [this blog post](https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/) for a more detailed perspective on this matter.)
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/analysis-tao.jpg">
-        <div class="card-content">
-            <p id="book-title">Analysis I</p>
-            <p id="author">Terence Tao</p>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/spaces-lindstrom.jpg">
-        <div class="card-content">
-            <p id="book-title">Spaces: An Introduction to Real Analysis</p>
-            <p id="author">Tom L. Lindstrøm</p>
-        </div>
-    </div>
-</div>
-~~~
-
-### Foundation of Mathematics
-~~~
-<div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/foundation-of-math-khani.jpg">
-        <div class="card-content">
-            <p id="book-title">Foundation of Mathematics</p>
-            <p id="author">Mohsen Khani</p>
-        </div>
-    </div>
-</div>
-~~~
-
-### Philosophy
 ~~~
 <div class="card-container">
     <div class="card">
@@ -143,23 +52,6 @@ This is a brief introduction to Stoicism, starting with the core principle of th
     </div>
 </div>
 ~~~
-
-### Economics
-~~~
-<div class="card-container">
-    <div class="card">
-        <div id="normal-card" class="visible-content">
-        <img src="/assets/covers/economics-mankiw.jpg">
-        <div class="card-content">
-            <p id="book-title">Principles of Economics</p>
-            <p id="author">N. Gregory Mankiw</p>
-        </div>
-        </div>
-    </div>
-</div>
-~~~
-
-### Fiction
 ~~~
 <div class="card-container">
     <div class="card">
