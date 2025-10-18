@@ -1,3 +1,6 @@
+@def rss_description = "First Blog Post - Here's my list of math books I'd use to relearn the foundations from scratch"
+@def rss_pubdate = Date(2025, 10, 18)
+
 # If I Had to Learn Math Again, This Would Be My Reading List
 
 \toc
