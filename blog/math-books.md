@@ -50,14 +50,14 @@ it focuses on the most important topics and offers greater pedagogical value.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/assets/covers/probability-chan.jpg">
+        <img src="/blog/img/probability-chan.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Probability for Data Science</p>
             <p id="author">Stanley H. Chan</p>
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/stats-hogg.jpg">
+        <img src="/blog/img/stats-hogg.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Mathematical Statistics</p>
             <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
@@ -81,14 +81,14 @@ even though I haven't read them extensively.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/assets/covers/intro-linear-johnston.jpg">
+        <img src="/blog/img/intro-linear-johnston.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/advanced-linear-johnston.jpg">
+        <img src="/blog/img/advanced-linear-johnston.jpg">
         <div class="card-content">
             <p id="book-title">Advanced Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
@@ -122,14 +122,14 @@ which also includes measure theory.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/assets/covers/analysis-tao.jpg">
+        <img src="/blog/img/analysis-tao.jpg">
         <div class="card-content">
             <p id="book-title">Analysis I</p>
             <p id="author">Terence Tao</p>
         </div>
     </div>
     <div class="card">
-        <img src="/assets/covers/spaces-lindstrom.jpg">
+        <img src="/blog/img/spaces-lindstrom.jpg">
         <div class="card-content">
             <p id="book-title">Spaces: An Introduction to Real Analysis</p>
             <p id="author">Tom L. Lindstrøm</p>
@@ -148,7 +148,7 @@ which I believe has emerged from his lectures for a course of the same name.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/assets/covers/foundation-of-math-khani.jpg">
+        <img src="/blog/img/foundation-of-math-khani.jpg">
         <div class="card-content">
             <p id="book-title">Foundation of Mathematics</p>
             <p id="author">Mohsen Khani</p>
