@@ -143,7 +143,8 @@ which also includes measure theory.
 Tao's *Analysis I*, as suggested in the previous section, has a beautiful introduction to foundations of mathematics,
 such as set theory, functions, an appendix on logic and more.
 However, a dedicated resource on this material with comprehensive coverage of logic, cardinality, and Gödel's theorems can be also be a worthy resource.
-One such resource is a free Persian book, *Foundation of Mathematics* by Mohsen Khani, which I believe has emerged from his lectures for a course of the same name.
+One such resource is a free Persian book, [*Foundation of Mathematics* by Mohsen Khani](https://mohsen-khani.github.io/mabani-riyazi/),
+which I believe has emerged from his lectures for a course of the same name.
 ~~~
 <div class="card-container">
     <div class="card">
@@ -155,3 +156,13 @@ One such resource is a free Persian book, *Foundation of Mathematics* by Mohsen 
     </div>
 </div>
 ~~~
+
+## Final Thoughts
+
+While there are many other mathematical and foundational topics across various fields,
+I’ve found the particular areas discussed here especially rewarding in my own studies and research.  
+I didn't include a section on calculus simply because there are now so many great resources and videos that are easy to follow. Besides, I found the focus on real analysis to be more important from some point on.
+
+Nevertheless, a good calculus book that I've found to be concise and straight to the point is *Calculus: Early Transcendental Functions* by Ron Larson and Bruce Edwards.
+I found Thomas's and Stewart's books very similar, but this one was different,
+and the authors have not yet omitted the tabular integration-by-parts method.
