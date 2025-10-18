@@ -216,3 +216,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Routledge and CRC Press Statistics Books](https://www.routledge.com/statistics)
 
 [Big Book of R](https://www.bigbookofr.com/)
+
+[Thomas S. Ferguson's home page](https://www.math.ucla.edu/~tom/)
