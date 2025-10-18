@@ -18,10 +18,7 @@ but I removed it and then created another account before removing it again!
 The reason was that my to-read list would become so big it gave me anxiety, and also because Goodreads is owned by Amazon.
 But I finally decided to keep one account, given that it is still well-established among readers, so many editions are available for each book, and the UI is comparably better than alternatives.
 
-While I haven’t read every textbook from cover to cover,
-I have thoroughly read all the fiction and philosophy titles,
-except for [the ones I'm currently reading](https://www.goodreads.com/review/list/193594653-parsa?shelf=currently-reading).
-
+Below is a list of my all-time favorite books:
 ~~~
 <div class="card-container">
     <div class="card">
@@ -54,13 +51,6 @@ This is a brief introduction to Stoicism, starting with the core principle of th
 ~~~
 ~~~
 <div class="card-container">
-    <div class="card">
-        <img src="/assets/covers/asoiaf.jpg">
-        <div class="card-content">
-            <p id="book-title">A Song of Ice and Fire</p>
-            <p id="author">George R. R. Martin</p>
-        </div>
-    </div>
     <div id="ivan" class="card">
         <div class="normal-card visible-content">
             <img src="/assets/covers/ivan-tolstoy.jpg">
@@ -78,13 +68,6 @@ My rating: <a href="https://www.goodreads.com/review/show/7912014193">5 of 5 sta
         </div>
         <div class="card-content">
             <a onclick="toggleBookContent(this)" class="button-6" role="button">My Review</a>
-        </div>
-    </div>
-    <div class="card">
-        <img src="/assets/covers/saga-darren-shan.jpg">
-        <div class="card-content">
-            <p id="book-title">The Saga of Darren Shan</p>
-            <p id="author">Darren Shan</p>
         </div>
     </div>
 </div>
