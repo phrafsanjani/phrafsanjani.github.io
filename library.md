@@ -90,4 +90,6 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 
 [Big Book of R](https://www.bigbookofr.com/)
 
+[Peng Ding's Homepage](https://sites.google.com/site/pengdingpku/)
+
 [Thomas S. Ferguson's home page](https://www.math.ucla.edu/~tom/)
