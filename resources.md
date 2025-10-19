@@ -1,4 +1,4 @@
-# My Library: Books, Movies, Blogs and More!
+# Curated Resources: Books, Movies, Blogs and More!
 
 \toc
 
