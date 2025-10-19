@@ -14,6 +14,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://phrafsanjani.github.io/resources/index.html</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://phrafsanjani.github.io/index.html</loc>
     <lastmod>2025-10-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -21,12 +27,6 @@
 </url>
 <url>
     <loc>https://phrafsanjani.github.io/cv/index.html</loc>
-    <lastmod>2025-10-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://phrafsanjani.github.io/library/index.html</loc>
     <lastmod>2025-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
