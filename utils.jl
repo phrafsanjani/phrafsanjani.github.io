@@ -14,3 +14,12 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+function hfun_add_bsky_comments(post_url::Vector{String})
+    post = post_url[1]
+    html = "
+        <script src=\"../bsky-comments.js\"></script>
+        <bsky-comments post=\"$(post)\"></bsky-comments>
+    "
+    return html
+end
