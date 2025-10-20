@@ -182,6 +182,15 @@ class BskyComments extends HTMLElement {
       .reply-info {
         font-size: 14px;
       }
+      
+      .reply-info a {
+        color: var(--navigation-color);
+      }
+      
+      .reply-info a:hover {
+        color: var(--navigation-hover-color);
+      }
+
       #show-more {
         text-color: white;
         margin-top: 10px;
