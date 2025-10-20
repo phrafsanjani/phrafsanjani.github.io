@@ -163,10 +163,7 @@ class BskyComments extends HTMLElement {
     const style = document.createElement("style");
     style.textContent = `
       :host {
-        --text-color: white;
         --link-color: gray;
-        --link-hover-color: white;
-        --comment-meta-color: white;
         --error-color: red;
         --reply-border-color: #ccc;
         --button-background-color: white;
@@ -179,12 +176,11 @@ class BskyComments extends HTMLElement {
         padding: 1.2em;
         max-width: 720px;
         display: block;
-        background-color: #242635;
-        color: var(--text-color);
+        background-color: var(--comment-section-background);
       }
+      
       .reply-info {
         font-size: 14px;
-        color: var(--text-color);
       }
       #show-more {
         text-color: white;
@@ -217,7 +213,7 @@ class BskyComments extends HTMLElement {
           }
 
           &:hover {
-            color: var(--link-hover-color);
+            color: var(--navigation-hover-color);
           }
 
           img {
@@ -232,7 +228,6 @@ class BskyComments extends HTMLElement {
         white-space: pre-line;
       }
       .comment-meta {
-        color: var(--comment-meta-color);
         display: block;
         margin: 1em 0 2em;
       }

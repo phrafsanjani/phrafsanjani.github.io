@@ -17,6 +17,7 @@
   --button-shadow-hover: rgba(0, 0, 0, 0.1) 0 4px 12px;
   --button-bg-active: #F0F0F1;
   --button-shadow-active: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  --comment-section-background: #f0f2f5;
 }
 
 .darkmode {
@@ -33,6 +34,7 @@
   --button-shadow-hover: rgba(0, 0, 0, 0.4) 0 4px 12px;
   --button-bg-active: #4A5568;
   --button-shadow-active: rgba(0, 0, 0, 0.2) 0 2px 4px;
+  --comment-section-background: #2d2d2d;
 }
 
 /* ==================================================================
