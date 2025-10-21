@@ -79,6 +79,8 @@ Unlike books, movies and TV series are my way of escapism and simply enjoying th
 
 ## Websites and Blogs
 
+[Prof. Gordon K. Smyth's personal website](https://gksmyth.github.io/)
+
 [James E. Gentle's personal website](https://mason.gmu.edu/~jgentle/): be sure to check out his library!
 
 [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/): you can also follow [this Bluesky account](https://bsky.app/profile/statmodeling.bsky.social)
@@ -93,3 +95,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Peng Ding's Homepage](https://sites.google.com/site/pengdingpku/)
 
 [Thomas S. Ferguson's home page](https://www.math.ucla.edu/~tom/)
+
+[Junk Charts](https://www.junkcharts.com/)
