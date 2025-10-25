@@ -8,18 +8,19 @@
     <div id="pub1" class="card publication">
         <div class="normal-card visible-content">
             <div class="card-content">
-                <p id="paper-title">Hypothesis Testing for the Scale Parameter of Exponential Family of Distributions</p>
+                <p id="paper-title">Hypothesis Testing for the Scale-Exponential Family of Distributions</p>
                 <p id="paper-author"><u>Parsa H. Rafsanjani</u>, Adel Mohammadpour</p>
             </div>
         </div>
         <div class="review-card hidden-content">
             <div class="card-content" style="font-size: medium;">
-                This article presents a unified framework for testing hypotheses regarding the scale parameter of exponential family of distributions.
-Uniformly most powerful (UMP) tests are constructed for simple and one-sided hypotheses,
-and it is proved that no UMP test exists for the two-tailed case.
-Instead, a uniformly most powerful unbiased (UMPU) test is derived for that case.
-A discussion of Generalized Likelihood Ratio tests is also included.
-The algorithms for these tests are implemented in R and applied to compute and compare results across a wide range of examples from various well-known distributions.
+            We introduce a unified framework for hypothesis testing within the scale-exponential family of distributions,
+a continuous family that encompasses many well-known distributions as special cases.
+We construct uniformly most powerful tests for simple and one-sided hypotheses.
+For two-sided alternatives, where a UMP test does not typically exist, we derive a uniformly most powerful unbiased test.
+We also develop a test for the more complex task of testing against a composite interval hypothesis.
+The algorithms for these tests are implemented in the R programming language and are applied to a wide range of examples,
+demonstrating the framework's utility and comparing its performance across different distributions.
             </div>
         </div>
         <div class="publication-buttons">
