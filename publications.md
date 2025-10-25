@@ -16,8 +16,8 @@
             <div class="card-content" style="font-size: medium;">
             We introduce a unified framework for hypothesis testing within the scale-exponential family of distributions,
 a continuous family that encompasses many well-known distributions as special cases.
-We construct uniformly most powerful tests for simple and one-sided hypotheses.
-For two-sided alternatives, where a UMP test does not typically exist, we derive a uniformly most powerful unbiased test.
+Uniformly most powerful tests are constructed for simple and one-sided hypotheses.
+For two-sided alternatives, where a UMP test does not typically exist, a uniformly most powerful unbiased test is derived.
 We also develop a test for the more complex task of testing against a composite interval hypothesis.
 The algorithms for these tests are implemented in the R programming language and are applied to a wide range of examples,
 demonstrating the framework's utility and comparing its performance across different distributions.
