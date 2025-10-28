@@ -82,7 +82,7 @@ Unlike books, movies and TV series are my way of escapism and simply enjoying th
 
 [James E. Gentle's personal website](https://mason.gmu.edu/~jgentle/): be sure to check out his library!
 
-[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/): you can also follow [this Bluesky account](https://bsky.app/profile/statmodeling.bsky.social)
+[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/): you can also follow [@statmodeling.bsky.social](https://bsky.app/profile/statmodeling.bsky.social) on Bluesky
 or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Mastodon to be notified of new posts.
 
 [Chapman & Hall/CRC Texts in Statistical Science](https://www.routledge.com/Chapman--HallCRC-Texts-in-Statistical-Science/book-series/CHTEXSTASCI)
