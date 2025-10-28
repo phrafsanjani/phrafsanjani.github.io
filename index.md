@@ -59,12 +59,6 @@ His letters are filled with wisdom, and although they were written around two th
 They have personally helped me navigate the pandemic and through sad and lonely times.
 It is indeed a pleasure to have such a friend and mentor by your side, someone who can calm you with their words and help you grow, especially when many others, whose presence we feel, lack such capabilities.
 
-### Psychology
-
-My interest in psychology focuses specifically on close relationships, singlehood, and personality.
-These are concepts I've deeply contemplated in my personal life, and I believe rigorous research in these areas is profoundly important.
-I would like to follow some research on quantitative psychology at some point as well, as you might now understand why 🙂.
-
 ### Economics
 
 Economics is another field I occasionally study.
