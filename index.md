@@ -27,16 +27,16 @@ That’s why I intend to formally work in the biomedical field, as it allows me 
 
 My research journey began with mathematical statistics,
 as I deeply value the theoretical underpinnings of data science.
-Statistics provides the fondation for data analysis and therefore a lot of sciences,
+Statistics provides the foundation for data analysis and therefore a lot of sciences,
 which has its roots in mathematics, while encompassing a rich philosophy and sparking hot debates.
 I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
 
-### Data Analysis in Social Sciences
+### Data Analysis in Economics, Finance and Psychology
 
 While I highly value and appreciate the theoretical foundations of statistics and data analysis,
-I believe it is equally important to apply this theoretical knowledge to real world problems.
+I believe it is equally important to apply the theoretical knowledge to real world problems.
 Aside from my passion for computational biology and bioinformatics,
-I am also interested in problems that arise is social sciences, specifically economics, finance, and psychology.
+I am also interested in problems that arise is social economics, finance, and psychology.
 
 ## Open-Source and GNU/Linux
 
