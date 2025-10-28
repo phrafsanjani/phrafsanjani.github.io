@@ -15,7 +15,7 @@ My research interests lie at the intersection of statistics and molecular biolog
 
 In the next few sections, I share my academic focus along with some other nerdy and geeky interests!
 
-## Formal Research Interests
+## Research Interests
 
 ### Statistics
 
@@ -32,42 +32,7 @@ My particular interest lies in applying statistical and computational methods to
 I believe that helping improve people’s health and making a true difference through biological fields is a great purpose one can pursue.
 That’s why I intend to formally work in the biomedical field, as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to medicine.
 
-## Independent Studies
-
-### Philosophy
-
-My primary philosophical interest is Stoicism, particularly the works of Seneca.
-However, I also enjoy studying other prominent Stoic philosophers like Marcus Aurelius and Epictetus,
-along with more modern thinkers.
-
-In a letter to his friend Lucilius, Seneca proclaims philosophy's universal invitation:
-> Philosophy neither rejects anyone nor chooses anyone; it shines
-> for all. Socrates was no patrician; Cleanthes hauled water, and hired
-> himself out to water people’s gardens; Plato did not come to philosophy
-> a nobleman but was ennobled by it. Why should you not hope
-> perhaps to become their equal? All of them are your ancestors if you
-> prove yourself worthy of them. And you will do so if you persuade
-> yourself, right now, that no one is superior to you merely by reason
-> of noble birth.
-― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 44. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
-
-In another letter, he writes:
-> Would you like to know what philosophy has to oﬀer the human race? Advice!
-― Lucius Annaeus Seneca, *Letters on Ethics*, Letter 48. Translated by Margaret Graver and A. A. Long. The University of Chicago Press, 2015.
-
-His letters are filled with wisdom, and although they were written around two thousand years ago, I believe they remain relevant to modern human beings.
-They have personally helped me navigate the pandemic and through sad and lonely times.
-It is indeed a pleasure to have such a friend and mentor by your side, someone who can calm you with their words and help you grow, especially when many others, whose presence we feel, lack such capabilities.
-
-### Economics
-
-Economics is another field I occasionally study.
-We should all strive to be good decision-makers, and economic literacy, I believe, is key to this.
-Economics isn't just about money and markets; it's a framework for life.
-I believe that with economic knowledge, we can make better choices, from everyday decisions to major financial ones.
-And of course, imagine how fascinating it is to be able to understand and follow econometric literature...
-
-### Open-Source and GNU/Linux
+## Open-Source and GNU/Linux
 
 Beyond academia, I'm a GNU/Linux enthusiast.
 I began using GNU/Linux in 2020,
