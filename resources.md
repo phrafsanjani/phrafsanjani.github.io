@@ -7,8 +7,7 @@
 I have always been an avid reader and a book lover. When I was younger, I primarily enjoyed fiction.
 But nowadays, I cannot just read any book or any story. I have become too picky,
 and I only opt for the very good stories when it comes to fiction!
-Aside from that, most of my reading consists of non-fiction and textbooks,
-including books and papers related to my research and other interests as I discussed in [About Me](/) section.
+Beyond that, my reading diet is varied, encompassing non-fiction and academic texts as well.
 
 I created my first Goodreads account when I was in my early teens,
 but I removed it and then created another account before removing it again!
