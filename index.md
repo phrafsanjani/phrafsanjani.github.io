@@ -17,20 +17,26 @@ In the next few sections, I share my academic focus along with some other nerdy 
 
 ## Research Interests
 
-### Statistics
-
-I am passionate about both theoretical and applied statistics.
-My research interests span computational biology, bioinformatics, and statistical applications in psychology, economics, and other social sciences.
-Statistics in the language of data analysis and therefore a lot of sciences, which has its roots in mathematics, while encompassing a rich philosophy and sparking hot debates.
-I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
-Imagine what a power it is to think and reason in such an impressive language, to be able to understand and evaluate studies done in different fields, or at least have a general idea about them.
-
 ### Computational Biology and Bioinformatics
 
-Building on probability theory, statistical sciences also provide powerful tools to model and analyze natural phenomena.
-My particular interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
+My primary interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
 I believe that helping improve people’s health and making a true difference through biological fields is a great purpose one can pursue.
 That’s why I intend to formally work in the biomedical field, as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to medicine.
+
+### Mathematical Statistics
+
+My research journey began with mathematical statistics,
+as I deeply value the theoretical underpinnings of data science.
+Statistics provides the fondation for data analysis and therefore a lot of sciences,
+which has its roots in mathematics, while encompassing a rich philosophy and sparking hot debates.
+I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
+
+### Data Analysis in Social Sciences
+
+While I highly value and appreciate the theoretical foundations of statistics and data analysis,
+I believe it is equally important to apply this theoretical knowledge to real world problems.
+Aside from my passion for computational biology and bioinformatics,
+I am also interested in problems that arise is social sciences, specifically economics, finance, and psychology.
 
 ## Open-Source and GNU/Linux
 
