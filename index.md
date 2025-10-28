@@ -36,13 +36,13 @@ I find it interesting that such an important field which deals with uncertainty 
 While I highly value and appreciate the theoretical foundations of statistics and data analysis,
 I believe it is equally important to apply the theoretical knowledge to real world problems.
 Aside from my passion for computational biology and bioinformatics,
-I am also interested in problems that arise is social economics, finance, and psychology.
+I am also interested in problems that arise is economics, finance and psychology.
 
 ## Open-Source and GNU/Linux
 
 Beyond academia, I'm a GNU/Linux enthusiast.
 I began using GNU/Linux in 2020,
-starting with Ubuntu before exploring other distributions like Fedora, Linux Mint, and Pop!\_OS.
+starting with Ubuntu before exploring other distributions like Fedora, Linux Mint and Pop!\_OS.
 Having used Pop!_OS as my primary OS for several years, I transitioned to Arch Linux and have experienced no major issues so far.
 
 My main motivation was to deepen my understanding of Linux.
