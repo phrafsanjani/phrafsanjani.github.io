@@ -29,13 +29,6 @@ Statistics provides the foundation for data analysis and therefore a lot of scie
 which has its roots in mathematics, while encompassing a rich philosophy and sparking hot debates.
 I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
 
-### Data Analysis in Economics, Finance and Psychology
-
-While I highly value and appreciate the theoretical foundations of statistics and data analysis,
-I believe it is equally important to apply the theoretical knowledge to real world problems.
-Aside from my passion for computational biology and bioinformatics,
-I am also interested in problems that arise is economics, finance and psychology.
-
 ## Open-Source and GNU/Linux
 
 Beyond academia, I'm a GNU/Linux enthusiast.
