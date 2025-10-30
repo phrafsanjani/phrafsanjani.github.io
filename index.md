@@ -11,15 +11,16 @@ I hold a Bachelor of Science in Computer Sciences from Amirkabir University of T
 with coursework and research spanning mathematics and computational methods.
 During my studies, I was drawn to probability and statistics,
 which led me to collaborate on a research manuscript on mathematical statistics and a book on statistical inquiry.
-My research interests lie at the intersection of statistics and molecular biology, with a focus on developing and analyzing computational tools for omics data.
 
 ## Research Interests
 
 ### Computational Biology and Bioinformatics
 
-My primary interest lies in applying statistical and computational methods to advance research in computational biology and bioinformatics.
+My primary research interest lies at the intersection of statistics and molecular biology,
+with a focus on developing and analyzing computational tools for omics data.
 I believe that helping improve people’s health and making a true difference through biological fields is a great purpose one can pursue.
-That’s why I intend to formally work in the biomedical field, as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to medicine.
+That is why I am interested to work in the biomedical field,
+as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to medicine.
 
 ### Mathematical Statistics
 
