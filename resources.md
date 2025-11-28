@@ -9,6 +9,8 @@ But nowadays, I cannot just read any book or any story. I have become too picky,
 and I only opt for the very good stories when it comes to fiction!
 Beyond that, my reading diet is varied, encompassing non-fiction and academic texts as well.
 
+### Favorites
+
 Here, I’ve decided to list my all-time favorite books.
 You can also check out [my blog](/blog),
 where I intend to track my reading journey.
@@ -37,6 +39,10 @@ where I intend to track my reading journey.
     </div>
 </div>
 ~~~
+
+### To-Read
+
+*Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai, [*The Art of Visualization with ggplot2: The TidyTuesday Cookbook* by Nicola Rennie](https://nrennie.rbind.io/art-of-viz/), [some more dataviz books](https://informationisbeautiful.net/visualizations/dataviz-books/)
 
 ## Movies and TV Series
 
