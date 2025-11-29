@@ -69,4 +69,4 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 
 [Junk Charts](https://www.junkcharts.com/)
 
-More to be added...!
+[Arts & Letters Daily](https://www.aldaily.com/)
