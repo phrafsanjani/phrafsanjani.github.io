@@ -42,7 +42,7 @@ where I intend to track my reading journey.
 
 ### To-Read
 
-*Meditations* by Marcus Arelius, *The Inner Citadel: The Meditations of Marcus Aurelius* by Pierre Hadot, *Notes from Underground* by Fyodor Dostoevsky, *White Nights* by Fyodor Dostoevsky, *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media* by Robert W. Gehl, *Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai, [*The Art of Visualization with ggplot2: The TidyTuesday Cookbook* by Nicola Rennie](https://nrennie.rbind.io/art-of-viz/), [some more dataviz books](https://informationisbeautiful.net/visualizations/dataviz-books/)
+*Meditations* by Marcus Arelius, *The Inner Citadel: The Meditations of Marcus Aurelius* by Pierre Hadot, *Notes from Underground* by Fyodor Dostoevsky, *White Nights* by Fyodor Dostoevsky, *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media* by Robert W. Gehl, *Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai, [*Visualization for Social Data Science* by Roger Beecham](https://vis4sds.github.io/vis4sds/),[*The Art of Visualization with ggplot2: The TidyTuesday Cookbook* by Nicola Rennie](https://nrennie.rbind.io/art-of-viz/), [some more dataviz books](https://informationisbeautiful.net/visualizations/dataviz-books/)
 
 ## Movies and TV Series
 
