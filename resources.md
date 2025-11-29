@@ -68,3 +68,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Thomas S. Ferguson's home page](https://www.math.ucla.edu/~tom/)
 
 [Junk Charts](https://www.junkcharts.com/)
+
+[Arts & Letters Daily](https://www.aldaily.com/)
