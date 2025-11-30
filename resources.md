@@ -50,7 +50,9 @@ where I intend to track my reading journey.
 *Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai,
 [*Visualization for Social Data Science* by Roger Beecham](https://vis4sds.github.io/vis4sds/),
 [*The Art of Visualization with ggplot2: The TidyTuesday Cookbook* by Nicola Rennie](https://nrennie.rbind.io/art-of-viz/),
-[some more dataviz books](https://informationisbeautiful.net/visualizations/dataviz-books/)
+[some more dataviz books](https://informationisbeautiful.net/visualizations/dataviz-books/),
+*A Course in Game Theory* by Thomas S. Ferguson,
+*Statistical Analysis of Financial Data* by James E. Gentle
 
 ## Movies and TV Series
 
