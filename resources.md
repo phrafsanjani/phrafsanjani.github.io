@@ -79,3 +79,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Junk Charts](https://www.junkcharts.com/)
 
 [Arts & Letters Daily](https://www.aldaily.com/)
+
+[Fong Chun Chan's Blog](https://tinyheero.github.io/): Currently inactive, unfortunately...
