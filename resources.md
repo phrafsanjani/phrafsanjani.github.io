@@ -48,9 +48,6 @@ where I intend to track my reading journey.
 *White Nights* by Fyodor Dostoevsky,
 *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media* by Robert W. Gehl,
 *Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai,
-[*Visualization for Social Data Science* by Roger Beecham](https://vis4sds.github.io/vis4sds/),
-[*The Art of Visualization with ggplot2: The TidyTuesday Cookbook* by Nicola Rennie](https://nrennie.rbind.io/art-of-viz/),
-[some more dataviz books (looking for a good dataviz resource!)](https://informationisbeautiful.net/visualizations/dataviz-books/),
 *A Course in Game Theory* by Thomas S. Ferguson
 
 ## Movies and TV Series
@@ -80,4 +77,4 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 
 [Arts & Letters Daily](https://www.aldaily.com/)
 
-[Fong Chun Chan's Blog](https://tinyheero.github.io/): Currently inactive, unfortunately...
+[Fong Chun Chan's Blog](https://tinyheero.github.io/): currently inactive, unfortunately...
