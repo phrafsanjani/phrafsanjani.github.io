@@ -17,7 +17,7 @@ which led me to collaborate on a research manuscript on mathematical statistics 
 In Persian, the second part of the surname is usually omitted,
 so people call me *Hosseinipour* or simply *Hosseini*.
 There are no strict rules, however, and I've been addressed by *Rafsanjani* as well.
-But *Hosseinipour* is NOT my middle name!
+Nowadays I go by *Parsa H. Rafsanjani*, but *Hosseinipour* is NOT my middle name!
 
 ## Research Interests
 
@@ -80,7 +80,7 @@ I also maintain a GitHub profile for programming and collaborative projects.
 I created a LinkedIn account solely out of professional necessity.
 Unlike Bluesky and Mastodon,
 the content on LinkedIn often feels shallow by comparison,
-but after setting Preferred feed view to Most recent posts from Account preferences,
+but after setting "Preferred feed view" to "Most recent posts" from "Account preferences",
 I don't get random suggested posts on my feed which makes it a much better experience.
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
