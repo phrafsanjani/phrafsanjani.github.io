@@ -115,4 +115,6 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 
 [Publishable Stuff | Rasmus Bååth's blog](https://www.sumsar.net/)
 
+[Sharon Lohr](https://www.sharonlohr.com/)
+
 [This](/assets/rssify_export.opml) is an OPML file containing RSS feeds for all the sites listed above that offer them.
