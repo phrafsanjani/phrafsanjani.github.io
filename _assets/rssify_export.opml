@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>rssify subscriptions</title>
+    <ownerName>rssify</ownerName>
+    <ownerId>https://github.com/Burhanverse/rssify</ownerId>
+    <dateCreated>
+      Fri, 12 Dec 2025 11:40:54 GMT
+    </dateCreated>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://ratfactor.com/atom.xml" />
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/SOpj" />
+    <outline type="rss" xmlUrl="https://www.soonparted.co/feed" />
+    <outline type="rss" xmlUrl="https://devctrl.blog/index.xml" />
+    <outline type="rss" xmlUrl="https://valerioviperino.me/rss.xml" />
+    <outline type="rss" xmlUrl="https://www.lorenzobettini.it/feed" />
+    <outline type="rss" xmlUrl="https://slar.se/feeds/all.atom.xml" />
+    <outline type="rss" xmlUrl="https://www.junkcharts.com/rss" />
+    <outline type="rss" xmlUrl="https://www.sharonlohr.com/blog?format=rss" />
+    <outline type="rss" xmlUrl="https://landchad.net/index.xml" />
+    <outline type="rss" xmlUrl="https://lukesmith.xyz/index.xml" />
+    <outline type="rss" xmlUrl="https://bjlkeng.io/rss.xml" />
+    <outline type="rss" xmlUrl="https://briankeng.com/feed" />
+    <outline type="rss" xmlUrl="https://www.codyhou.com/feed.xml" />
+    <outline type="rss" xmlUrl="https://linuxvaman.ir/rss.xml" />
+    <outline type="rss" xmlUrl="https://beej.us/blog/rss.xml" />
+    <outline type="rss" xmlUrl="https://statswithcats.net/feed/" />
+    <outline type="rss" xmlUrl="https://aethermug.com/rss.xml" />
+    <outline type="rss" xmlUrl="https://kieranhealy.org/index.xml" />
+    <outline type="rss" xmlUrl="https://antiz.fr/blog/index.xml" />
+    <outline type="rss" xmlUrl="https://www.sumsar.net/index.xml" />
+    <outline type="rss" xmlUrl="https://enocc.com/feed.xml" />
+  </body>
+</opml>

@@ -82,3 +82,37 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Microbe Notes](https://microbenotes.com/)
 
 [Charles J. Geyer's Personal Home Page](http://users.stat.umn.edu/~geyer/)
+
+[Programming for fun and profit](https://slar.se/)
+
+[ENOCC](https://enocc.com/)
+
+[Soon Parted](https://www.soonparted.co/)
+
+[DevCtrl](https://devctrl.blog/)
+
+[vv's (b)log](https://valerioviperino.me/)
+
+[Lorenzo Bettini's Home Page](https://www.lorenzobettini.it/)
+
+[LandChad.net](https://landchad.net/)
+
+[Brian Keng](https://briankeng.com/)
+
+[Bounded Rationality](https://bjlkeng.io/)
+
+[www.codyhou.com](https://www.codyhou.com/)
+
+[Beej's Home Page](https://beej.us/)
+
+[Stats With Cats Blog](https://statswithcats.net/)
+
+[Aether Mug](https://aethermug.com/)
+
+[kieranhealy.org](https://kieranhealy.org/)
+
+[Robin Candau](https://antiz.fr/)
+
+[Publishable Stuff | Rasmus Bååth's blog](https://www.sumsar.net/)
+
+[This](/assets/rssify_export.opml) is an OPML file containing RSS feeds for all the sites listed above that offer them.
