@@ -80,3 +80,5 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 [Fong Chun Chan's Blog](https://tinyheero.github.io/): currently inactive, unfortunately...
 
 [Microbe Notes](https://microbenotes.com/)
+
+[Charles J. Geyer's Personal Home Page](http://users.stat.umn.edu/~geyer/)
