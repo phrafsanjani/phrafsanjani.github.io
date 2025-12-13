@@ -1,4 +1,4 @@
 # Curriculum Vitae
 ~~~
-<embed src="/assets/phrafsanjani-cv.pdf" type="application/pdf" width="100%" height="825em">
+<iframe src="/assets/phrafsanjani-cv.pdf" width="100%" height="890em"></iframe>
 ~~~
