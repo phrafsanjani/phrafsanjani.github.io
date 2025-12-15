@@ -10,8 +10,8 @@
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 My undergrad contained courses on mathematics, computer science and statistics,
 both applied and theoretical.
-During my studies, I was drawn to probability and statistics,
-which led me to collaborate on a research manuscript on mathematical statistics and a book on statistical inquiry.
+Currently I am doing research in mathematical statistics,
+but my prospective field is computational biology and bioinformatics.
 
 **NOTE:** My first name is *Parsa* and my surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
@@ -25,14 +25,12 @@ Nowadays I go by *Parsa H. Rafsanjani*, but *Hosseinipour* is NOT my middle name
 
 My primary research interest lies at the intersection of statistics and molecular biology,
 with a focus on developing and analyzing computational tools for omics data.
-I believe that helping improve people’s health and making a true difference through biological fields is a great purpose one can pursue.
-That is why I am interested to work in the biomedical field,
-as it allows me to combine my passion for molecular and cell biology with the opportunity to contribute to medical sciences.
+I am interested in analyzing transcriptomic data and quantification of RNA isoforms.
 
 ### Mathematical Statistics
 
 My research journey began with mathematical statistics,
-as I deeply value the theoretical underpinnings of data science.
+specifically hypothesis testing.
 Statistics provides the foundation for data analysis and therefore a lot of sciences,
 which has its roots in mathematics.
 I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
