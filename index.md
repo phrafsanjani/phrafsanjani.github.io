@@ -66,22 +66,25 @@ follow scholarly discussions, stay informed on topics of interest,
 message others, and keep track of announcements and events I care about.
 That's my social media philosophy in a nutshell.
 
-I removed my Facebook and Instagram accounts years ago, and I never felt like I needed to go back to them!
-As Seneca says:
+I removed my Facebook and Instagram accounts years ago,
+and I never missed anything serious!
+As Seneca says,
 > Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
 I never used Twitter much, but with the growth of Fediverse,
 I created a Mastodon account where I found many great academics (I even landed an interview!).
-While I still value Mastodon,
+As for microblogging platforms,
 I am now mostly on Bluesky as more researchers migrated there.
 
 I also maintain a GitHub profile for programming and collaborative projects.
-I created a LinkedIn account solely out of professional necessity.
-Unlike Bluesky and Mastodon,
+I created a LinkedIn account since it seems like every professional has it.
+Though, unlike Bluesky and Mastodon,
 the content on LinkedIn often feels shallow by comparison,
 but after setting "Preferred feed view" to "Most recent posts" from "Account preferences",
 I don't get random suggested posts on my feed which makes it a much better experience.
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
 
-I have some other accounts as well, either real or pseudonymous, but I don’t share them publicly since they serve more personal or specialized purposes and don’t need to be listed here.
-While this may seem obvious, it is still worth noting that any accounts under my name but not linked from this website may not be mine!
+I have some other accounts as well, either real or pseudonymous,
+but I don’t share them publicly since they serve more personal or specialized purposes and don’t need to be listed here.
+While this may seem obvious,
+it is still worth noting that any accounts under my name but not linked from this website may not be mine!
