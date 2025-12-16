@@ -1,4 +1,4 @@
-# Curated Resources: Books, Movies, Blogs and More!
+# Curated Resources
 
 \toc
 
@@ -53,12 +53,6 @@ where I intend to track my reading journey besides other stuff I write about.
 *A Course in Game Theory* by Thomas S. Ferguson,
 *The Dune Chronicles: Dune; Dune Messiah; Children of Dune; God Emperor of Dune; Heretics of Dune; Chapterhouse Dune* by Frank Herbert,
 *Six Math Essentials* by Terence Tao 
-
-## Movies and TV Series
-
-You can find a list of movies and miniseries I've watched on [my Letterboxd account](https://letterboxd.com/phrafsanjani/),
-although I currently don't write reviews for screen media and just star them.
-Unlike books, movies and TV series are my way of escapism and simply enjoying the experience.
 
 ## Websites and Blogs
 
