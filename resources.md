@@ -4,16 +4,18 @@
 
 ## Books
 
-I have always been an avid reader and a book lover. When I was younger, I primarily enjoyed fiction.
-But nowadays, I cannot just read any book or any story. I have become too picky,
+I have always been an avid reader and a book lover.
+When I was younger, I enjoyed fiction more than anything else.
+However, I have now become too picky,
 and I only opt for the very good stories when it comes to fiction!
-Beyond that, my reading diet is varied, encompassing non-fiction and academic texts as well.
+While I am trying to get back to reading fiction,
+most of my reading consists of non-fiction and scientific texts and papers.
 
 ### Favorites
 
 Here, I’ve decided to list my all-time favorite books.
 You can also check out [my blog](/blog),
-where I intend to track my reading journey.
+where I intend to track my reading journey besides other stuff I write about.
 ~~~
 <div class="card-container">
     <div class="card">
