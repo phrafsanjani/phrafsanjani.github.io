@@ -113,4 +113,6 @@ or [@statmodeling_bot@bayes.club](https://bayes.club/@statmodeling_bot) on Masto
 
 [Sharon Lohr](https://www.sharonlohr.com/)
 
+[Significance magazine](https://significancemagazine.com/)
+
 [This](/assets/rssify_export.opml) is an OPML file containing RSS feeds for all the sites listed above that offer them.
