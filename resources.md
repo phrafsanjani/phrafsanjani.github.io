@@ -56,6 +56,10 @@ where I intend to track my reading journey besides other stuff I write about.
 
 ## Websites and Blogs
 
+[Prof. Gordon K. Smyth's personal webpage](https://gksmyth.github.io/)
+
+[Prof. Pedro Baldoni's personal webpage](https://plbaldoni.rbind.io/)
+
 [James E. Gentle's personal website](https://mason.gmu.edu/~jgentle/): be sure to check out his library!
 
 [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/): you can also follow [@statmodeling.bsky.social](https://bsky.app/profile/statmodeling.bsky.social) on Bluesky
