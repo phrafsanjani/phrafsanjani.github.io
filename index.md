@@ -5,7 +5,7 @@
 
 \toc
 
-## Parsa Hosseinipour Rafsanjani
+## SeyedParsa Hosseinipour Rafsanjani
 
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 My undergrad contained courses on mathematics, computer science and statistics,
@@ -13,7 +13,7 @@ both applied and theoretical.
 Currently I am doing research in mathematical statistics,
 but my prospective field is computational biology and bioinformatics.
 
-**NOTE:** My first name is *Parsa* and my surname is *Hosseinipour Rafsanjani*.
+**NOTE:** My preferred given name is *Parsa* and my surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
 so people call me *Hosseinipour* or simply *Hosseini*.
 There are no strict rules, however, and I've been addressed by *Rafsanjani* as well.
