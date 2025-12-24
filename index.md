@@ -7,11 +7,11 @@
 
 ## SeyedParsa Hosseinipour Rafsanjani
 
-I will be commencing a PhD in Medical Biology at the Walter and Eliza Hall Institute of Medical Research (WEHI), University of Melbourne.
+I am an incoming PhD student in Medical Biology at the Walter and Eliza Hall Institute of Medical Research (WEHI), University of Melbourne.
 Under the joint supervision of [Professor Gordon K. Smyth](https://gksmyth.github.io/) and [Professor Pedro Baldoni](https://plbaldoni.rbind.io/),
 my research will focus on uncertainty quantification for RNA isoforms.
 
-I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
+Previously, I earned my Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 My undergrad contained courses on mathematics, computer science and statistics,
 both applied and theoretical.
 Currently I am doing research in mathematical statistics,
