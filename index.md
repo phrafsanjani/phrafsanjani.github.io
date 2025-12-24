@@ -9,7 +9,7 @@
 
 I will be commencing a PhD in Medical Biology at the Walter and Eliza Hall Institute of Medical Research (WEHI), University of Melbourne.
 Under the joint supervision of [Professor Gordon K. Smyth](https://gksmyth.github.io/) and [Professor Pedro Baldoni](https://plbaldoni.rbind.io/),
-my research will focus on uncertainty quantifiction for RNA isoforms.
+my research will focus on uncertainty quantification for RNA isoforms.
 
 I hold a Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 My undergrad contained courses on mathematics, computer science and statistics,
