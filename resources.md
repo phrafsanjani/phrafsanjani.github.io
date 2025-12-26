@@ -50,7 +50,7 @@ where I intend to track my reading journey besides other stuff I write about.
 *White Nights* by Fyodor Dostoevsky,
 *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media* by Robert W. Gehl,
 *Fixed: Why Personal Finance Is Broken and How to Make It Work for Everyone* by John Y. Campbell and Tarun Ramadorai,
-*A Course in Game Theory* by Thomas S. Ferguson,
+*The Brothers Karamazov* by Fyodor Dostoevsky,
 *The Dune Chronicles: Dune; Dune Messiah; Children of Dune; God Emperor of Dune; Heretics of Dune; Chapterhouse Dune* by Frank Herbert,
 *Six Math Essentials* by Terence Tao 
 
