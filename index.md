@@ -83,5 +83,6 @@ I don't get random suggested posts on my feed which makes it a much better exper
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
 
-**While this may seem obvious,
-it is still worth noting that any accounts under my name but not linked from this website may not be mine!**
+**NOTE:** While this may seem obvious,
+it is still worth mentioning that my official social media and professional accounts are linked from this website.
+Any unlinked accounts using my name or likeness should be treated as unverified and potentially fraudulent.
