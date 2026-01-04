@@ -169,5 +169,3 @@ I didn't include a section on calculus simply because there are now so many grea
 Nevertheless, a good calculus book that I've found to be concise and straight to the point is *Calculus: Early Transcendental Functions* by Ron Larson and Bruce Edwards.
 I found Thomas's and Stewart's books very similar, but this one was different,
 and the authors have not yet omitted the tabular integration-by-parts method.
-
-{{ add_bsky_comments "at://did:plc:d776lyj7a4xkr5olyjgv3b7v/app.bsky.feed.post/3m3i55owkdc25" }}

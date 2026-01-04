@@ -74,15 +74,10 @@ I removed my Facebook and Instagram accounts years ago,
 and I never missed anything serious!
 As Seneca says,
 > Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
-I never used Twitter much, but with the growth of Fediverse,
-I created a Mastodon account where I found many great academics (I even landed an interview!).
-As for microblogging platforms,
-I am now mostly on Bluesky as more researchers migrated there.
 
-I also maintain a GitHub profile for programming and collaborative projects.
+I maintain a GitHub profile for programming and collaborative projects.
 I created a LinkedIn account since it seems like every professional has it.
-Though, unlike Bluesky and Mastodon,
-the content on LinkedIn often feels shallow by comparison,
+The content on LinkedIn often felt shallow by comparison,
 but after setting "Preferred feed view" to "Most recent posts" from "Account preferences",
 I don't get random suggested posts on my feed which makes it a much better experience.
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
