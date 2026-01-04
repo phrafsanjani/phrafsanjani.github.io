@@ -83,7 +83,5 @@ I don't get random suggested posts on my feed which makes it a much better exper
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
 
-I have some other accounts as well, either real or pseudonymous,
-but I don’t share them publicly since they serve more personal or specialized purposes and don’t need to be listed here.
-While this may seem obvious,
-it is still worth noting that any accounts under my name but not linked from this website may not be mine!
+**While this may seem obvious,
+it is still worth noting that any accounts under my name but not linked from this website may not be mine!**
