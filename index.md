@@ -5,7 +5,7 @@
 
 \toc
 
-## SeyedParsa Hosseinipour Rafsanjani
+## Parsa Hosseinipour Rafsanjani
 
 I am an incoming PhD student in Medical Biology at the Walter and Eliza Hall Institute of Medical Research (WEHI), University of Melbourne.
 Under the joint supervision of [Professor Gordon K. Smyth](https://gksmyth.github.io/) and [Professor Pedro Baldoni](https://plbaldoni.rbind.io/),
@@ -17,7 +17,7 @@ both applied and theoretical.
 Currently I am doing research in mathematical statistics,
 but my prospective field is computational biology and bioinformatics.
 
-**NOTE:** My preferred given name is *Parsa* and my surname is *Hosseinipour Rafsanjani*.
+**NOTE:** My surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
 so people call me *Hosseinipour* or simply *Hosseini*.
 There are no strict rules, however, and I've been addressed by *Rafsanjani* as well.
@@ -25,11 +25,11 @@ Nowadays I go by *Parsa H. Rafsanjani*, but *Hosseinipour* is NOT my middle name
 
 ## Research Interests
 
-### Computational Biology and Bioinformatics
+### Bioinformatics and Computational Biology 
 
 My primary research interest lies at the intersection of statistics and molecular biology,
 with a focus on developing and analyzing computational tools for omics data.
-I am interested in analyzing transcriptomic data and quantification of RNA isoforms.
+Currently, my studies focus on analyzing transcriptomic data and quantification of RNA isoforms.
 
 ### Mathematical Statistics
 
@@ -61,28 +61,25 @@ but I evaluate company policies and history before deciding which ones to use.
 
 ## Social Media and Online Activity
 
-I generally try to avoid social media.
-I have no interest nor any reason to keep up with what is happening in the life of someone I met years ago and with whom I don't feel any connection now!
-I dislike the hollow, superficial connections of social media; I’d rather form deeper bonds with people and focus on self-development without obsessing over how I'm seen in the eyes of others.
-Also, I deliberately limit what I share online and refuse to contribute to companies with proven unethical behavior as much as I can.
-That said, I use social media to connect with academics,
+I use social media to connect with people,
 follow scholarly discussions, stay informed on topics of interest,
-message others, and keep track of announcements and events I care about.
-That's my social media philosophy in a nutshell.
-
-I removed my Facebook and Instagram accounts years ago,
-and I never missed anything serious!
-As Seneca says,
-> Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.
+and keep track of announcements and events I care about.
 
 I maintain a GitHub profile for programming and collaborative projects.
 I created a LinkedIn account since it seems like every professional has it.
-The content on LinkedIn often felt shallow by comparison,
-but after setting "Preferred feed view" to "Most recent posts" from "Account preferences",
-I don't get random suggested posts on my feed which makes it a much better experience.
 My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
 
+I never used Twitter much, but with the growth of Fediverse,
+I joined Mastodon where I found many great academics.
+After many academics in my field started using Bluesky,
+I also created an account there.
+However, I am currently not active on X, Bluesky or Mastodon,
+and my only professional presence is through this blog and my LinkedIn account.
+
 **NOTE:** My official social media and professional accounts are linked from this website.
+Apart from these,
+I have some other accounts which I don't share here as they serve more personal purposes.
 While this may seem obvious,
-it is still worth mentioning that any unlinked accounts using my name or likeness should be treated as unverified and potentially fraudulent.
+it is still worth mentioning that any unlinked accounts under my name
+should be treated as unverified and may not be mine.
