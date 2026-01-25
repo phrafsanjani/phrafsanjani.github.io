@@ -14,8 +14,6 @@ my research will focus on uncertainty quantification for RNA isoforms.
 Previously, I earned my Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
 My undergrad contained courses on mathematics, computer science and statistics,
 both applied and theoretical.
-Currently I am doing research in mathematical statistics,
-but my prospective field is computational biology and bioinformatics.
 
 **NOTE:** My surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
@@ -39,31 +37,7 @@ Statistics provides the foundation for data analysis and therefore a lot of scie
 which has its roots in mathematics.
 I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
 
-## Open-Source and GNU/Linux
-
-Beyond academia, I'm a GNU/Linux enthusiast.
-I began using GNU/Linux in 2020,
-starting with Ubuntu before moving on to other distributions like Fedora, Linux Mint and Pop!\_OS.
-Having used Pop!_OS as my primary OS for several years,
-I finally switched to Arch Linux.
-
-My main motivation was to deepen my understanding of Linux.
-Arch has taught me what questions to ask when configuring my system for my workflow,
-and how little is actually needed to perform my computations.
-Unlike versioned distributions, Arch follows a rolling-release model (there’s just one Arch Linux, not Arch 1.0, Arch 2.0, etc.),
-which I see as one of its greatest strengths.
-The system is reliable, and thanks to excellent Arch and Arch-based forums, problems can usually be resolved quickly.
-
-More broadly, I’m deeply interested in exploring and supporting open-source software and communities.
-Whenever possible, I try to minimize my reliance on large corporations.
-I'm not against using well-made proprietary tools,
-but I evaluate company policies and history before deciding which ones to use.
-
 ## Social Media and Online Activity
-
-I use social media to connect with people,
-follow scholarly discussions, stay informed on topics of interest,
-and keep track of announcements and events I care about.
 
 I maintain a GitHub profile for programming and collaborative projects.
 I created a LinkedIn account since it seems like every professional has it.
