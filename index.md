@@ -75,7 +75,7 @@ I joined Mastodon where I found many great academics.
 After many academics in my field started using Bluesky,
 I also created an account there.
 However, I am currently not active on X, Bluesky or Mastodon,
-and my only professional presence is through this blog and my LinkedIn account.
+and my only professional presence is through this website and my LinkedIn account.
 
 **NOTE:** My official social media and professional accounts are linked from this website.
 Apart from these,
