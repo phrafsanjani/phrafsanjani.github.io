@@ -11,9 +11,7 @@ I am an incoming PhD student in Medical Biology at the Walter and Eliza Hall Ins
 Under the joint supervision of [Professor Gordon K. Smyth](https://gksmyth.github.io/) and [Professor Pedro Baldoni](https://plbaldoni.rbind.io/),
 my research will focus on uncertainty quantification for RNA isoforms.
 
-Previously, I earned my Bachelor of Science in Computer Sciences from Amirkabir University of Technology (Tehran Polytechnic).
-My undergrad contained courses on mathematics, computer science and statistics,
-both applied and theoretical.
+Previously, I completed my Bachelor's degree in Computer Sciences at Amirkabir University of Technology (Tehran Polytechnic).
 
 **NOTE:** My surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
@@ -46,10 +44,9 @@ which besides making and maintaining professional connections is another reason 
 
 I never used Twitter much, but with the growth of Fediverse,
 I joined Mastodon where I found many great academics.
-After many academics in my field started using Bluesky,
+After many in my field started using Bluesky,
 I also created an account there.
-However, I am currently not active on X, Bluesky or Mastodon,
-and my only professional presence is through this website and my LinkedIn account.
+However, I am currently not on X, Bluesky or Mastodon.
 
 **NOTE:** My official social media and professional accounts are linked from this website.
 Apart from these,
