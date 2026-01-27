@@ -34,8 +34,8 @@ I find it interesting that such an important field which deals with uncertainty 
 ## Social Media and Online Activity
 
 I maintain a GitHub profile for programming and collaborative projects.
-I created a LinkedIn account since it seems like every professional has it.
-My LinkedIn account is also the first page that shows up in many search engines when someone searches for my name,
+I created a LinkedIn account since it seems like every professional has one.
+This account is the first page that shows up in many search engines when someone searches for my name,
 which besides making and maintaining professional connections is another reason to keep it.
 
 I never used Twitter much, but with the growth of Fediverse,
