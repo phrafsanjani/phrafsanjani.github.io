@@ -44,7 +44,7 @@ After many in my field started using Bluesky,
 I also created an account there.
 However, I am currently not on X, Bluesky or Mastodon.
 
-**NOTE:** My official social media and professional accounts are linked from this website.
+My official social media and professional accounts are linked from this website.
 Apart from these,
 I have some other accounts which I don't share here as they serve more personal purposes.
 While this may seem obvious,
