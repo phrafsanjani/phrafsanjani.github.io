@@ -7,11 +7,7 @@
 
 ## Parsa Hosseinipour Rafsanjani
 
-I am an incoming PhD student in Medical Biology at the Walter and Eliza Hall Institute of Medical Research (WEHI), University of Melbourne.
-Under the joint supervision of [Professor Gordon K. Smyth](https://gksmyth.github.io/) and [Professor Pedro Baldoni](https://plbaldoni.rbind.io/),
-my research will focus on uncertainty quantification for RNA isoforms.
-
-Previously, I completed my Bachelor's degree in Computer Sciences at Amirkabir University of Technology (Tehran Polytechnic).
+I completed my Bachelor's degree in Computer Sciences at Amirkabir University of Technology (Tehran Polytechnic).
 
 **NOTE:** My surname is *Hosseinipour Rafsanjani*.
 In Persian, the second part of the surname is usually omitted,
