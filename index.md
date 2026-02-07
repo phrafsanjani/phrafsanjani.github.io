@@ -40,9 +40,8 @@ which besides making and maintaining professional connections is another reason 
 
 I never used Twitter much, but with the growth of Fediverse,
 I joined Mastodon where I found many great academics.
-After many in my field started using Bluesky,
-I also created an account there.
-However, I am currently not on X, Bluesky or Mastodon.
+However, after many in my field started using Bluesky,
+I also moved there.
 
 My official social media and professional accounts are linked from this website.
 Apart from these,
