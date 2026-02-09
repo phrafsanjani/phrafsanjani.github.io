@@ -39,9 +39,9 @@ This account is the first page that shows up in many search engines when someone
 which besides making and maintaining professional connections is another reason to keep it.
 
 I never used Twitter much, but with the growth of Fediverse,
-I joined Mastodon where I found many great academics.
-However, after many in my field started using Bluesky,
-I also moved there.
+I joined Mastodon and found many great academics.
+However, as my field began adopting Bluesky,
+I eventually moved there as well.
 
 My official social media and professional accounts are linked from this website.
 Apart from these,
