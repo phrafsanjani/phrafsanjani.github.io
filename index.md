@@ -13,7 +13,9 @@ I completed my Bachelor's degree in Computer Sciences at Amirkabir University of
 In Persian, the second part of the surname is usually omitted,
 so people call me *Hosseinipour* or simply *Hosseini*.
 There are no strict rules, however, and I've been addressed by *Rafsanjani* as well.
-Nowadays I go by *Parsa H. Rafsanjani*, but *Hosseinipour* is NOT my middle name!
+Nowadays I go by *Parsa H. Rafsanjani*,
+so while *Hosseinipour* is not my middle name,
+I treat it as such.
 
 ## Research Interests
 
