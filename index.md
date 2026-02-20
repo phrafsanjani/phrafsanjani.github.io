@@ -27,11 +27,8 @@ Currently, my studies focus on analyzing transcriptomic data and quantification 
 
 ### Mathematical Statistics
 
-My research journey began with mathematical statistics,
-specifically hypothesis testing.
-Statistics provides the foundation for data analysis and therefore a lot of sciences,
-which has its roots in mathematics.
-I find it interesting that such an important field which deals with uncertainty was born out of mathematics, a stronghold of certainty!
+I am also interested in the theory of statistics motivated by real-world applications.
+My previous research in this field has been on developing a unified approach for hypothesis testing applied to the exponential family of distributions.
 
 ## Social Media and Online Activity
 
