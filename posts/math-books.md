@@ -1,4 +1,4 @@
-@def rss_description = "First Blog Post - Here's my list of math books I'd use to relearn the foundations from scratch"
+@def rss_description = "First Post - Here's my list of math books I'd use to relearn the foundations from scratch"
 @def rss_pubdate = Date(2025, 10, 18)
 
 # If I Had to Learn Math Again, This Would Be My Reading List
@@ -28,7 +28,7 @@ I was amazed at the amount of linear and matrix algebra used.
 On the other hand, I was also disappointed that our undergrad probability courses had not covered probability in higher dimensions, with topics on random vectors and such.
 
 So I have been looking for good resources, those that have pedagogical value and are comprehensive enough.
-I decided to share my findings in this blog post.
+I decided to share my findings in this post.
 These days, many lecture notes and course materials are sufficient to build these mathematical foundations, and of course, many textbooks grow out of these lecture notes.
 However, the books I've listed here are the ones I would read cover to cover if I were learning the material on my own for the first time.
 I hope these suggestions can be useful to others as well.
@@ -53,14 +53,14 @@ it focuses on the most important topics and offers greater pedagogical value.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/blog/img/probability-chan.jpg">
+        <img src="/posts/img/probability-chan.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Probability for Data Science</p>
             <p id="author">Stanley H. Chan</p>
         </div>
     </div>
     <div class="card">
-        <img src="/blog/img/stats-hogg.jpg">
+        <img src="/posts/img/stats-hogg.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Mathematical Statistics</p>
             <p id="author">Robert V. Hogg & Joseph W. McKean & Allen T. Craig</p>
@@ -84,14 +84,14 @@ even though I haven't read them extensively.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/blog/img/intro-linear-johnston.jpg">
+        <img src="/posts/img/intro-linear-johnston.jpg">
         <div class="card-content">
             <p id="book-title">Introduction to Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
         </div>
     </div>
     <div class="card">
-        <img src="/blog/img/advanced-linear-johnston.jpg">
+        <img src="/posts/img/advanced-linear-johnston.jpg">
         <div class="card-content">
             <p id="book-title">Advanced Linear and Matrix Algebra</p>
             <p id="author">Nathaniel Johnston</p>
@@ -125,14 +125,14 @@ which also includes measure theory.
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/blog/img/analysis-tao.jpg">
+        <img src="/posts/img/analysis-tao.jpg">
         <div class="card-content">
             <p id="book-title">Analysis I</p>
             <p id="author">Terence Tao</p>
         </div>
     </div>
     <div class="card">
-        <img src="/blog/img/spaces-lindstrom.jpg">
+        <img src="/posts/img/spaces-lindstrom.jpg">
         <div class="card-content">
             <p id="book-title">Spaces: An Introduction to Real Analysis</p>
             <p id="author">Tom L. Lindstrøm</p>
@@ -151,7 +151,7 @@ which I believe has emerged from the author's lectures for a course of the same 
 ~~~
 <div class="card-container">
     <div class="card">
-        <img src="/blog/img/foundation-of-math-khani.jpg">
+        <img src="/posts/img/foundation-of-math-khani.jpg">
         <div class="card-content">
             <p id="book-title">Foundation of Mathematics</p>
             <p id="author">Mohsen Khani</p>
