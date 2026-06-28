@@ -10,6 +10,7 @@
   --small: 14px;
   --normal: 19px;
   --text-color: hsl(20, 6%, 20%);
+  --text-muted: #706e6b;
   --navigation-color: #004de6;
   --navigation-hover-color: #B87CFC;
   --button-border: rgba(44, 42, 41, 0.15);
