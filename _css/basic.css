@@ -168,7 +168,7 @@ instead, display a burger menu.
     display: flex;
     flex-direction: column;
     position: fixed;
-    top: 60px;
+    top: 55px;
     z-index: 10000;
     left: 0;
     right: 0;
