@@ -44,6 +44,7 @@ header {
   z-index: 1;
   background-color: var(--header-color);
   opacity: 0.95;
+  height: 55px;
 }
 
 header .blog-name {
