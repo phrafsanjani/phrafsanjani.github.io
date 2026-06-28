@@ -42,7 +42,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1;
-  background-color: var(--background-color);
+  background-color: var(--header-color);
   opacity: 0.95;
 }
 
@@ -75,7 +75,7 @@ header li a:hover {
   width: 22px;
   padding: 0;
   border: none;
-  background-color: var(--background-color);
+  background-color: var(--header-color);
   position: relative;
   top: 2px !important;
   padding-top: 2px;
@@ -163,7 +163,7 @@ instead, display a burger menu.
     transition: max-height 0.2s ease-out;
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: var(--header-color);
     display: flex;
     flex-direction: column;
     position: fixed;

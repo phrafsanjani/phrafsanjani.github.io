@@ -3,38 +3,39 @@
 ================================================================== */
 
 :root {
-  --background-color: #fff;
-  --block-background: hsl(0, 0%, 94%);
-  --output-background: hsl(0, 0%, 98%);
+  --background-color: #f7f4eb;
+  --header-color: #f1ede2;
+  --block-background: hsl(40, 23%, 92%);  
+  --output-background: hsl(40, 20%, 95%);
   --small: 14px;
   --normal: 19px;
-  --text-color: hsv(0, 0%, 20%);
+  --text-color: hsl(20, 6%, 20%);
   --navigation-color: #004de6;
   --navigation-hover-color: #B87CFC;
-  --button-border: rgba(0, 0, 0, 0.2);
-  --button-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
-  --button-border-hover: rgba(0, 0, 0, 0.15);
-  --button-shadow-hover: rgba(0, 0, 0, 0.1) 0 4px 12px;
-  --button-bg-active: #F0F0F1;
-  --button-shadow-active: rgba(0, 0, 0, 0.06) 0 2px 4px;
-  --comment-section-background: #f0f2f5;
+  --button-border: rgba(44, 42, 41, 0.15);
+  --button-shadow: rgba(44, 42, 41, 0.03) 0 1px 3px 0;
+  --button-border-hover: rgba(44, 42, 41, 0.3);
+  --button-shadow-hover: rgba(44, 42, 41, 0.08) 0 4px 12px;
+  --button-bg-active: #eae5d8;
+  --button-shadow-active: rgba(44, 42, 41, 0.06) 0 2px 4px;
+  --comment-section-background: #efebe0;
 }
 
 .darkmode {
-  --background-color: rgb(28, 28, 29);
-  background-color: var(--background-color);
-  --block-background: hsl(0deg 0% 17.22%);
-  --output-background: hsl(0, 0%, 98%);
-  --text-color: #e8e8e8;
+  --background-color: #1e1e1c;
+  --header-color: #141413 ;
+  --block-background: #262623;
+  --output-background: #181816;
+  --text-color: #e5e2da;
   --navigation-color: #5B7CFF;
   --navigation-hover-color: #A78BFA;
-  --button-border: rgba(255, 255, 255, 0.05);
+  --button-border: rgba(255, 255, 255, 0.08);
   --button-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px 0;
-  --button-border-hover: rgba(255, 255, 255, 0.1);
+  --button-border-hover: rgba(255, 255, 255, 0.18);
   --button-shadow-hover: rgba(0, 0, 0, 0.4) 0 4px 12px;
-  --button-bg-active: #4A5568;
+  --button-bg-active: #2e2e2b;
   --button-shadow-active: rgba(0, 0, 0, 0.2) 0 2px 4px;
-  --comment-section-background: #2d2d2d;
+  --comment-section-background: #161615;
 }
 
 /* ==================================================================
@@ -283,7 +284,13 @@ td {
     KATEX
 ================================================================== */
 
-body { counter-reset: eqnum; }
+body {
+  counter-reset: eqnum;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-size: var(--normal);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
 
 .katex { font-size: 1em !important; }
 
