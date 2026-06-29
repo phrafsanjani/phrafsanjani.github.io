@@ -5156,8 +5156,11 @@ a.reversefootnote:hover {
 
 @media (min-width: 1080px) {
   .franklin-toc {
-    position: fixed;
+    position: sticky;
     top: 140px;
+    float: right;
+    clear: right;
+    margin-right: -300px;
     left: calc(50% + 380px);
     width: 240px;
     max-height: 65vh;
