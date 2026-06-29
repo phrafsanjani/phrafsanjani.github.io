@@ -83,6 +83,7 @@ header li a:hover {
   margin-top: 4px;
   margin-left: 7px;
   margin-right: 7px;
+  transition: all 0.2s ease-in-out;
 }
 
 .darkmode #theme-switch {
