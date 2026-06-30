@@ -12,7 +12,7 @@ I completed my Bachelor's degree in Computer Sciences at Amirkabir University of
 > **NOTE 1:** My surname is "Hosseinipour Rafsanjani". In Persian, the second part of the surname is usually omitted, so people call me "Hosseinipour" or simply "Hosseini". There are no strict rules, however, and I've been addressed by "Rafsanjani" as well. Nowadays I go by "Parsa H. Rafsanjani", so while "Hosseinipour" is not my middle name, I treat it as such.
 
 
-> **NOTE 2:** My official professional and social profiles are exclusively the ones linked on this website. Thus, any unlisted accounts bearing my name should be treated as unverified and may not be mine, unless declared otherwise directly by myself.
+> **NOTE 2:** My official professional and social profiles are exclusively the ones linked on this website. Thus, any unlisted accounts under my name should be treated as unverified and may not be mine, unless declared otherwise directly by myself.
 
 ## Research Interests
 
