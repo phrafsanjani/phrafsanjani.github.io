@@ -10,6 +10,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/phrafsanjani
+    - text: "{{< fa brands orcid >}} ORCID"
+      href: https://orcid.org/0009-0001-4588-2903
     - icon: github
       text: Github
       href: https://github.com/phrafsanjani
