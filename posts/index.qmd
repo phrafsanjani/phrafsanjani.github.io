@@ -1,0 +1,20 @@
+---
+title: "Posts"
+listing:
+  contents: "."
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, author, description, categories]
+page-layout: full
+---
+
+These posts are written *entirely* by myself.
+After I finish my drafts, I use Grammarly to check for grammatical mistakes,
+and if I think more sophisticated guidance is needed,
+I ask some LLM for any remaining doubts.
+Otherwise, I do not use any LLM-generated sentences,
+even if my own sound cringe in an LLM's *"opinion"*,
+as I intend to use *my own voice* without any alterations.

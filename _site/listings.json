@@ -4,5 +4,11 @@
     "items": [
       "/publications/books/book-1.html"
     ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/post-pandemic-reflections.html"
+    ]
   }
 ]

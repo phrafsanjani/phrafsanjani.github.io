@@ -9,6 +9,8 @@ website:
         text: About
       - href: publications/index.qmd
         text: Publications
+      - href: posts/index.qmd
+        text: Posts
 
 format:
   html:
