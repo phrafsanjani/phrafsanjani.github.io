@@ -12,4 +12,5 @@ description: "To be released under a creative commons CC BY-SA 4.0 licence"
 An upcoming introductory textbook developed for the STAT205 course offered at the University of Calgary.
 
 ## Resources
-- [Course Syllabus](paper.pdf)
+- [Chapter 1](https://www.coursehero.com/file/250574684/Normal-Distribution-Section34-Bookpdf/)
+- [Course Webpage](https://calendar.ucalgary.ca/courses/1625641/overview-aoYks)
