@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope-at-fill
       text: Email
-      href: mailto:test@test.com
+      href: mailto:parsahosseini2001@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/phrafsanjani
