@@ -11,6 +11,9 @@ website:
         text: Publications
       - href: posts/index.qmd
         text: Posts
+      - href: https://phrafsanjani.substack.com/
+        text: Newsletter
+        target: "_blank"
 
 format:
   html:
