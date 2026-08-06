@@ -1,7 +1,38 @@
 ---
 title: "Parsa H. Rafsanjani"
+about:
+  template: trestles
+  image: /assets/img/photo.png
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:test@test.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/phrafsanjani
+    - icon: github
+      text: Github
+      href: https://github.com/phrafsanjani
 ---
 
-This is a Quarto website.
+> **NOTE 1:** My surname is "Hosseinipour Rafsanjani". In Persian, the second part of the surname is usually omitted, so people call me "Hosseinipour" or simply "Hosseini". There are no strict rules, however, and I've been addressed by "Rafsanjani" as well. Nowadays I go by "Parsa H. Rafsanjani", and while "Hosseinipour" is not my middle name, I sometimes treat it as such.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+> **NOTE 2:** My official professional and social profiles are exclusively the ones linked on this website. Thus, any other accounts under my name should be treated as unverified and may not be mine, unless declared otherwise directly by myself.
+
+## Education
+
+Amirkabir University of Technology (Tehran Polytechnic) | B.Sc. in Computer Sciences | Nov. 2020 - Jan. 2025
+
+## Research Interests
+
+### Bioinformatics and Computational Biology 
+
+My primary research interest lies at the intersection of statistics and molecular biology,
+with a focus on developing and analyzing computational tools for omics data.
+Currently, my studies focus on analyzing transcriptomic data and quantification of RNA isoforms.
+
+### Mathematical Statistics
+
+I am also interested in the theory of statistics motivated by real-world applications.
+My previous research in this field has been on developing a unified approach for hypothesis testing applied to the exponential family of distributions.

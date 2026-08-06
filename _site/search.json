@@ -4,20 +4,20 @@
     "href": "index.html",
     "title": "Parsa H. Rafsanjani",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "NOTE 1: My surname is “Hosseinipour Rafsanjani”. In Persian, the second part of the surname is usually omitted, so people call me “Hosseinipour” or simply “Hosseini”. There are no strict rules, however, and I’ve been addressed by “Rafsanjani” as well. Nowadays I go by “Parsa H. Rafsanjani”, and while “Hosseinipour” is not my middle name, I sometimes treat it as such."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Parsa H. Rafsanjani",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Education\nAmirkabir University of Technology (Tehran Polytechnic) | B.Sc. in Computer Sciences | Nov. 2020 - Jan. 2025"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Parsa H. Rafsanjani",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBioinformatics and Computational Biology\nMy primary research interest lies at the intersection of statistics and molecular biology, with a focus on developing and analyzing computational tools for omics data. Currently, my studies focus on analyzing transcriptomic data and quantification of RNA isoforms.\n\n\nMathematical Statistics\nI am also interested in the theory of statistics motivated by real-world applications. My previous research in this field has been on developing a unified approach for hypothesis testing applied to the exponential family of distributions."
   }
 ]
