@@ -1,0 +1,14 @@
+---
+title: "Publications"
+listing:
+  - id: books
+    contents: "books"
+    type: default
+    sort: "date desc"
+    fields: [date, title, author, description]
+---
+
+## Books
+
+::: {#books}
+:::
