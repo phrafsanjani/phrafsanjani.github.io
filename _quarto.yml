@@ -7,10 +7,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: publications/index.qmd
-        text: Publications
-      - href: posts/index.qmd
-        text: Posts
+      - publications/index.qmd
+      - posts/index.qmd
       - href: https://phrafsanjani.substack.com/
         text: Newsletter
         target: "_blank"
