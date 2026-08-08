@@ -1,6 +1,6 @@
 /* css styles */
 /* -------------------------------------------------------------------
-   1. Break JS Container Trap on Text Containers (EXCLUDE <a> TAGS)
+   Break JS Container Trap on Text Containers (EXCLUDE <a> TAGS)
 ------------------------------------------------------------------- */
 .quarto-post .body,
 .quarto-post .description,
@@ -14,7 +14,7 @@
 }
 
 /* -------------------------------------------------------------------
-   2. Completely Block Clicks on Description/Metadata <a> Wrappers
+   Completely Block Clicks on Description/Metadata <a> Wrappers
 ------------------------------------------------------------------- */
 .quarto-post .delink a,
 .quarto-post .listing-description a,
@@ -29,7 +29,7 @@
 }
 
 /* -------------------------------------------------------------------
-   3. Ensure Title Remains the ONLY Active, Blue & Underlined Link
+   Ensure Title Remains the ONLY Active, Blue & Underlined Link
 ------------------------------------------------------------------- */
 .quarto-post .title,
 .quarto-post .title a,
@@ -47,4 +47,25 @@
 .listing-title a:hover {
   color: var(--bs-primary-text-emphasis, #0a58ca) !important;
   text-decoration: underline !important;
+}
+
+/* -------------------------------------------------------------------
+   Adjust navbar title font size for narrower screens
+------------------------------------------------------------------- */
+@media (max-width: 376px) and (min-width: 354px) {
+  .navbar-title {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 354px) and (min-width: 341px) {
+  .navbar-title {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 340px) {
+  .navbar-title {
+    font-size: 0.95rem;
+  }
 }
