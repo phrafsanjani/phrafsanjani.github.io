@@ -12,6 +12,7 @@ website:
       - href: https://phrafsanjani.substack.com/
         text: Newsletter
         target: "_blank"
+  favicon: assets/favicon_io/favicon.ico
 
 format:
   html:
