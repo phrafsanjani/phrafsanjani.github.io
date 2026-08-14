@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "publications/books/stat205-book.html",
-    "href": "publications/books/stat205-book.html",
-    "title": "Introduction to Statistical Inquiry (In Progress)",
-    "section": "",
-    "text": "An upcoming introductory textbook developed for the STAT205 course offered at the University of Calgary."
-  },
-  {
-    "objectID": "publications/books/stat205-book.html#about",
-    "href": "publications/books/stat205-book.html#about",
-    "title": "Introduction to Statistical Inquiry (In Progress)",
-    "section": "",
-    "text": "An upcoming introductory textbook developed for the STAT205 course offered at the University of Calgary."
-  },
-  {
-    "objectID": "publications/books/stat205-book.html#resources",
-    "href": "publications/books/stat205-book.html#resources",
-    "title": "Introduction to Statistical Inquiry (In Progress)",
-    "section": "Resources",
-    "text": "Resources\n\nChapter 1\nCourse Webpage"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Parsa H. Rafsanjani",
@@ -40,13 +19,6 @@
     "title": "Parsa H. Rafsanjani",
     "section": "Research Interests",
     "text": "Research Interests\n\nBioinformatics and Computational Biology\nMy primary research interest lies at the intersection of statistics and molecular biology, with a focus on developing and analyzing computational tools for omics data. Currently, my studies focus on analyzing transcriptomic data and quantification of RNA isoforms.\n\n\nMathematical Statistics\nI am also interested in the theory of statistics motivated by real-world applications. My previous research in this field has been on developing a unified approach for hypothesis testing applied to the exponential family of distributions."
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Posts",
-    "section": "",
-    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-pandemic-reflections.html",
@@ -91,6 +63,27 @@
     "text": "Conclusion\nWhile I developed a new worldview after discovering Stoicism during the pandemic, I over-isolated myself, and I missed out on many things. I am now too far from my Stoic studies, and in general, I undervalue solo activities these days, and while I do not abondon them, I’d rather spend whatever time I have left socializing, or in other words, getting out of my comfort zone. We change as humans, and we should all take that into account. I might not want something now, but what guarantee is there that I will remain such? Nothing is certain, and the future uncertainties should be factored into our present affairs."
   },
   {
+    "objectID": "publications/books/stat205-book.html",
+    "href": "publications/books/stat205-book.html",
+    "title": "Introduction to Statistical Inquiry (In Progress)",
+    "section": "",
+    "text": "An upcoming introductory textbook developed for the STAT205 course offered at the University of Calgary."
+  },
+  {
+    "objectID": "publications/books/stat205-book.html#about",
+    "href": "publications/books/stat205-book.html#about",
+    "title": "Introduction to Statistical Inquiry (In Progress)",
+    "section": "",
+    "text": "An upcoming introductory textbook developed for the STAT205 course offered at the University of Calgary."
+  },
+  {
+    "objectID": "publications/books/stat205-book.html#resources",
+    "href": "publications/books/stat205-book.html#resources",
+    "title": "Introduction to Statistical Inquiry (In Progress)",
+    "section": "Resources",
+    "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
+  },
+  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
@@ -103,5 +96,12 @@
     "title": "Publications",
     "section": "",
     "text": "To be released under a creative commons CC BY-SA 4.0 licence\n\n\n\n\n\nApr 24, 2025\n\n\nParsa H. Rafsanjani, Adel Mohammadpour\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
   }
 ]
