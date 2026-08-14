@@ -1,0 +1,66 @@
+/*-- scss:rules --*/
+
+/* Dark-mode overrides on top of cosmo */
+:root {
+  --bs-body-bg: #1e1e1c;
+  --bs-body-color: #e6e6e6;
+  --bs-link-color: #75aadB;
+  --bs-link-hover-color: #9ecfff;
+
+  --bs-navbar-bg: #1f1f1f;
+  --bs-navbar-color: #e6e6e6;
+
+  --bs-card-bg: #1e1e1e;
+  --bs-card-border-color: #333;
+
+  --bs-code-color: #ff79c6;
+  --bs-pre-bg: #1a1a1a;
+  --bs-pre-color: #f8f8f2;
+
+  --bs-primary: #67a6eb;
+  --bs-primary-text-emphasis: #8799ac;
+
+  --bs-link-color-rgb: 125, 160, 238;
+  --bs-link-hover-color-rgb: 143, 166, 218;
+}
+
+.navbar[data-bs-theme="dark"] {
+  /* Base navbar text */
+  --bs-navbar-color: #d2d2d2;
+  --bs-navbar-brand-color: #d3d3d3;
+
+  /* Hover & active states as a lighter tint of your brand blue */
+  --bs-navbar-brand-hover-color: #7894d2;      /* rgb(120, 148, 210) */
+  --bs-navbar-hover-color: rgba(120, 148, 210, 0.9);
+  --bs-navbar-active-color: #7894d2;
+
+  /* Nav link hover to match */
+  --bs-nav-link-hover-color: #7894d2;
+}
+
+.navbar {
+  background-color: #141413;
+}
+
+.navbar-nav {
+  --bs-nav-link-color: rgb(198 198 194);
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+  color: rgb(184 190 195);
+}
+
+div.quarto-post .listing-categories .listing-category {
+  color: #b7bfc7;
+}
+
+/* Optional: tweak headings, tables, etc. if needed */
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f0f0;
+}
+
+table {
+  --bs-table-bg: #1a1a1a;
+  --bs-table-color: #e6e6e6;
+  --bs-table-border-color: #333;
+}
