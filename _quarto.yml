@@ -16,6 +16,7 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
       light:
         - cosmo
