@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+listing:
+  - id: course-materials
+    contents: "course-materials"
+    type: default
+    sort: "date desc"
+    fields: [date, title, instructor, coauthor, description]
+    field-display-names:
+      instructor: "Instructor"
+      coauthor: "Author"
+---
+
+## Course Materials
+
+::: {#course-materials}
+:::

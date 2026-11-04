@@ -1,0 +1,25 @@
+---
+title: "Introduction to Statistical Inquiry"
+instructor: "Adel Mohammadpour"
+coauthor: "Parsa H. Rafsanjani"
+date: "2025-04-24"
+description: "STAT205 Course Notes @ The University of Calgary"
+format:
+  html:
+    toc: true
+---
+
+:::{.quarto-about-meta style="display: flex; gap: 3rem; margin-bottom: 1.5rem;"}
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Instructor</div>
+  <div style="font-weight: 500;">Adel Mohammadpour</div>
+</div>
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Author</div>
+  <div style="font-weight: 500;">Parsa H. Rafsanjani</div>
+</div>
+:::
+
+## Resources
+- [Sample Chapter(s)](https://www.coursehero.com/file/250574684/Normal-Distribution-Section34-Bookpdf/)
+- [Course Webpage](https://calendar.ucalgary.ca/courses/1625641/overview-aoYks)

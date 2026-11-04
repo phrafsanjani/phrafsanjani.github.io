@@ -11,6 +11,7 @@ website:
       - posts/index.qmd
       - href: https://phrafsanjani.substack.com/
         text: Newsletter
+      - teaching/index.qmd
   favicon: assets/favicon_io/favicon.ico
 
 format:

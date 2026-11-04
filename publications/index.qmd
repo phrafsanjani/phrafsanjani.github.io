@@ -1,14 +1,14 @@
 ---
 title: Publications
 listing:
-  - id: books
-    contents: "books"
+  - id: journal-articles
+    contents: "journal-articles"
     type: default
     sort: "date desc"
-    fields: [date, title, author, description]
+    fields: [date, title, subtitle, author, description]
 ---
 
-## Books
+## Journal Articles
 
-::: {#books}
+::: {#journal-articles}
 :::
