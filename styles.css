@@ -14,18 +14,26 @@
 }
 
 /* -------------------------------------------------------------------
-   Completely Block Clicks on Description/Metadata <a> Wrappers
+   Block Clicks on Description/Metadata <a> Wrappers 
+   (EXCEPT for explicitly styled action buttons/links)
 ------------------------------------------------------------------- */
-.quarto-post .delink a,
-.quarto-post .listing-description a,
-.quarto-post .metadata a,
-.quarto-post .delink a *,
-.quarto-post .listing-description a *,
-.quarto-post .metadata a * {
-  pointer-events: none !important;  /* Completely disables link clicks */
-  cursor: text !important;          /* Keeps text cursor even over hidden <a> elements */
+.quarto-post .delink a:not(.btn):not(.badge),
+.quarto-post .listing-description a:not(.btn):not(.badge),
+.quarto-post .metadata a:not(.btn):not(.badge),
+.quarto-post .delink a:not(.btn):not(.badge) *,
+.quarto-post .listing-description a:not(.btn):not(.badge) *,
+.quarto-post .metadata a:not(.btn):not(.badge) * {
+  pointer-events: none !important;  /* Disables link clicks for wrapper text */
+  cursor: text !important;          /* Keeps text cursor */
   color: inherit !important;
   text-decoration: none !important;
+}
+
+/* Re-enable pointer events explicitly for action buttons */
+.quarto-post .listing-description a.btn,
+.quarto-post .listing-description a.badge {
+  pointer-events: auto !important;
+  cursor: pointer !important;
 }
 
 /* -------------------------------------------------------------------
@@ -68,4 +76,27 @@
   .navbar-title {
     font-size: 0.95rem;
   }
+}
+
+/* -------------------------------------------------------------------
+   Explicit Mode-Aware Listing Subtitle Styling
+------------------------------------------------------------------- */
+.quarto-post .listing-subtitle,
+.quarto-post .listing-subtitle a,
+.listing-subtitle,
+.listing-subtitle a {
+  color: #6c757d !important; /* Darker gray for light mode */
+  text-decoration: none !important;
+}
+
+[data-bs-theme="dark"] .quarto-post .listing-subtitle,
+[data-bs-theme="dark"] .quarto-post .listing-subtitle a,
+[data-bs-theme="dark"] .listing-subtitle,
+[data-bs-theme="dark"] .listing-subtitle a {
+  color: #adb5bd !important; /* Brighter light-gray for dark mode */
+}
+
+.quarto-post .listing-subtitle a:hover,
+.listing-subtitle a:hover {
+  color: var(--bs-body-color) !important;
 }

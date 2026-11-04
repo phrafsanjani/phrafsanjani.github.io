@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://phrafsanjani.github.io/posts/index.html</loc>
-    <lastmod>2026-10-04T22:22:59.801Z</lastmod>
-  </url>
-  <url>
     <loc>https://phrafsanjani.github.io/index.html</loc>
-    <lastmod>2026-10-04T22:22:59.801Z</lastmod>
+    <lastmod>2026-11-04T20:59:01.335Z</lastmod>
   </url>
   <url>
-    <loc>https://phrafsanjani.github.io/publications/books/stat205.html</loc>
-    <lastmod>2026-10-04T22:22:59.802Z</lastmod>
+    <loc>https://phrafsanjani.github.io/publications/journal-articles/scalexptest.html</loc>
+    <lastmod>2026-11-04T20:59:01.337Z</lastmod>
   </url>
   <url>
-    <loc>https://phrafsanjani.github.io/publications/index.html</loc>
-    <lastmod>2026-10-04T22:22:59.802Z</lastmod>
+    <loc>https://phrafsanjani.github.io/teaching/course-materials/stat205.html</loc>
+    <lastmod>2026-11-04T20:59:01.337Z</lastmod>
   </url>
   <url>
     <loc>https://phrafsanjani.github.io/posts/post-pandemic-reflections.html</loc>
-    <lastmod>2026-10-04T22:22:59.802Z</lastmod>
+    <lastmod>2026-11-04T20:59:01.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/posts/index.html</loc>
+    <lastmod>2026-11-04T20:59:01.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/teaching/index.html</loc>
+    <lastmod>2026-11-04T20:59:01.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/publications/index.html</loc>
+    <lastmod>2026-11-04T20:59:01.337Z</lastmod>
   </url>
 </urlset>

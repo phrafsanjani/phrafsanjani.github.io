@@ -6,9 +6,15 @@
     ]
   },
   {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/course-materials/stat205.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/books/stat205.html"
+      "/publications/journal-articles/scalexptest.html"
     ]
   }
 ]
