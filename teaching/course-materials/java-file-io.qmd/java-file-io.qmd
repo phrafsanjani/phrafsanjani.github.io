@@ -1,5 +1,6 @@
 ---
 title: "File I/O in Java Workshop Manual"
+subtitle: "Persian"
 instructor:
     - "Mehdi Ghatee"
     - "Behnam Yousefimehr"

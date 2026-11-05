@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Statistical Inquiry"
+subtitle: "English"
 instructor: "Adel Mohammadpour"
 coauthor: "Parsa H. Rafsanjani"
 date: "2025-04-24"
