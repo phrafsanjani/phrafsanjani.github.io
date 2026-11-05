@@ -1,12 +1,12 @@
 ---
-title: "File I/O in Java Workshop Manual"
+title: "File I/O and Serialization in Java Lab Manual"
 subtitle: "Persian"
 instructor:
     - "Mehdi Ghatee"
     - "Behnam Yousefimehr"
 coauthor: "Parsa H. Rafsanjani"
 date: "2024-03-12"
-description: "Advanced Programming Workshop 4 Manual @ Amirkabir University of Technology (Tehran Polytechnic)"
+description: "Advanced Programming Workshop 4 Lab Manual @ Amirkabir University of Technology (Tehran Polytechnic)"
 format:
   html:
     toc: true
@@ -25,10 +25,13 @@ format:
 
 ## Overview
 
-The course consisted of weekly workshops,
-and a group of teaching assistants were assigned to prepare the workshop materials.
-This workshop was online,
-and students were required to solve and submit their solutions to problems in the manual.
+This manual provides the practical guide and problem set for **Lab 4: File I/O and Serialization**,
+conducted as part of the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology. 
+
+Delivered as an online session on 13 March 2024,
+the workshop was designed to give students hands-on experience with Java's stream architectures,
+file input/output operations, and object serialization.
+Students had to work through guided programming exercises and submit their completed solutions for assessment.
 
 ## Resources
 

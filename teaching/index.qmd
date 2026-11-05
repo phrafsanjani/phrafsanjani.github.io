@@ -20,13 +20,13 @@ listing:
     * **Responsibilities:** Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.
 *   **Advanced Programming** | *Teaching Assistant* (Jan. 2024 – July 2024)
     * **Instructor:** Prof. Mehdi Ghatee
-    * **Responsibilities:** Designed Persian lecture notes on Java classes and [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd), delivered weekly lab lectures, and created practical projects (Image Viewer, RSS Reader).
+    * **Responsibilities:** Designed Persian lecture notes on Java classes and [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd), delivered weekly lab lectures, and designed practical projects (Image Viewer, RSS Reader).
 *   **Artificial Intelligence** | *Teaching Assistant* (Sept. 2023 – Feb. 2024)
     * **Instructor:** Prof. Mehdi Ghatee
     * **Responsibilities:** Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.
 *   **Principles of Operating Systems** | *Teaching Assistant* (Feb. 2023 – July 2023)
     * **Instructor:** Dr. Mohammad Mahdi Bejani
-    * **Responsibilities:** Developed project concepts and evaluated student performance through oral exams.
+    * **Responsibilities:** Developed project concepts and evaluated student performance through oral assessments.
 
 ## Course Materials
 
