@@ -33,6 +33,6 @@ and students were required to solve and submit their solutions to problems in th
 ## Resources
 
 :::{.d-flex .gap-2 .flex-wrap .mb-4}
-[{{< fa file-pdf >}} PDF](/teaching/course-materials/ap-aut.qmd/lab4.pdf){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
-[{{< fa file-zipper >}} Solutions](/teaching/course-materials/ap-aut.qmd/lab4_solutions.zip){.btn .btn-sm .btn-adaptive-outline role="button"}
+[{{< fa file-pdf >}} PDF](/teaching/course-materials/java-file-io/lab4.pdf){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[{{< fa file-zipper >}} Solutions](/teaching/course-materials/java-file-io/lab4_solutions.zip){.btn .btn-sm .btn-adaptive-outline role="button"}
 :::
