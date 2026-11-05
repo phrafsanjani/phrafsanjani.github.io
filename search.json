@@ -56,6 +56,13 @@
     "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
   },
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/post-pandemic-reflections.html",
     "href": "posts/post-pandemic-reflections.html",
     "title": "Post-pandemic Reflections and Worldview Alterations: On Solitude and Connections",
@@ -98,25 +105,39 @@
     "text": "Conclusion\nWhile I developed a new worldview after discovering Stoicism during the pandemic, I over-isolated myself, and I missed out on many things. I am now too far from my Stoic studies, and in general, I undervalue solo activities these days, and while I do not abondon them, I’d rather spend whatever time I have left socializing, or in other words, getting out of my comfort zone. We change as humans, and we should all take that into account. I might not want something now, but what guarantee is there that I will remain such? Nothing is certain, and the future uncertainties should be factored into our present affairs."
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Posts",
+    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html",
+    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html",
+    "title": "File I/O in Java Workshop Manual",
     "section": "",
-    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
+    "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+  },
+  {
+    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html#overview",
+    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html#overview",
+    "title": "File I/O in Java Workshop Manual",
+    "section": "Overview",
+    "text": "Overview\nThe course consisted of weekly workshops, and a group of teaching assistants were assigned to prepare the workshop materials. This workshop was online, and students were required to solve and submit their solutions to problems in the manual."
+  },
+  {
+    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html#resources",
+    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html#resources",
+    "title": "File I/O in Java Workshop Manual",
+    "section": "Resources",
+    "text": "Resources\n\n PDF  Solutions"
   },
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "STAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
+    "text": "STAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\n\n\nAdvanced Programming Workshop 4 Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/index.html#course-materials",
     "href": "teaching/index.html#course-materials",
     "title": "Teaching",
     "section": "",
-    "text": "STAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
+    "text": "STAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\n\n\nAdvanced Programming Workshop 4 Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html",
