@@ -42,18 +42,25 @@
     "text": "Resources\n\n Code Repository"
   },
   {
-    "objectID": "teaching/course-materials/stat205.html",
-    "href": "teaching/course-materials/stat205.html",
-    "title": "Introduction to Statistical Inquiry",
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html",
+    "title": "File I/O in Java Workshop Manual",
     "section": "",
-    "text": "Instructor\n\n\nAdel Mohammadpour\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+    "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
   },
   {
-    "objectID": "teaching/course-materials/stat205.html#resources",
-    "href": "teaching/course-materials/stat205.html#resources",
-    "title": "Introduction to Statistical Inquiry",
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#overview",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html#overview",
+    "title": "File I/O in Java Workshop Manual",
+    "section": "Overview",
+    "text": "Overview\nThe course consisted of weekly workshops, and a group of teaching assistants were assigned to prepare the workshop materials. This workshop was online, and students were required to solve and submit their solutions to problems in the manual."
+  },
+  {
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#resources",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html#resources",
+    "title": "File I/O in Java Workshop Manual",
     "section": "Resources",
-    "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
+    "text": "Resources\n\n PDF  Solutions"
   },
   {
     "objectID": "posts/index.html",
@@ -105,25 +112,18 @@
     "text": "Conclusion\nWhile I developed a new worldview after discovering Stoicism during the pandemic, I over-isolated myself, and I missed out on many things. I am now too far from my Stoic studies, and in general, I undervalue solo activities these days, and while I do not abondon them, I’d rather spend whatever time I have left socializing, or in other words, getting out of my comfort zone. We change as humans, and we should all take that into account. I might not want something now, but what guarantee is there that I will remain such? Nothing is certain, and the future uncertainties should be factored into our present affairs."
   },
   {
-    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html",
-    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html",
-    "title": "File I/O in Java Workshop Manual",
+    "objectID": "teaching/course-materials/stat205.html",
+    "href": "teaching/course-materials/stat205.html",
+    "title": "Introduction to Statistical Inquiry",
     "section": "",
-    "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+    "text": "Instructor\n\n\nAdel Mohammadpour\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
   },
   {
-    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html#overview",
-    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html#overview",
-    "title": "File I/O in Java Workshop Manual",
-    "section": "Overview",
-    "text": "Overview\nThe course consisted of weekly workshops, and a group of teaching assistants were assigned to prepare the workshop materials. This workshop was online, and students were required to solve and submit their solutions to problems in the manual."
-  },
-  {
-    "objectID": "teaching/course-materials/java-file-io.qmd/java-file-io.html#resources",
-    "href": "teaching/course-materials/java-file-io.qmd/java-file-io.html#resources",
-    "title": "File I/O in Java Workshop Manual",
+    "objectID": "teaching/course-materials/stat205.html#resources",
+    "href": "teaching/course-materials/stat205.html#resources",
+    "title": "Introduction to Statistical Inquiry",
     "section": "Resources",
-    "text": "Resources\n\n PDF  Solutions"
+    "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
   },
   {
     "objectID": "teaching/index.html",
