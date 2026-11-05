@@ -100,3 +100,92 @@
 .listing-subtitle a:hover {
   color: var(--bs-body-color) !important;
 }
+
+/* -------------------------------------------------------------------
+   Action buttons: visible outline + text in both light and dark mode
+------------------------------------------------------------------- */
+
+/* Define the custom adaptive-outline button (was previously undefined) */
+.btn-adaptive-outline {
+  color: var(--bs-primary) !important;
+  border: 1px solid var(--bs-primary) !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+}
+
+.btn-adaptive-outline:hover,
+.btn-adaptive-outline:focus {
+  color: #fff !important;
+  background-color: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
+
+/* Force buttons (in listings, descriptions, metadata, or on regular pages)
+   to keep their own color/border — otherwise the inherit rules above win */
+a.btn-outline-primary,
+a.btn-adaptive-outline,
+.quarto-post .listing-description a.btn-outline-primary,
+.quarto-post .listing-description a.btn-adaptive-outline,
+.quarto-post .metadata a.btn-outline-primary,
+.quarto-post .metadata a.btn-adaptive-outline,
+.quarto-post .delink a.btn-outline-primary,
+.quarto-post .delink a.btn-adaptive-outline {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+  color: var(--bs-primary) !important;
+  border: 1px solid var(--bs-primary) !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+
+/* Make sure the icon takes the button's own color, not an inherited one */
+a.btn .fa,
+a.btn .fa::before,
+a.btn svg {
+  color: inherit !important;
+}
+
+/* -------------------------------------------------------------------
+   Dark mode: brighten the accent so the button is visible on dark bg
+------------------------------------------------------------------- */
+[data-bs-theme="dark"] .btn-outline-primary,
+[data-bs-theme="dark"] .btn-adaptive-outline,
+[data-bs-theme="dark"] .quarto-post .listing-description a.btn-outline-primary,
+[data-bs-theme="dark"] .quarto-post .listing-description a.btn-adaptive-outline,
+[data-bs-theme="dark"] .quarto-post .metadata a.btn-outline-primary,
+[data-bs-theme="dark"] .quarto-post .metadata a.btn-adaptive-outline {
+  color: #6ea8fe !important;
+  border: 1px solid #6ea8fe !important;
+  background-color: transparent !important;
+}
+
+[data-bs-theme="dark"] .btn-outline-primary:hover,
+[data-bs-theme="dark"] .btn-adaptive-outline:hover,
+[data-bs-theme="dark"] .quarto-post .listing-description a.btn-outline-primary:hover,
+[data-bs-theme="dark"] .quarto-post .listing-description a.btn-adaptive-outline:hover {
+  color: #0b0f14 !important;
+  background-color: #6ea8fe !important;
+  border-color: #6ea8fe !important;
+}
+
+/* Light mode: give btn-outline-primary the same fill-on-hover as btn-adaptive-outline */
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.quarto-post .listing-description a.btn-outline-primary:hover,
+.quarto-post .metadata a.btn-outline-primary:hover,
+.quarto-post .delink a.btn-outline-primary:hover {
+  color: #fff !important;
+  background-color: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
+
+/* Keep the icon readable when the button fills */
+.btn-outline-primary:hover .fa,
+.btn-outline-primary:hover .fa::before,
+.btn-outline-primary:hover svg,
+.btn-adaptive-outline:hover .fa,
+.btn-adaptive-outline:hover .fa::before,
+.btn-adaptive-outline:hover svg {
+  color: inherit !important;
+}

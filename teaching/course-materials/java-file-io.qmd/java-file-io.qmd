@@ -1,0 +1,37 @@
+---
+title: "File I/O in Java Workshop Manual"
+instructor:
+    - "Mehdi Ghatee"
+    - "Behnam Yousefimehr"
+coauthor: "Parsa H. Rafsanjani"
+date: "2024-03-12"
+description: "Advanced Programming Workshop 4 Manual @ Amirkabir University of Technology (Tehran Polytechnic)"
+format:
+  html:
+    toc: true
+---
+
+:::{.quarto-about-meta style="display: flex; gap: 3rem; margin-bottom: 1.5rem;"}
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Instructors</div>
+  <div style="font-weight: 500;">Mehdi Ghatee & Behnam Yousefimehr</div>
+</div>
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Author</div>
+  <div style="font-weight: 500;">Parsa H. Rafsanjani</div>
+</div>
+:::
+
+## Overview
+
+The course consisted of weekly workshops,
+and a group of teaching assistants were assigned to prepare the workshop materials.
+This workshop was online,
+and students were required to solve and submit their solutions to problems in the manual.
+
+## Resources
+
+:::{.d-flex .gap-2 .flex-wrap .mb-4}
+[{{< fa file-pdf >}} PDF](/teaching/course-materials/ap-aut.qmd/lab4.pdf){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[{{< fa file-zipper >}} Solutions](/teaching/course-materials/ap-aut.qmd/lab4_solutions.zip){.btn .btn-sm .btn-adaptive-outline role="button"}
+:::
