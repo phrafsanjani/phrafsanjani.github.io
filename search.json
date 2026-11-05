@@ -44,21 +44,21 @@
   {
     "objectID": "teaching/course-materials/java-file-io/java-file-io.html",
     "href": "teaching/course-materials/java-file-io/java-file-io.html",
-    "title": "File I/O in Java Workshop Manual",
+    "title": "File I/O and Serialization in Java Lab Manual",
     "section": "",
     "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
   },
   {
     "objectID": "teaching/course-materials/java-file-io/java-file-io.html#overview",
     "href": "teaching/course-materials/java-file-io/java-file-io.html#overview",
-    "title": "File I/O in Java Workshop Manual",
+    "title": "File I/O and Serialization in Java Lab Manual",
     "section": "Overview",
-    "text": "Overview\nThe course consisted of weekly workshops, and a group of teaching assistants were assigned to prepare the workshop materials. This workshop was online, and students were required to solve and submit their solutions to problems in the manual."
+    "text": "Overview\nThis manual provides the practical guide and problem set for Lab 4: File I/O and Serialization, conducted as part of the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology.\nDelivered as an online session on 13 March 2024, the workshop was designed to give students hands-on experience with Java’s stream architectures, file input/output operations, and object serialization. Students had to work through guided programming exercises and submit their completed solutions for assessment."
   },
   {
     "objectID": "teaching/course-materials/java-file-io/java-file-io.html#resources",
     "href": "teaching/course-materials/java-file-io/java-file-io.html#resources",
-    "title": "File I/O in Java Workshop Manual",
+    "title": "File I/O and Serialization in Java Lab Manual",
     "section": "Resources",
     "text": "Resources\n\n PDF  Solutions"
   },
@@ -130,21 +130,21 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Numerical Linear Algebra | Teaching Assistant (Jan. 2024 – Feb. 2026)\n\nInstructor: Prof. Mehdi Dehghan\nResponsibilities: Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.\n\nAdvanced Programming | Teaching Assistant (Jan. 2024 – July 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed Persian lecture notes on Java classes and File I/O, delivered weekly lab lectures, and created practical projects (Image Viewer, RSS Reader).\n\nArtificial Intelligence | Teaching Assistant (Sept. 2023 – Feb. 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.\n\nPrinciples of Operating Systems | Teaching Assistant (Feb. 2023 – July 2023)\n\nInstructor: Dr. Mohammad Mahdi Bejani\nResponsibilities: Developed project concepts and evaluated student performance through oral exams."
+    "text": "Numerical Linear Algebra | Teaching Assistant (Jan. 2024 – Feb. 2026)\n\nInstructor: Prof. Mehdi Dehghan\nResponsibilities: Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.\n\nAdvanced Programming | Teaching Assistant (Jan. 2024 – July 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed Persian lecture notes on Java classes and File I/O, delivered weekly lab lectures, and designed practical projects (Image Viewer, RSS Reader).\n\nArtificial Intelligence | Teaching Assistant (Sept. 2023 – Feb. 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.\n\nPrinciples of Operating Systems | Teaching Assistant (Feb. 2023 – July 2023)\n\nInstructor: Dr. Mohammad Mahdi Bejani\nResponsibilities: Developed project concepts and evaluated student performance through oral assessments."
   },
   {
     "objectID": "teaching/index.html#teaching-experience",
     "href": "teaching/index.html#teaching-experience",
     "title": "Teaching",
     "section": "",
-    "text": "Numerical Linear Algebra | Teaching Assistant (Jan. 2024 – Feb. 2026)\n\nInstructor: Prof. Mehdi Dehghan\nResponsibilities: Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.\n\nAdvanced Programming | Teaching Assistant (Jan. 2024 – July 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed Persian lecture notes on Java classes and File I/O, delivered weekly lab lectures, and created practical projects (Image Viewer, RSS Reader).\n\nArtificial Intelligence | Teaching Assistant (Sept. 2023 – Feb. 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.\n\nPrinciples of Operating Systems | Teaching Assistant (Feb. 2023 – July 2023)\n\nInstructor: Dr. Mohammad Mahdi Bejani\nResponsibilities: Developed project concepts and evaluated student performance through oral exams."
+    "text": "Numerical Linear Algebra | Teaching Assistant (Jan. 2024 – Feb. 2026)\n\nInstructor: Prof. Mehdi Dehghan\nResponsibilities: Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.\n\nAdvanced Programming | Teaching Assistant (Jan. 2024 – July 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed Persian lecture notes on Java classes and File I/O, delivered weekly lab lectures, and designed practical projects (Image Viewer, RSS Reader).\n\nArtificial Intelligence | Teaching Assistant (Sept. 2023 – Feb. 2024)\n\nInstructor: Prof. Mehdi Ghatee\nResponsibilities: Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.\n\nPrinciples of Operating Systems | Teaching Assistant (Feb. 2023 – July 2023)\n\nInstructor: Dr. Mohammad Mahdi Bejani\nResponsibilities: Developed project concepts and evaluated student performance through oral assessments."
   },
   {
     "objectID": "teaching/index.html#course-materials",
     "href": "teaching/index.html#course-materials",
     "title": "Teaching",
     "section": "Course Materials",
-    "text": "Course Materials\n\n\n\n\n\nIntroduction to Statistical Inquiry\n\n\nEnglish\n\n\n\nSTAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\nFile I/O in Java Workshop Manual\n\n\nPersian\n\n\n\nAdvanced Programming Workshop 4 Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
+    "text": "Course Materials\n\n\n\n\n\nIntroduction to Statistical Inquiry\n\n\nEnglish\n\n\n\nSTAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\nFile I/O and Serialization in Java Lab Manual\n\n\nPersian\n\n\n\nAdvanced Programming Workshop 4 Lab Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html",
