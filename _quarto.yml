@@ -25,6 +25,9 @@ format:
         - cosmo
         - brand
         - theme-dark.scss
+    highlight-style:
+      light: github
+      dark: github-dark
     css: styles.css
     toc: true
 

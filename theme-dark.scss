@@ -64,3 +64,30 @@ table {
   --bs-table-color: #e6e6e6;
   --bs-table-border-color: #333;
 }
+
+/* -------------------------------------------------------------------
+   Consistent, Borderless Single-Layer Code Block for Dark Mode
+------------------------------------------------------------------- */
+div.code-copy-outer-scaffold {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+.sourceCode,
+pre.sourceCode {
+  background-color: #1f242d !important; /* Soft, elevated dark-slate tone matching light-mode's elevation */
+  color: #e6edf3 !important;
+  border: none !important;               /* Clean and borderless, exactly like light mode */
+  border-radius: 6px !important;
+  box-shadow: none !important;
+}
+
+div.code-copy-outer-scaffold code,
+.sourceCode code,
+pre.sourceCode code {
+  background-color: transparent !important;
+  color: inherit !important;
+  border: none !important;
+}

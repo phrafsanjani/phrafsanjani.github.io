@@ -1,0 +1,45 @@
+---
+title: "RSS Reader Project"
+subtitle: "Persian"
+instructor:
+    - "Mehdi Ghatee"
+    - "Behnam Yousefimehr"
+coauthor: "Parsa H. Rafsanjani"
+date: "2024-03-31"
+description: "Advanced Programming Project @ Amirkabir University of Technology (Tehran Polytechnic)"
+format:
+  html:
+    toc: true
+---
+
+:::{.quarto-about-meta style="display: flex; gap: 3rem; margin-bottom: 1.5rem;"}
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Instructors</div>
+  <div style="font-weight: 500;">Mehdi Ghatee & Behnam Yousefimehr</div>
+</div>
+<div>
+  <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--quarto-text-muted-color, #888); margin-bottom: 0.25rem;">Author</div>
+  <div style="font-weight: 500;">Parsa H. Rafsanjani</div>
+</div>
+:::
+
+## Overview
+
+This project was one of the many proposed projects for the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology.
+Students were provided with a guide, and later with necessary imports:
+```Java
+import org.jsoup.*;
+import org.w3c.dom.Element;
+import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import java.net.*;
+```
+
+## Resources
+
+:::{.d-flex .gap-2 .flex-wrap .mb-4}
+[{{< fa file-pdf >}} Guide](/teaching/course-materials/rss-reader/guide.pdf){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[{{< fa brands github >}} Solution](https://github.com/phrafsanjani/rss-reader){.btn .btn-sm .btn-adaptive-outline role="button" target="_blank"}
+:::
