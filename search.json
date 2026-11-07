@@ -42,32 +42,39 @@
     "text": "Resources\n\n Code Repository"
   },
   {
-    "objectID": "teaching/course-materials/java-file-io/java-file-io.html",
-    "href": "teaching/course-materials/java-file-io/java-file-io.html",
-    "title": "File I/O and Serialization in Java Lab Manual",
+    "objectID": "teaching/course-materials/rss-reader/rss-reader.html",
+    "href": "teaching/course-materials/rss-reader/rss-reader.html",
+    "title": "RSS Reader Project",
     "section": "",
     "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
   },
   {
-    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#overview",
-    "href": "teaching/course-materials/java-file-io/java-file-io.html#overview",
-    "title": "File I/O and Serialization in Java Lab Manual",
+    "objectID": "teaching/course-materials/rss-reader/rss-reader.html#overview",
+    "href": "teaching/course-materials/rss-reader/rss-reader.html#overview",
+    "title": "RSS Reader Project",
     "section": "Overview",
-    "text": "Overview\nThis manual provides the practical guide and problem set for Lab 4: File I/O and Serialization, conducted as part of the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology.\nDelivered as an online session on 13 March 2024, the workshop was designed to give students hands-on experience with Java’s stream architectures, file input/output operations, and object serialization. Students had to work through guided programming exercises and submit their completed solutions for assessment."
+    "text": "Overview\nThis project was one of the many proposed projects for the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology. Students were provided with a guide, and later with necessary imports:\nimport org.jsoup.*;\nimport org.w3c.dom.Element;\nimport org.w3c.dom.NodeList;\nimport org.w3c.dom.Node;\nimport javax.xml.parsers.DocumentBuilder;\nimport javax.xml.parsers.DocumentBuilderFactory;\nimport java.net.*;"
   },
   {
-    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#resources",
-    "href": "teaching/course-materials/java-file-io/java-file-io.html#resources",
-    "title": "File I/O and Serialization in Java Lab Manual",
+    "objectID": "teaching/course-materials/rss-reader/rss-reader.html#resources",
+    "href": "teaching/course-materials/rss-reader/rss-reader.html#resources",
+    "title": "RSS Reader Project",
     "section": "Resources",
-    "text": "Resources\n\n PDF  Solutions"
+    "text": "Resources\n\n Guide  Solution"
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Posts",
+    "objectID": "teaching/course-materials/stat205.html",
+    "href": "teaching/course-materials/stat205.html",
+    "title": "Introduction to Statistical Inquiry",
     "section": "",
-    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
+    "text": "Instructor\n\n\nAdel Mohammadpour\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+  },
+  {
+    "objectID": "teaching/course-materials/stat205.html#resources",
+    "href": "teaching/course-materials/stat205.html#resources",
+    "title": "Introduction to Statistical Inquiry",
+    "section": "Resources",
+    "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
   },
   {
     "objectID": "posts/post-pandemic-reflections.html",
@@ -112,18 +119,32 @@
     "text": "Conclusion\nWhile I developed a new worldview after discovering Stoicism during the pandemic, I over-isolated myself, and I missed out on many things. I am now too far from my Stoic studies, and in general, I undervalue solo activities these days, and while I do not abondon them, I’d rather spend whatever time I have left socializing, or in other words, getting out of my comfort zone. We change as humans, and we should all take that into account. I might not want something now, but what guarantee is there that I will remain such? Nothing is certain, and the future uncertainties should be factored into our present affairs."
   },
   {
-    "objectID": "teaching/course-materials/stat205.html",
-    "href": "teaching/course-materials/stat205.html",
-    "title": "Introduction to Statistical Inquiry",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
     "section": "",
-    "text": "Instructor\n\n\nAdel Mohammadpour\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+    "text": "These posts are written entirely by myself. After I finish my drafts, I use Grammarly to check for grammatical mistakes, and if I think more sophisticated guidance is needed, I ask some LLM for any remaining doubts. Otherwise, I do not use any LLM-generated sentences, even if my own sound cringe in an LLM’s “opinion”, as I intend to use my own voice without any alterations.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPost-pandemic Reflections and Worldview Alterations: On Solitude and Connections\n\n\n\nPandemic\n\nSolitude\n\nSocial Media\n\nSeneca\n\nStoicism\n\n\n\n\nIn this post, I write about the worldview and perspectives I developed during the COVID-19 pandemic, and what changed after that. I write about the value of human connections, my thoughts on social media, embracing the fact that we may change in the future, and living in the present while also embracing the past.\n\n\n\n\n\n\nAug 4, 2026\n\n\nParsa H. Rafsanjani\n\n5 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching/course-materials/stat205.html#resources",
-    "href": "teaching/course-materials/stat205.html#resources",
-    "title": "Introduction to Statistical Inquiry",
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html",
+    "title": "File I/O and Serialization in Java Lab Manual",
+    "section": "",
+    "text": "Instructors\n\n\nMehdi Ghatee & Behnam Yousefimehr\n\n\n\n\nAuthor\n\n\nParsa H. Rafsanjani"
+  },
+  {
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#overview",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html#overview",
+    "title": "File I/O and Serialization in Java Lab Manual",
+    "section": "Overview",
+    "text": "Overview\nThis manual provides the practical guide and problem set for Lab 4: File I/O and Serialization, conducted as part of the Advanced Programming course (Spring Semester 2024) at Amirkabir University of Technology.\nDelivered as an online session on 13 March 2024, the workshop was designed to give students hands-on experience with Java’s stream architectures, file input/output operations, and object serialization. Students had to work through guided programming exercises and submit their completed solutions for assessment."
+  },
+  {
+    "objectID": "teaching/course-materials/java-file-io/java-file-io.html#resources",
+    "href": "teaching/course-materials/java-file-io/java-file-io.html#resources",
+    "title": "File I/O and Serialization in Java Lab Manual",
     "section": "Resources",
-    "text": "Resources\n\nSample Chapter(s)\nCourse Webpage"
+    "text": "Resources\n\n PDF  Solutions"
   },
   {
     "objectID": "teaching/index.html",
@@ -144,7 +165,7 @@
     "href": "teaching/index.html#course-materials",
     "title": "Teaching",
     "section": "Course Materials",
-    "text": "Course Materials\n\n\n\n\n\nIntroduction to Statistical Inquiry\n\n\nEnglish\n\n\n\nSTAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\nFile I/O and Serialization in Java Lab Manual\n\n\nPersian\n\n\n\nAdvanced Programming Workshop 4 Lab Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
+    "text": "Course Materials\n\n\n\n\n\nIntroduction to Statistical Inquiry\n\n\nEnglish\n\n\n\nSTAT205 Course Notes @ The University of Calgary\n\n\n\n\n\n\nApr 24, 2025\n\n\nAdel Mohammadpour\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\nRSS Reader Project\n\n\nPersian\n\n\n\nAdvanced Programming Project @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 31, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\n\n\nFile I/O and Serialization in Java Lab Manual\n\n\nPersian\n\n\n\nAdvanced Programming Workshop 4 Lab Manual @ Amirkabir University of Technology (Tehran Polytechnic)\n\n\n\n\n\n\nMar 12, 2024\n\n\nMehdi Ghatee,Behnam Yousefimehr\n\n\nParsa H. Rafsanjani\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html",

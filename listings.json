@@ -9,6 +9,7 @@
     "listing": "/teaching/index.html",
     "items": [
       "/teaching/course-materials/stat205.html",
+      "/teaching/course-materials/rss-reader/rss-reader.html",
       "/teaching/course-materials/java-file-io/java-file-io.html"
     ]
   },
