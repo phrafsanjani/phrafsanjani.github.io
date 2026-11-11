@@ -6,6 +6,7 @@ instructor:
     - "Behnam Yousefimehr"
 coauthor: "Parsa H. Rafsanjani"
 date: "2024-03-12"
+image: "thumbnail.png"
 description: "Advanced Programming Workshop 4 Lab Manual @ Amirkabir University of Technology (Tehran Polytechnic)"
 format:
   html:
