@@ -16,7 +16,8 @@ listing:
 ### Numerical Linear Algebra
 **Teaching Assistant** | Instructor: Prof. Mehdi Dehghan | *Jan. 2024 – Feb. 2026*
 
-- Developed project concepts and designed theoretical and practical Python exercises.
+- Proposed project concepts.
+- Designed theoretical and practical Python exercises.
 - Edited and proofread official course lecture notes.
 - Administered oral examinations and evaluated student performance.
 
@@ -24,7 +25,8 @@ listing:
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Jan. 2024 – July 2024*
 
 - Authored lecture notes on [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd) and Classes in Java.
-- Delivered weekly lab lectures and designed practical projects, including an Image Viewer and an [RSS Reader](/teaching/course-materials/rss-reader/rss-reader.qmd).
+- Delivered weekly lab lectures.
+- Designed practical projects, including [RSS Reader](/teaching/course-materials/rss-reader/rss-reader.qmd) and Image Viewer.
 - Administered oral examinations and evaluated student performance.
 
 ### Artificial Intelligence
@@ -32,12 +34,13 @@ listing:
 
 - Selected as 1 of 10 teaching assistants from a pool of 34 applicants.
 - Designed project guidelines aligned with course syllabus requirements.
-- Delivered a guest lecture on probabilistic reasoning and supported students with coursework.
+- Organized a final review session and delivered a guest lecture on probabilistic reasoning.
+- Supported students with homework assignments.
 
 ### Principles of Operating Systems
 **Teaching Assistant** | Instructor: Dr. Mohammad Mahdi Bejani | *Feb. 2023 – July 2023*
 
-- Proposed and scoped practical course project concepts.
+- Proposed practical course project concepts.
 - Evaluated student performance through one-on-one oral assessments.
 
 ## Course Materials
