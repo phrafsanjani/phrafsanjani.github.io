@@ -5,7 +5,7 @@ listing:
     contents: "course-materials"
     type: default
     sort: "date desc"
-    fields: [image, date, title, subtitle, instructor, description]
+    fields: [image, date, title, subtitle, instructor, coauthor, description]
     field-display-names:
       instructor: "Instructor"
       coauthor: "Author"
