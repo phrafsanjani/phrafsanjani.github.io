@@ -1,0 +1,88 @@
+---
+title: "Projects"
+toc: true
+toc-location: right
+---
+
+## Statistical Software
+
+### `scalexptest`: Scale-Exponential Hypothesis Testing
+**Language:** R  
+A supplementary R package accompanying [*Unified Hypothesis Testing in the Scale-Exponential Family*](/publications/journal-articles/scalexptest.qmd) (*METRON*, 2026).
+Computes critical regions and statistical power values across distributions derived from the general scale-exponential family framework.
+
+---
+
+## Linux
+
+### Arch Linux Automated Installer (`arch-install`) (In Progress) with Installation Guide
+**Language:** Shell  
+**Links:** [GitHub Repository](https://github.com/phrafsanjani/arch-install) | [Installation Guide (Wiki)](https://github.com/phrafsanjani/arch-install/wiki)  
+An automation script and configuration framework for bootstrapping UEFI-only Arch Linux installations featuring LUKS encryption, Btrfs subvolumes, a swap file, and GRUB.
+Includes post-installation setup for a minimal KDE Plasma (to be replaced with Hyprland) environment and Snapper snapshots.
+
+### Arch Linux + Hyprland Dotfiles
+**Tech:** Shell, Lua  
+**Links:** [GitHub Repository](https://github.com/phrafsanjani/dotfiles)  
+My personal custom configuration files and scripts for a minimalist,
+keyboard-driven Arch Linux +‌ Hyprland environment.
+
+---
+
+## Miscellaneous
+
+### Julia Franklin "Expert Kitty" Theme
+**Languages:** Julia, HTML, CSS, JavaScript  
+**Library:** Franklin  
+**Links:** [GitHub Repository](https://github.com/phrafsanjani/expert-kitty) | [Franklin Templates](https://github.com/JuliaDocs/FranklinTemplates.jl) | [Franklin Themes Preview](https://juliadocs.org/FranklinTemplates.jl/)  
+A clean, minimalist academic portfolio theme built for the Franklin.jl static site generator, which was officially merged into the [Julia Docs template repository](https://github.com/JuliaDocs/FranklinTemplates.jl).
+
+### Subtitle Workshop
+**Languages:** JavaScript, HTML, CSS  
+**Framework:** Express.js  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/subtitle-workshop)  
+A web app for processing, editing, and converting subtitle tracks and timeline formats.
+
+---
+
+## Selected Undergraduate Projects
+
+### Multilayer Perceptron (MLP) & Autodiff Engine from Scratch
+**Language:** Python  
+**Link:** [Notebook](/assets/notebooks/mlp.ipynb)  
+A modular neural network framework built without external deep learning libraries.
+Implements custom `Layer` and `Neuron` classes, an automatic differentiation engine for backpropagation, and gradient-based optimization.
+
+### Perceptron Classifier from Scratch
+**Language:** Python  
+**Libraries:** scikit-learn, NumPy, Matplotlib  
+**Link:** [Notebook](/assets/notebooks/perceptron.ipynb)  
+A minimal implementation of the classical Rosenblatt perceptron learning algorithm built from scratch and applied to binary classification on a toy dataset.
+
+### Hybrid MPSO-CNN
+**Tech:** Python  
+**Libraries:** TensorFlow, NumPy  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/Hybrid-MPSO-CNN)  
+Implementation of the paper Hybrid MPSO-CNN: Multi-level Particle Swarm optimized hyperparameters of Convolutional Neural Network by Pratibha Singh, Santanu Chaudhury, and Bijaya Ketan Panigrahi,
+utilizing swarm intelligence to optimize CNN architectural hyperparameters.
+
+### N-Queen Evolutionary Algorithm
+**Language:** Python  
+**Libraries:** NumPy, Pygame  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/n-queen-evolutionary-algorithm)  
+An evolutionary computation approach solving the classical $N$-Queen problem using metaheuristic optimization techniques.
+
+### Sudoku Solver
+**Language:** Python  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/sudoku-solver)  
+An algorithmic solver utilizing constraint satisfaction and backtracking logic to solve arbitrary Sudoku puzzles efficiently.
+
+### Task Manager CLI
+**Language:** C++  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/task-manager)  
+A program to divide and manage tasks of an organization between the employees.
+
+### Conway's Game of Life
+**Language:** Python  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/game-of-life)  
+An implementation of John Conway's cellular automaton cellular simulation.
