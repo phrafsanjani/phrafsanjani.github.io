@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: About
       - publications/index.qmd
+      - projects/index.qmd
       - posts/index.qmd
       - href: https://phrafsanjani.substack.com/
         text: Newsletter
