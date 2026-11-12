@@ -13,20 +13,32 @@ listing:
 
 ## Teaching Experience
 
-### Teaching Assistance
+### Numerical Linear Algebra
+**Teaching Assistant** | Instructor: Prof. Mehdi Dehghan | *Jan. 2024 – Feb. 2026*
 
-*   **Numerical Linear Algebra** | *Teaching Assistant* (Jan. 2024 – Feb. 2026)
-    * **Instructor:** Prof. Mehdi Dehghan
-    * **Responsibilities:** Developed Python exercises and project ideas, edited lecture notes, and administered oral examinations.
-*   **Advanced Programming** | *Teaching Assistant* (Jan. 2024 – July 2024)
-    * **Instructor:** Prof. Mehdi Ghatee
-    * **Responsibilities:** Designed Persian lecture notes on Java classes and [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd), delivered weekly lab lectures, and designed practical projects (Image Viewer, [RSS Reader](/teaching/course-materials/rss-reader/rss-reader.qmd)).
-*   **Artificial Intelligence** | *Teaching Assistant* (Sept. 2023 – Feb. 2024)
-    * **Instructor:** Prof. Mehdi Ghatee
-    * **Responsibilities:** Designed project guidelines, delivered a lecture on probabilistic reasoning, and supported students with homework assignments.
-*   **Principles of Operating Systems** | *Teaching Assistant* (Feb. 2023 – July 2023)
-    * **Instructor:** Dr. Mohammad Mahdi Bejani
-    * **Responsibilities:** Developed project concepts and evaluated student performance through oral assessments.
+- Developed project concepts and designed theoretical and practical Python exercises.
+- Edited and proofread official course lecture notes.
+- Administered oral examinations and evaluated student performance.
+
+### Advanced Programming
+**Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Jan. 2024 – July 2024*
+
+- Authored lecture notes on [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd) and Classes in Java.
+- Delivered weekly lab lectures and designed practical projects, including an Image Viewer and an [RSS Reader](/teaching/course-materials/rss-reader/rss-reader.qmd).
+- Administered oral examinations and evaluated student performance.
+
+### Artificial Intelligence
+**Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Sept. 2023 – Feb. 2024*
+
+- Selected as 1 of 10 teaching assistants from a pool of 34 applicants.
+- Designed project guidelines aligned with course syllabus requirements.
+- Delivered a guest lecture on probabilistic reasoning and supported students with coursework.
+
+### Principles of Operating Systems
+**Teaching Assistant** | Instructor: Dr. Mohammad Mahdi Bejani | *Feb. 2023 – July 2023*
+
+- Proposed and scoped practical course project concepts.
+- Evaluated student performance through one-on-one oral assessments.
 
 ## Course Materials
 
