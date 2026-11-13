@@ -1,5 +1,5 @@
 ---
-title: "Unified Hypothesis Testing in the Scale-Exponential Family (Provisionally Accepted)"
+title: "Unified Hypothesis Testing in the Scale-Exponential Family (Accepted)"
 subtitle: "METRON"
 author:
   - name: Parsa H. Rafsanjani
@@ -8,7 +8,7 @@ author:
   - name: Adel Mohammadpour
     orcid: 0000-0002-5079-7025
     affiliation: University of Calgary
-date: ""
+date: "2026-11-13"
 categories: [Journal Article, Mathematical Statistics, Hypothesis Testing]
 description: |
   <a href="#" class="btn btn-success btn-sm" target="_blank">DOI</a>
