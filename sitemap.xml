@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://phrafsanjani.github.io/index.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/publications/journal-articles/scalexptest.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/teaching/course-materials/rss-reader/rss-reader.html</loc>
-    <lastmod>2026-11-12T13:59:14.617Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/teaching/course-materials/stat205.html</loc>
-    <lastmod>2026-11-12T13:59:14.618Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/posts/index.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/assets/notebooks/mlp.html</loc>
-    <lastmod>2026-11-12T13:59:14.606Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/assets/notebooks/perceptron.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/posts/post-pandemic-reflections.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/projects/index.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phrafsanjani.github.io/teaching/course-materials/java-file-io/java-file-io.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
+    <loc>https://phrafsanjani.github.io/publications/index.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
   </url>
   <url>
     <loc>https://phrafsanjani.github.io/teaching/index.html</loc>
-    <lastmod>2026-11-12T13:59:14.618Z</lastmod>
+    <lastmod>2026-11-13T14:42:49.904Z</lastmod>
   </url>
   <url>
-    <loc>https://phrafsanjani.github.io/publications/index.html</loc>
-    <lastmod>2026-11-12T13:59:14.607Z</lastmod>
+    <loc>https://phrafsanjani.github.io/teaching/course-materials/stat205.html</loc>
+    <lastmod>2026-11-13T14:42:49.904Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/index.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/assets/notebooks/mlp.html</loc>
+    <lastmod>2026-11-13T14:42:49.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/posts/post-pandemic-reflections.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/projects/index.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/posts/index.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/assets/notebooks/perceptron.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/teaching/course-materials/java-file-io/java-file-io.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/teaching/course-materials/rss-reader/rss-reader.html</loc>
+    <lastmod>2026-11-13T14:42:49.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phrafsanjani.github.io/publications/journal-articles/scalexptest.html</loc>
+    <lastmod>2026-11-13T14:42:49.892Z</lastmod>
   </url>
 </urlset>

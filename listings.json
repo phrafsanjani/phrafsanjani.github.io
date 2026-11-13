@@ -1,8 +1,8 @@
 [
   {
-    "listing": "/posts/index.html",
+    "listing": "/publications/index.html",
     "items": [
-      "/posts/post-pandemic-reflections.html"
+      "/publications/journal-articles/scalexptest.html"
     ]
   },
   {
@@ -14,9 +14,9 @@
     ]
   },
   {
-    "listing": "/publications/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/publications/journal-articles/scalexptest.html"
+      "/posts/post-pandemic-reflections.html"
     ]
   }
 ]
