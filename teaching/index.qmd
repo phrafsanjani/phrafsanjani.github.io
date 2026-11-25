@@ -24,9 +24,9 @@ listing:
 ### Advanced Programming
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Jan. 2024 – July 2024*
 
-- Authored lecture notes on [File I/O](/teaching/course-materials/java-file-io/java-file-io.qmd) and Classes in Java.
+- Authored lecture notes on [File I/O](/teaching/course-materials/java-file-io/index.qmd) and [Classes in Java](/teaching/course-materials/java-classes/index.qmd).
 - Delivered weekly lab lectures.
-- Designed practical projects, including [RSS Reader](/teaching/course-materials/rss-reader/rss-reader.qmd) and Image Viewer.
+- Designed practical projects, including [RSS Reader](/teaching/course-materials/rss-reader/index.qmd) and Image Viewer.
 - Administered oral examinations and evaluated student performance.
 
 ### Artificial Intelligence
