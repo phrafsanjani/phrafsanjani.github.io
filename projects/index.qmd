@@ -22,8 +22,8 @@ An automation script and configuration framework for bootstrapping UEFI-only Arc
 Includes post-installation setup for a minimal KDE Plasma (to be replaced with Hyprland) environment and Snapper snapshots.
 
 ### Arch Linux + Hyprland Dotfiles
-**Tech:** Shell, Lua  
-**Links:** [GitHub Repository](https://github.com/phrafsanjani/dotfiles)  
+**Languages:** Shell, Lua  
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/dotfiles)  
 My personal custom configuration files and scripts for a minimalist,
 keyboard-driven Arch Linux +‌ Hyprland environment.
 
@@ -34,8 +34,8 @@ keyboard-driven Arch Linux +‌ Hyprland environment.
 ### Julia Franklin "Expert Kitty" Theme
 **Languages:** Julia, HTML, CSS, JavaScript  
 **Library:** Franklin  
-**Links:** [GitHub Repository](https://github.com/phrafsanjani/expert-kitty) | [Franklin Templates](https://github.com/JuliaDocs/FranklinTemplates.jl) | [Franklin Themes Preview](https://juliadocs.org/FranklinTemplates.jl/)  
-A clean, minimalist academic portfolio theme built for the Franklin.jl static site generator, which was officially merged into the [Julia Docs template repository](https://github.com/JuliaDocs/FranklinTemplates.jl).
+**Link:** [GitHub Repository](https://github.com/phrafsanjani/expert-kitty)  
+A clean, minimalist academic portfolio theme built for the Franklin.jl static site generator, which was officially merged into the [Julia Docs template repository](https://github.com/JuliaDocs/FranklinTemplates.jl) (see [here](https://juliadocs.org/FranklinTemplates.jl/) for a showcase of all templates).
 
 ### Subtitle Workshop
 **Languages:** JavaScript, HTML, CSS  
@@ -60,11 +60,10 @@ Implements custom `Layer` and `Neuron` classes, an automatic differentiation eng
 A minimal implementation of the classical Rosenblatt perceptron learning algorithm built from scratch and applied to binary classification on a toy dataset.
 
 ### Hybrid MPSO-CNN
-**Tech:** Python  
+**Language:** Python  
 **Libraries:** TensorFlow, NumPy  
 **Link:** [GitHub Repository](https://github.com/phrafsanjani/Hybrid-MPSO-CNN)  
-Implementation of the paper Hybrid MPSO-CNN: Multi-level Particle Swarm optimized hyperparameters of Convolutional Neural Network by Pratibha Singh, Santanu Chaudhury, and Bijaya Ketan Panigrahi,
-utilizing swarm intelligence to optimize CNN architectural hyperparameters.
+Implementation of Singh, Chaudhury, and Panigrahi (2021), *Hybrid MPSO-CNN: Multi-level Particle Swarm optimized hyperparameters of Convolutional Neural Network* ([DOI](https://doi.org/10.1016/j.swevo.2021.100863)), using swarm intelligence to optimize CNN architectural hyperparameters.
 
 ### N-Queen Evolutionary Algorithm
 **Language:** Python  
