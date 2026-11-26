@@ -13,6 +13,13 @@ listing:
 
 ## Teaching Experience
 
+::: {.ta-entry}
+<div class="edu-logo-wrap">
+  <img src="/assets/img/aut-logo-light.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-light">
+  <img src="/assets/img/aut-logo-dark.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-dark">
+</div>
+
+::: {.ta-content}
 ### Numerical Linear Algebra
 **Teaching Assistant** | Instructor: Prof. Mehdi Dehghan | *Jan. 2024 – Feb. 2026*
 
@@ -20,7 +27,16 @@ listing:
 - Designed theoretical and practical Python exercises.
 - Edited and proofread official course lecture notes.
 - Administered oral examinations and evaluated student performance.
+:::
+:::
 
+::: {.ta-entry}
+<div class="edu-logo-wrap">
+  <img src="/assets/img/aut-logo-light.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-light">
+  <img src="/assets/img/aut-logo-dark.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-dark">
+</div>
+
+::: {.ta-content}
 ### Advanced Programming
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Jan. 2024 – July 2024*
 
@@ -28,7 +44,16 @@ listing:
 - Delivered weekly lab lectures.
 - Designed practical projects, including [RSS Reader](/teaching/course-materials/rss-reader/index.qmd) and Image Viewer.
 - Administered oral examinations and evaluated student performance.
+:::
+:::
 
+::: {.ta-entry}
+<div class="edu-logo-wrap">
+  <img src="/assets/img/aut-logo-light.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-light">
+  <img src="/assets/img/aut-logo-dark.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-dark">
+</div>
+
+::: {.ta-content}
 ### Artificial Intelligence
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Sept. 2023 – Feb. 2024*
 
@@ -36,12 +61,23 @@ listing:
 - Designed project guidelines aligned with course syllabus requirements.
 - Organized a final review session and delivered a guest lecture on probabilistic reasoning.
 - Supported students with homework assignments.
+:::
+:::
 
+::: {.ta-entry}
+<div class="edu-logo-wrap">
+  <img src="/assets/img/aut-logo-light.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-light">
+  <img src="/assets/img/aut-logo-dark.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-dark">
+</div>
+
+::: {.ta-content}
 ### Principles of Operating Systems
 **Teaching Assistant** | Instructor: Dr. Mohammad Mahdi Bejani | *Feb. 2023 – July 2023*
 
 - Proposed practical course project concepts.
 - Evaluated student performance through one-on-one oral assessments.
+:::
+:::
 
 ## Course Materials
 

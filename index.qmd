@@ -24,7 +24,17 @@ about:
 
 ## Education
 
-Amirkabir University of Technology (Tehran Polytechnic) | B.Sc. in Computer Sciences | Nov. 2020 - Jan. 2025
+::: {.edu-item}
+<div class="edu-logo-wrap">
+  <img src="/assets/img/aut-logo-light.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-light">
+  <img src="/assets/img/aut-logo-dark.png" alt="Amirkabir University of Technology logo" class="edu-logo logo-dark">
+</div>
+
+::: {.edu-details}
+**Amirkabir University of Technology (Tehran Polytechnic)**  
+B.Sc. in Computer Sciences | Nov. 2020 – Jan. 2025
+:::
+:::
 
 ## Research Interests
 
