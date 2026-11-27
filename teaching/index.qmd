@@ -21,6 +21,7 @@ listing:
 
 ::: {.ta-content}
 ### Numerical Linear Algebra
+<div class="ta-institution">Amirkabir University of Technology (Tehran Polytechnic)</div>
 **Teaching Assistant** | Instructor: Prof. Mehdi Dehghan | *Jan. 2024 – Feb. 2026*
 
 - Proposed project concepts.
@@ -38,6 +39,7 @@ listing:
 
 ::: {.ta-content}
 ### Advanced Programming
+<div class="ta-institution">Amirkabir University of Technology (Tehran Polytechnic)</div>
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Jan. 2024 – July 2024*
 
 - Authored lecture notes on [File I/O](/teaching/course-materials/java-file-io/index.qmd) and [Classes in Java](/teaching/course-materials/java-classes/index.qmd).
@@ -55,6 +57,7 @@ listing:
 
 ::: {.ta-content}
 ### Artificial Intelligence
+<div class="ta-institution">Amirkabir University of Technology (Tehran Polytechnic)</div>
 **Teaching Assistant** | Instructor: Prof. Mehdi Ghatee | *Sept. 2023 – Feb. 2024*
 
 - Selected as 1 of 10 teaching assistants from a pool of 34 applicants.
@@ -72,6 +75,7 @@ listing:
 
 ::: {.ta-content}
 ### Principles of Operating Systems
+<div class="ta-institution">Amirkabir University of Technology (Tehran Polytechnic)</div>
 **Teaching Assistant** | Instructor: Dr. Mohammad Mahdi Bejani | *Feb. 2023 – July 2023*
 
 - Proposed practical course project concepts.
